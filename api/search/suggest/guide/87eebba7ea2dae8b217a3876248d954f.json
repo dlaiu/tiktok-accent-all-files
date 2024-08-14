@@ -1,0 +1,102 @@
+{
+  "url": "https://www.tiktok.com/api/search/suggest/guide/?WebIdLastTime=1721608078&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=false&device_id=7394250347474667051&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&keyword=%23grwm&odinId=7394250368177439786&os=mac&priority_region=&referer=&region=US&req_source=related_search&screen_height=720&screen_width=1280&search_source=general&tz_name=America%2FNew_York&user_is_login=false&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721608078",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "false",
+    "device_id": "7394250347474667051",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#grwm",
+    "odinId": "7394250368177439786",
+    "os": "mac",
+    "region": "US",
+    "req_source": "related_search",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "search_source": "general",
+    "tz_name": "America/New_York",
+    "user_is_login": "false",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "325",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:28:00 GMT",
+    "expires": "Mon, 22 Jul 2024 00:28:00 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=179, cdn-cache; desc=MISS, edge; dur=2, origin; dur=192",
+    "tt_stable": "1",
+    "use_hertz": "1",
+    "x-akamai-request-id": "6c0d0562",
+    "x-cache": "TCP_MISS from a104-120-210-150.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "192,104.120.210.150",
+    "x-tt-logid": "20240722002759B4AA27F0317A8A68A321",
+    "x-tt-trace-host": "01262d362b07ce978c4d4e0668f001116ef52e4b9a0c2f84d95b7aef7cff4ce0674fa8827f9e6719af71012cb7cde367a4f23f46ab44478f4093748dcda14bf5fd237179d9059f485aad8d0e08a79dd364ad6cf664167bdf763929f8bc247fbb28",
+    "x-tt-trace-id": "00-240722002759B4AA27F0317A8A68A321-740F1A126D3CE638-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "data": [
+      {
+        "word": "preppy grwm",
+        "group_id": "5718239575225153699"
+      },
+      {
+        "word": "grwm routine",
+        "group_id": "8705581060749376878"
+      },
+      {
+        "word": "grwm aesthetic",
+        "group_id": "6895096444423746138"
+      },
+      {
+        "word": "grwm in class",
+        "group_id": "8440920211345841943"
+      },
+      {
+        "word": "how tall is harper grwm",
+        "group_id": "5363080013671267029"
+      },
+      {
+        "word": "grwm videos",
+        "group_id": "6605773845668660573"
+      },
+      {
+        "word": "grwm outfits",
+        "group_id": "237139017643431740"
+      },
+      {
+        "word": "grwm storytime",
+        "group_id": "3538116486161545176"
+      },
+      {
+        "word": "rich girl grwm",
+        "group_id": "2211441930362284997"
+      },
+      {
+        "word": "grwm clean girl",
+        "group_id": "5411481730709670773"
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "log_id": "20240722002759B4AA27F0317A8A68A321"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "url": "https://www.tiktok.com/api/search/suggest/guide/?WebIdLastTime=1721608078&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=false&device_id=7394250347474667051&device_platform=web_pc&focus_state=true&from_page=search&history_len=3&is_fullscreen=false&is_page_visible=true&keyword=%23grwm&odinId=7394250368177439786&os=mac&priority_region=&referer=&region=US&req_source=related_search&screen_height=720&screen_width=1280&search_source=user&tz_name=America%2FNew_York&user_is_login=false&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721608078",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "false",
+    "device_id": "7394250347474667051",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "3",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#grwm",
+    "odinId": "7394250368177439786",
+    "os": "mac",
+    "region": "US",
+    "req_source": "related_search",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "search_source": "user",
+    "tz_name": "America/New_York",
+    "user_is_login": "false",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "323",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:28:03 GMT",
+    "expires": "Mon, 22 Jul 2024 00:28:03 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=18, origin; dur=177, inner; dur=157",
+    "tt_stable": "1",
+    "use_hertz": "1",
+    "x-akamai-request-id": "f13e1fb2.6c0d4bb6",
+    "x-cache": "TCP_MISS from a104-120-210-150.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-cache-remote": "TCP_MISS from a23-52-15-165.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "177,23.52.15.165",
+    "x-parent-response-time": "194,104.120.210.150",
+    "x-tt-logid": "2024072200280392EC199BD340096878BF",
+    "x-tt-trace-host": "01262d362b07ce978c4d4e0668f001116ef52e4b9a0c2f84d95b7aef7cff4ce06753436876a3debf101d380575c1f1551169bae796a106408a6158d2360713b0b7a09f80ccc5a180def1cce36def8b230325ff24baf5b990663a6876909d537406021da295e46e9e4a7d6fe0e51ab0040b",
+    "x-tt-trace-id": "00-24072200280392EC199BD340096878BF-2C459CF90637C263-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "data": [
+      {
+        "word": "preppy grwm",
+        "group_id": "5718239575225153699"
+      },
+      {
+        "word": "grwm routine",
+        "group_id": "8705581060749376878"
+      },
+      {
+        "word": "grwm aesthetic",
+        "group_id": "6895096444423746138"
+      },
+      {
+        "word": "grwm in class",
+        "group_id": "8440920211345841943"
+      },
+      {
+        "word": "how tall is harper grwm",
+        "group_id": "5363080013671267029"
+      },
+      {
+        "word": "grwm videos",
+        "group_id": "6605773845668660573"
+      },
+      {
+        "word": "grwm outfits",
+        "group_id": "237139017643431740"
+      },
+      {
+        "word": "grwm storytime",
+        "group_id": "3538116486161545176"
+      },
+      {
+        "word": "layla grwm",
+        "group_id": "8939954084461765414"
+      },
+      {
+        "word": "grwm clean girl",
+        "group_id": "5411481730709670773"
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "log_id": "2024072200280392EC199BD340096878BF"
+  }
+}

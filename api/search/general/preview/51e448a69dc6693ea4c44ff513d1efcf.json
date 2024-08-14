@@ -1,0 +1,309 @@
+{
+  "url": "https://www.tiktok.com/api/search/general/preview/?WebIdLastTime=1719537239&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&device_id=7385355880505804334&device_platform=web_pc&focus_state=true&from_page=search&history_len=4&is_fullscreen=false&is_page_visible=true&keyword=%23amazonfinds&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fuser%3Fq%3D%2523amazonfinds%26t%3D1719537187324&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fuser%3Fq%3D%2523amazonfinds%26t%3D1719537187324&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&verifyFp=verify_lxy01myr_ai1CRZpp_Atv2_44dF_BMc5_9WAzmTEmBPlu&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1719537239",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "device_id": "7385355880505804334",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "4",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#amazonfinds",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/user?q=%23amazonfinds&t=1719537187324",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search/user?q=%23amazonfinds&t=1719537187324",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "verifyFp": "verify_lxy01myr_ai1CRZpp_Atv2_44dF_BMc5_9WAzmTEmBPlu",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "858",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Fri, 28 Jun 2024 01:14:07 GMT",
+    "expires": "Fri, 28 Jun 2024 01:14:07 GMT",
+    "pragma": "no-cache",
+    "server": "TLB",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=313, origin; dur=261, inner; dur=234",
+    "set-cookie": "msToken=bN5fqoHq1jHzIsDEngqHuPglqwEu6mSygkXbGPhsl2cQnvvG37fBh_KGn-Y4bdPH97okTrS3c-A6tKQtmGZHgnsUWudQQntpU4B3A7EEObiLaGZElqp2DukliyX4uwfJpY5RqrJK6B-B; Path=/; Domain=tiktok.com; Expires=Mon, 08 Jul 2024 01:14:06 GMT; Secure; SameSite=None",
+    "status_code": "0",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "tt_stable": "1",
+    "x-akamai-request-id": "20cf7ba1.140fcae4",
+    "x-cache": "TCP_MISS from a23-55-232-181.deploy.akamaitechnologies.com (AkamaiGHost/11.5.2-56655770) (-)",
+    "x-cache-remote": "TCP_MISS from a23-211-140-159.deploy.akamaitechnologies.com (AkamaiGHost/11.5.3-56950534) (-)",
+    "x-ms-token": "bN5fqoHq1jHzIsDEngqHuPglqwEu6mSygkXbGPhsl2cQnvvG37fBh_KGn-Y4bdPH97okTrS3c-A6tKQtmGZHgnsUWudQQntpU4B3A7EEObiLaGZElqp2DukliyX4uwfJpY5RqrJK6B-B",
+    "x-origin-response-time": "261,23.211.140.159",
+    "x-parent-response-time": "529,23.55.232.181",
+    "x-tt-logid": "20240628011405B16BEB3C45EB7A08D614",
+    "x-tt-trace-host": "0163b14a56ba2f9cf5f13edfbad7a752c89e6c55d5f6614d8de135ef8c2713890abe800dbfcd860340fc80c12924a6eeac2a1c6f70ecb8e9cb4fb5b81ab3d8d13fe3954a002f36275abb42141f7e3e85c509785f6dcb1e80b3f9b9e7988a85778fb102fccdd858b7c752872840ecab62b9",
+    "x-tt-trace-id": "00-240628011405B16BEB3C45EB7A08D614-25D7C46E00CB201C-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "sug_list": [
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 5
+          },
+          {
+            "begin": 7,
+            "end": 11
+          }
+        ],
+        "content": "amazon finds",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "8165471367905854352",
+          "words_position": 0,
+          "words_content": "amazon finds",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"amazon\",\"finds\"]",
+          "is_history_sug": "0",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session|tiktok_index_active_7d_query|user_search_history_premium_recall|tiktok_orion_term_rewrite|orion_qse_recall|tiktok_orion_cut_query|sar_feed_action_premium_recall|tiktok_index_global_active_7d_query|darwin_session_qq_14d_recall|tiktok_orion_query|tiktok_orion_rewrite_in_session"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 5
+          },
+          {
+            "begin": 7,
+            "end": 11
+          }
+        ],
+        "content": "amazon finds 2024",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "1870825164822713512",
+          "words_position": 1,
+          "words_content": "amazon finds 2024",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"amazon\",\"finds\",\"2024\"]",
+          "is_history_sug": "0",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_cut_query|tiktok_index_active_7d_query|tiktok_orion_search_session|tiktok_index_global_active_7d_query|darwin_session_qq_14d_recall|tiktok_orion_query|tiktok_orion_rewrite_in_session|orion_qse_recall|tiktok_orion_term_rewrite"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 5
+          },
+          {
+            "begin": 7,
+            "end": 11
+          }
+        ],
+        "content": "amazon finds for men",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "4165151748324200893",
+          "words_position": 2,
+          "words_content": "amazon finds for men",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"amazon\",\"finds\",\"for\",\"men\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session|orion_qse_recall|tiktok_orion_term_rewrite|tiktok_index_active_7d_query|tiktok_orion_cut_query|darwin_session_qq_14d_recall|tiktok_orion_rewrite_in_session|tiktok_orion_query|tiktok_index_global_active_7d_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 5
+          },
+          {
+            "begin": 7,
+            "end": 11
+          }
+        ],
+        "content": "amazon finds uk",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "6414962734627562118",
+          "words_position": 3,
+          "words_content": "amazon finds uk",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"amazon\",\"finds\",\"uk\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "darwin_session_qq_14d_recall|tiktok_index_global_active_7d_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 5
+          },
+          {
+            "begin": 7,
+            "end": 11
+          }
+        ],
+        "content": "amazon finds for home",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "2351248777649825864",
+          "words_position": 4,
+          "words_content": "amazon finds for home",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"amazon\",\"finds\",\"for\",\"home\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_index_global_active_7d_query|tiktok_index_active_7d_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 5
+          },
+          {
+            "begin": 7,
+            "end": 11
+          }
+        ],
+        "content": "amazon finds canada",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "1929976915647911331",
+          "words_position": 5,
+          "words_content": "amazon finds canada",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"amazon\",\"finds\",\"canada\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session|tiktok_index_global_active_7d_query|tiktok_orion_cut_query|orion_qse_recall|tiktok_orion_term_rewrite|tiktok_index_active_7d_query|tiktok_orion_query|tiktok_orion_rewrite_in_session|darwin_session_qq_14d_recall"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 5
+          },
+          {
+            "begin": 7,
+            "end": 11
+          }
+        ],
+        "content": "amazon finds gadgets",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "2467710799840609169",
+          "words_position": 6,
+          "words_content": "amazon finds gadgets",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"amazon\",\"finds\",\"gadgets\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_index_global_active_7d_query|tiktok_orion_query|tiktok_orion_rewrite_in_session|tiktok_orion_cut_query|tiktok_orion_term_rewrite"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 5
+          },
+          {
+            "begin": 7,
+            "end": 11
+          }
+        ],
+        "content": "amazon finds kitchen",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "5536885213601770236",
+          "words_position": 7,
+          "words_content": "amazon finds kitchen",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"amazon\",\"finds\",\"kitchen\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_index_active_7d_query|tiktok_orion_term_rewrite|tiktok_orion_cut_query|tiktok_index_global_active_7d_query|darwin_session_qq_14d_recall|tiktok_orion_query|tiktok_orion_rewrite_in_session"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "rid": "20240628011405B16BEB3C45EB7A08D614",
+    "words_query_record": {
+      "info": "{}",
+      "words_source": "sug",
+      "query_id": ""
+    },
+    "extra": {
+      "now": 1719537247000,
+      "logid": "20240628011405B16BEB3C45EB7A08D614",
+      "fatal_item_ids": [],
+      "search_request_id": "",
+      "api_debug_info": null
+    },
+    "log_pb": {
+      "impr_id": "20240628011405B16BEB3C45EB7A08D614"
+    },
+    "user_input_query": "#amazonfinds"
+  }
+}

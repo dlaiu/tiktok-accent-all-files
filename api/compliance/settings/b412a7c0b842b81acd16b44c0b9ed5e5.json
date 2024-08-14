@@ -1,0 +1,498 @@
+{
+  "url": "https://www.tiktok.com/api/compliance/settings/?WebIdLastTime=1721608951&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394254104598545963&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyw9isnz_53lBQqrD_ektV_4SuR_AWR6_GkUWpkuvUJKn&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721608951",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394254104598545963",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyw9isnz_53lBQqrD_ektV_4SuR_AWR6_GkUWpkuvUJKn",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "1243",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:43:03 GMT",
+    "expires": "Mon, 22 Jul 2024 00:43:03 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=181, cdn-cache; desc=MISS, edge; dur=7, origin; dur=298",
+    "set-cookie": "odin_tt=3a6874d74c549fc9dbbe131c04e65ca36062bcc9bdf25128a755c369342d36639533b734be4fc06c33dabba925bdfcd3b7792c2d1926b2fb95e3f25a1e1cb417eaf274ee26bd3e6a7113222c476bd90b; max-age=31536000; domain=.tiktok.com; path=/; HttpOnly",
+    "status_code": "0",
+    "tt_stable": "1",
+    "x-akamai-request-id": "463ce0c8",
+    "x-cache": "TCP_MISS from a23-44-130-204.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "299,23.44.130.204",
+    "x-tt-logid": "20240722004303E1279FCC9F352EA0600A",
+    "x-tt-trace-host": "017eaf98766d0ed7fc2bfe56d4dec7e005dd171169c53a04ed150343854bacd7fcabb759db7dc217bf3c38e6758a907856f0138a5885256e9d33c9fce468174b3075e224633f9a791c3857a751d7231f22f4d3aad5a8e5bdbbf7c4847fb7866c7a",
+    "x-tt-trace-id": "00-240722004303E1279FCC9F352EA0600A-6CD589DE1B6100AD-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "parental_guardian_entrance": 1,
+    "cmpl_enc": "AgOgAgIAiSs8QOy9_e6ZV1rcL1vSONRipHQWF-RMpbYnm8fM0Z0X_Pwz3SwNP6nZYNZLHw",
+    "interface_control_settings": "{\"rules\":null,\"use_new_control\":true,\"user_type\":\"0\",\"version\":\"19\"}",
+    "private_settings": {
+      "account": {
+        "favorite": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 1
+            }
+          ]
+        },
+        "sug_to_mutual_connections": {
+          "tips_type": 0,
+          "values": [
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 1
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0
+        },
+        "following_visibility": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 1
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "duet": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 1
+            },
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 3
+            }
+          ]
+        },
+        "hide_search": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 0
+            }
+          ]
+        },
+        "download": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 3,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "sug_to_contacts": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "sug_to_fb_friends": {
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0
+        },
+        "stitch": {
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 0
+            },
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 1
+            },
+            {
+              "value": 3,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0
+        },
+        "comment": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "res_type": 0,
+              "value": 3,
+              "show_type": 0
+            }
+          ]
+        },
+        "chatsets": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 2,
+              "res_type": 4
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 3,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "private_account": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "filter_spam": {
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "res_type": 0,
+              "value": 1,
+              "show_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0
+        },
+        "sug_to_interested_users": {
+          "show_type": 2,
+          "res_type": 1,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 2
+            }
+          ]
+        },
+        "sug_to_who_share_link": {
+          "values": [
+            {
+              "res_type": 0,
+              "value": 1,
+              "show_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0
+        },
+        "group_chat": {
+          "show_type": 2,
+          "res_type": 4,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "res_type": 0,
+              "value": 2,
+              "show_type": 0
+            }
+          ]
+        }
+      },
+      "post_page": {
+        "stitch": {
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0
+        },
+        "duet": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "res_type": 0,
+              "value": 1,
+              "show_type": 0
+            },
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        }
+      },
+      "video_privacy": {
+        "duet": {
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "res_type": 0,
+              "value": 1,
+              "show_type": 0
+            },
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 0
+            }
+          ],
+          "show_type": 0
+        },
+        "stitch": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "res_type": 0,
+              "value": 0,
+              "show_type": 0
+            }
+          ]
+        }
+      }
+    },
+    "commercial_content_library_url": "[]",
+    "status_code": 0,
+    "screen_time_management": 0,
+    "screen_time_management_self": 0,
+    "log_pb": {
+      "impr_id": "20240722004303E1279FCC9F352EA0600A"
+    },
+    "parental_guardian_name": "Family Pairing",
+    "age_gate_info": {
+      "register_age_gate_action": 1,
+      "age_gate_action": 0,
+      "age_gate_post_action": 0
+    },
+    "preference_settings": {
+      "stem_feed": 3
+    },
+    "policy_info_list": [
+      {
+        "policy_key": "privacy-policy",
+        "policy_url": "https://www.tiktok.com/legal/privacy-policy"
+      },
+      {
+        "policy_key": "terms-of-service",
+        "policy_url": "https://www.tiktok.com/legal/terms-of-service"
+      }
+    ],
+    "notify_parents_with_email": false,
+    "minor_control_type": 2,
+    "is_minor": false,
+    "teen_mode_self": 0,
+    "policy_notice_enable": true,
+    "device_limit_register_expired": true,
+    "idfa_popup_allow": false,
+    "mixed_age_consent_action": 0,
+    "extra": {
+      "now": 1721608983000,
+      "fatal_item_ids": [],
+      "logid": "20240722004303E1279FCC9F352EA0600A"
+    },
+    "teen_mode": 0,
+    "parental_guardian_mode": 0,
+    "ad_personality_settings": {
+      "pers_ad_show_interest_label": false,
+      "is_show_reset_entry": false,
+      "show_advertiser_settings": false,
+      "is_show_3p_data_control": false,
+      "pers_ad_show_data_received_partner": false,
+      "limit_ad_tracking": false,
+      "att_status": 255,
+      "is_teenager_mode": 0,
+      "mode": 0,
+      "pers_ad_third_party_networks_mode": 0,
+      "pers_ad_data_received_partner_mode": 0,
+      "pers_ad_show_third_party_networks": false,
+      "enable_toggle_decoupling": true,
+      "pa_revising_switch": false,
+      "disable_att_overwrite_pa": 1,
+      "need_pop_up": false,
+      "is_show_settings": false,
+      "is_new_user": 0,
+      "is_np_user": 1,
+      "is_follow_sys_config": false,
+      "pers_ad_show_third_part_measurement": false,
+      "ad_free_subscription": {
+        "subscription_mode": 0
+      }
+    }
+  }
+}

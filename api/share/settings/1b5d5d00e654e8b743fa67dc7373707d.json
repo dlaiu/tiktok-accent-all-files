@@ -1,0 +1,119 @@
+{
+  "url": "https://www.tiktok.com/api/share/settings/?WebIdLastTime=1719434045&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&device_id=7384912902208095775&device_platform=webapp_pc&focus_state=true&from_page=user&history_len=2&is_fullscreen=false&is_page_visible=true&mode=1&odinId=7384912970281600031&os=mac&priority_region=&referer=https%3A%2F%2Fwww.tiktok.com%2F%40tonystatovci%3Flang%3Den&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2F%40tonystatovci%3Flang%3Den&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1719434045",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "device_id": "7384912902208095775",
+    "device_platform": "webapp_pc",
+    "focus_state": "true",
+    "from_page": "user",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "mode": "1",
+    "odinId": "7384912970281600031",
+    "os": "mac",
+    "referer": "https://www.tiktok.com/@tonystatovci?lang=en",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/@tonystatovci?lang=en",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "306",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Wed, 26 Jun 2024 20:34:07 GMT",
+    "expires": "Wed, 26 Jun 2024 20:34:07 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=71, cdn-cache; desc=MISS, edge; dur=4, origin; dur=158",
+    "tt_stable": "1",
+    "x-akamai-request-id": "d5c05fb1",
+    "x-cache": "TCP_MISS from a23-44-130-216.deploy.akamaitechnologies.com (AkamaiGHost/11.5.2-56655770) (-)",
+    "x-origin-response-time": "158,23.44.130.216",
+    "x-tt-logid": "2024062620340708B9481653B6B90754F7",
+    "x-tt-trace-host": "01c8eba355ca940c8d0371c4f2a9376e59f7cad6ce20af9e26368e16b407bd7bfcc948270e1996941be733a012bbe846041bc4aede042258919908299a9f50eb29d21d5c152b43f916940bf13bec4497b1153f52e7e13e8f2610484eba77bf3624",
+    "x-tt-trace-id": "00-24062620340708B9481653B6B90754F7-0C5D4E8306FBB88D-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "2024062620340708B9481653B6B90754F7",
+      "now": 1719434047000
+    },
+    "log_pb": {
+      "impr_id": "2024062620340708B9481653B6B90754F7"
+    },
+    "share_platforms": [
+      {
+        "platform_id": "repost",
+        "platform_name": "Repost"
+      },
+      {
+        "platform_id": "embed",
+        "platform_name": "embed"
+      },
+      {
+        "platform_id": "message",
+        "platform_name": "Message"
+      },
+      {
+        "platform_id": "whatsapp",
+        "platform_name": "WhatsApp"
+      },
+      {
+        "platform_id": "facebook",
+        "platform_name": "Facebook"
+      },
+      {
+        "platform_id": "twitter",
+        "platform_name": "Twitter"
+      },
+      {
+        "platform_id": "copy",
+        "platform_name": "COPY"
+      },
+      {
+        "platform_id": "telegram",
+        "platform_name": "telegram"
+      },
+      {
+        "platform_id": "linkedin",
+        "platform_name": "LinkedIn"
+      },
+      {
+        "platform_id": "reddit",
+        "platform_name": "Reddit"
+      },
+      {
+        "platform_id": "pinterest",
+        "platform_name": "Pinterest"
+      },
+      {
+        "platform_id": "line",
+        "platform_name": "Line"
+      },
+      {
+        "platform_id": "email",
+        "platform_name": "Email"
+      }
+    ],
+    "status_code": 0,
+    "status_msg": ""
+  }
+}

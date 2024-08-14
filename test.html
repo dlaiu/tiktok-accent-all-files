@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<script src="https://cdn.jsdelivr.net/npm/recordrtc@5.6.2/RecordRTC.min.js"></script>
+<button id="recordButton">Record Audio</button>
+
+<script type="module">
+        import { Client } from 'https://cdn.jsdelivr.net/npm/@gradio/client/dist/index.min.js';
+
+        let recorder;
+        let stream;
+
+        document.getElementById('recordButton').addEventListener('click', async () => {
+            if (!recorder || recorder.getState() === 'inactive') {
+                startRecording();
+            } else if (recorder.getState() === 'recording') {
+                stopRecording();
+            }
+        });
+
+        async function startRecording() {
+            stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+            recorder = new RecordRTC(stream, {
+                type: 'audio',
+                mimeType: 'audio/wav'
+            });
+
+            recorder.startRecording();
+            document.getElementById('recordButton').innerText = 'Stop Recording';
+        }
+
+        async function stopRecording() {
+            recorder.stopRecording(async () => {
+                const audioBlob = recorder.getBlob();
+                stream.getTracks().forEach(track => track.stop());
+
+                const client = await Client.connect("dlaiu/pitch-processing");
+                const result = await client.predict("/predict", { 
+                    audio_data: audioBlob, 
+                });
+
+                const data = JSON.parse(result.data);
+                console.log(data)
+            });
+
+            document.getElementById('recordButton').innerText = 'Record Audio';
+        }
+</script>
+</html>

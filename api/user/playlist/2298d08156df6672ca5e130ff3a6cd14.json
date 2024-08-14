@@ -1,0 +1,72 @@
+{
+  "url": "https://www.tiktok.com/api/user/playlist/?WebIdLastTime=1718994402&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&count=20&cursor=0&device_id=7383024663725016606&device_platform=web_pc&focus_state=true&from_page=user&history_len=2&is_fullscreen=false&is_page_visible=true&odinId=7383024727297704991&os=mac&priority_region=&referer=&region=US&screen_height=720&screen_width=1280&secUid=MS4wLjABAAAAdK-fCBiHfDnxlcqWI8k0t8JSvC2zZ2elAJFE2WLjwpFmLRrGIHCVo8_e6WwvKlJZ&tz_name=America%2FNew_York&webcast_language=en&msToken=&X-Bogus=DFSzswVOksTANnfOtWgkNQIm4Lit&_signature=_02B4Z6wo00001g3BWAAAAIDD7QqT0C.mYZINwVyAAOUT67",
+  "query": {
+    "WebIdLastTime": "1718994402",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "count": "20",
+    "cursor": "0",
+    "device_id": "7383024663725016606",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "user",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "odinId": "7383024727297704991",
+    "os": "mac",
+    "region": "US",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "secUid": "MS4wLjABAAAAdK-fCBiHfDnxlcqWI8k0t8JSvC2zZ2elAJFE2WLjwpFmLRrGIHCVo8_e6WwvKlJZ",
+    "tz_name": "America/New_York",
+    "webcast_language": "en",
+    "X-Bogus": "DFSzswVOksTANnfOtWgkNQIm4Lit",
+    "_signature": "_02B4Z6wo00001g3BWAAAAIDD7QqT0C.mYZINwVyAAOUT67"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "145",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Fri, 21 Jun 2024 18:26:44 GMT",
+    "expires": "Fri, 21 Jun 2024 18:26:44 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=38, origin; dur=50, inner; dur=44",
+    "tt_stable": "1",
+    "x-akamai-request-id": "693a04b7.57d3bd39",
+    "x-cache": "TCP_MISS from a23-44-130-196.deploy.akamaitechnologies.com (AkamaiGHost/11.5.2-56655770) (-)",
+    "x-cache-remote": "TCP_MISS from a23-33-30-82.deploy.akamaitechnologies.com (AkamaiGHost/11.5.3-56950534) (-)",
+    "x-origin-response-time": "50,23.33.30.82",
+    "x-parent-response-time": "82,23.44.130.196",
+    "x-tt-logid": "2024062118264422994C21D3F1BD1A02C2",
+    "x-tt-trace-host": "013d07bcedce0bcec3f4ebc29ffc47c38b747c980f292421280725fa36825d9c8d89b99eb2555634bb3d22fe6628b35e72c849a2dd7a80dad98f949f0a0ce5a789932c4c0261f38deb87bb2f36f5f050226744becb7a22a6200ad26cf0da111d42b3b0eb3c6ed3f4be2aa8c4645225e3f3",
+    "x-tt-trace-id": "00-24062118264422994C21D3F1BD1A02C2-7EDB297B6DE41F43-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "cursor": "0",
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "2024062118264422994C21D3F1BD1A02C2",
+      "now": 1718994404000
+    },
+    "hasMore": false,
+    "log_pb": {
+      "impr_id": "2024062118264422994C21D3F1BD1A02C2"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": ""
+  }
+}

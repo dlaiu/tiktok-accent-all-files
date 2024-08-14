@@ -1,0 +1,78 @@
+{
+  "url": "https://www.tiktok.com/api/inbox/notice_list/?WebIdLastTime=1721608078&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394250347474667051&device_platform=web_pc&focus_state=true&from_page=search&group_list=%5B%7B%22count%22%3A1%2C%22is_mark_read%22%3A0%2C%22group%22%3A661%2C%22max_time%22%3A0%2C%22min_time%22%3A0%7D%5D&history_len=4&is_fullscreen=false&is_page_visible=true&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fuser%3Fq%3D%2523grwm%26t%3D1721608024799&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fuser%3Fq%3D%2523grwm%26t%3D1721608024799&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyw902r7_kd090PRq_W0LH_4Szf_8Mow_uYdW84RuOVjj&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721608078",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394250347474667051",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "group_list": "[{\"count\":1,\"is_mark_read\":0,\"group\":661,\"max_time\":0,\"min_time\":0}]",
+    "history_len": "4",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/user?q=%23grwm&t=1721608024799",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search/user?q=%23grwm&t=1721608024799",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyw902r7_kd090PRq_W0LH_4Szf_8Mow_uYdW84RuOVjj",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "176",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:29:24 GMT",
+    "expires": "Mon, 22 Jul 2024 00:29:24 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=71, cdn-cache; desc=MISS, edge; dur=1, origin; dur=140",
+    "set-cookie": "odin_tt=f1193c8512f196dd06069f285d18e899dff17a249a09b531be86694445a7f935d78662c227dde4d9543ac29f326239ece4b767fcbfcc9d461ff9371646da25cfccaededc00292d01a0d341e0b6cefd9f; max-age=31536000; domain=.tiktok.com; path=/; HttpOnly",
+    "tt_stable": "1",
+    "x-akamai-request-id": "6c12bdbe",
+    "x-cache": "TCP_MISS from a104-120-210-150.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "140,104.120.210.150",
+    "x-tt-logid": "20240722002924C2C87A764D6EA792405B",
+    "x-tt-trace-host": "01262d362b07ce978c4d4e0668f001116ef52e4b9a0c2f84d95b7aef7cff4ce06798b1a4263c7294f401339ace7fd60116fbba83101fe3a348b2dcb57607ee3df010ea99f1d57abc590d3699548b5fd3cd67d3b843224d4ef53b9a89a9d3d40a3b",
+    "x-tt-trace-id": "00-240722002924C2C87A764D6EA792405B-451B6D0F60851192-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240722002924C2C87A764D6EA792405B",
+      "now": 1721608164000
+    },
+    "log_pb": {
+      "impr_id": "20240722002924C2C87A764D6EA792405B"
+    },
+    "notice_lists": [
+      {
+        "group": 661,
+        "has_more": 0,
+        "max_time": 0,
+        "min_time": 0
+      }
+    ],
+    "status_code": 0,
+    "status_msg": ""
+  }
+}

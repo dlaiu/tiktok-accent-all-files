@@ -1,0 +1,92 @@
+{
+  "url": "https://www.tiktok.com/api/user/settings/?WebIdLastTime=1719537239&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&device_id=7385355880505804334&device_platform=web_pc&focus_state=true&from_page=search&history_len=4&is_fullscreen=false&is_page_visible=true&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fuser%3Fq%3D%2523amazonfinds%26t%3D1719537187324&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fuser%3Fq%3D%2523amazonfinds%26t%3D1719537187324&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&verifyFp=verify_lxy01myr_ai1CRZpp_Atv2_44dF_BMc5_9WAzmTEmBPlu&webcast_language=en&msToken=IyqsJf2MBvo6oDvm95LLgkny1NtaZd3wNko-NETMFwumwbO5D1paHfQRM_fDS3M0imIrhTfjHypi-385cJzCjdi9ybCF3v4zQsOXSg9XQ5HN7zWXonlHzk4rvG8_4W-tIuvIHU6uSbli&X-Bogus=DFSzswVOq8iANnfOtWPQ8QIm4LNB&_signature=_02B4Z6wo00001BRgi8wAAIDB9KtAHTNrxvwUYI9AAGNs7a",
+  "query": {
+    "WebIdLastTime": "1719537239",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "device_id": "7385355880505804334",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "4",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/user?q=%23amazonfinds&t=1719537187324",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search/user?q=%23amazonfinds&t=1719537187324",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "verifyFp": "verify_lxy01myr_ai1CRZpp_Atv2_44dF_BMc5_9WAzmTEmBPlu",
+    "webcast_language": "en",
+    "msToken": "IyqsJf2MBvo6oDvm95LLgkny1NtaZd3wNko-NETMFwumwbO5D1paHfQRM_fDS3M0imIrhTfjHypi-385cJzCjdi9ybCF3v4zQsOXSg9XQ5HN7zWXonlHzk4rvG8_4W-tIuvIHU6uSbli",
+    "X-Bogus": "DFSzswVOq8iANnfOtWPQ8QIm4LNB",
+    "_signature": "_02B4Z6wo00001BRgi8wAAIDB9KtAHTNrxvwUYI9AAGNs7a"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "295",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Fri, 28 Jun 2024 01:14:07 GMT",
+    "expires": "Fri, 28 Jun 2024 01:14:07 GMT",
+    "pragma": "no-cache",
+    "server": "TLB",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=285, origin; dur=96, inner; dur=89",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "tt_stable": "1",
+    "x-akamai-request-id": "14e1885.140fda2a",
+    "x-cache": "TCP_MISS from a23-55-232-181.deploy.akamaitechnologies.com (AkamaiGHost/11.5.2-56655770) (-)",
+    "x-cache-remote": "TCP_MISS from a23-210-250-116.deploy.akamaitechnologies.com (AkamaiGHost/11.5.3-56950534) (-)",
+    "x-origin-response-time": "96,23.210.250.116",
+    "x-parent-response-time": "364,23.55.232.181",
+    "x-tt-logid": "202406280114064B1DCF2313E7FC09603D",
+    "x-tt-trace-host": "0163b14a56ba2f9cf5f13edfbad7a752c89e6c55d5f6614d8de135ef8c2713890ad8466f5c68fb95701b3675bc23a82d834609a8fe92bdd0ceaa8d83e4fe6174f117417fd6ead6a2621ed36a5591fb9b948317af19b25c3b803334297dada6cc4673d2abcc3797882040de33838d303a70",
+    "x-tt-trace-id": "00-2406280114064B1DCF2313E7FC09603D-7DE2C0DC4B155DE2-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "202406280114064B1DCF2313E7FC09603D",
+      "now": 1719537247000
+    },
+    "log_pb": {
+      "impr_id": "202406280114064B1DCF2313E7FC09603D"
+    },
+    "settings": {
+      "adAuthorization": false,
+      "imSet": 2,
+      "privateAccount": true,
+      "proAccountStatus": 0,
+      "pushSettings": {
+        "commentPush": 1,
+        "diggPush": 1,
+        "followNewVideoPush": 0,
+        "followPush": 1,
+        "imPush": 1,
+        "liveInnerPush": 0,
+        "livePush": 1,
+        "mentionPush": 1,
+        "noticeWebappPush": 1,
+        "otherChannel": 0,
+        "recommendVideoPush": 0
+      },
+      "tcmSetting": 0
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": ""
+  }
+}

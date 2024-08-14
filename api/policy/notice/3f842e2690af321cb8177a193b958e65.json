@@ -1,0 +1,112 @@
+{
+  "url": "https://www.tiktok.com/api/policy/notice/?WebIdLastTime=1719537239&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&device_id=7385355880505804334&device_platform=web_pc&focus_state=true&from_page=search&history_len=4&is_fullscreen=false&is_page_visible=true&locale=en&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fuser%3Fq%3D%2523amazonfinds%26t%3D1719537187324&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fuser%3Fq%3D%2523amazonfinds%26t%3D1719537187324&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&verifyFp=verify_lxy01myr_ai1CRZpp_Atv2_44dF_BMc5_9WAzmTEmBPlu&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1719537239",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "device_id": "7385355880505804334",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "4",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "locale": "en",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/user?q=%23amazonfinds&t=1719537187324",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search/user?q=%23amazonfinds&t=1719537187324",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "verifyFp": "verify_lxy01myr_ai1CRZpp_Atv2_44dF_BMc5_9WAzmTEmBPlu",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "662",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Fri, 28 Jun 2024 01:14:06 GMT",
+    "expires": "Fri, 28 Jun 2024 01:14:06 GMT",
+    "pragma": "no-cache",
+    "server": "TLB",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=366, origin; dur=172, inner; dur=142",
+    "status_code": "0",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "tt_stable": "1",
+    "x-akamai-request-id": "3d82ca57.140fb9dd",
+    "x-cache": "TCP_MISS from a23-55-232-181.deploy.akamaitechnologies.com (AkamaiGHost/11.5.2-56655770) (-)",
+    "x-cache-remote": "TCP_MISS from a23-211-140-142.deploy.akamaitechnologies.com (AkamaiGHost/11.5.3-56950534) (-)",
+    "x-origin-response-time": "173,23.211.140.142",
+    "x-parent-response-time": "449,23.55.232.181",
+    "x-tt-logid": "20240628011405FBED10CC696047086E48",
+    "x-tt-trace-host": "0163b14a56ba2f9cf5f13edfbad7a752c89e6c55d5f6614d8de135ef8c2713890a2d0fd60e64639cb8bde2657eb4ab6e844a9fff6e24e1fc13700dd970348087f2101128de5b1a2fc92eeeb1791d3cbeaeeaabb980e436b4f70d7200266469d1a9f9ba61e85296fca7b9d801cf9a7941ff",
+    "x-tt-trace-id": "00-240628011405FBED10CC696047086E48-358A991C1FDACF42-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "log_pb": {
+      "impr_id": "20240628011405FBED10CC696047086E48"
+    },
+    "status_code": 0,
+    "status_msg": "",
+    "policy_notices": [
+      {
+        "business": "community_guidelines_v20240417",
+        "style": "pc_banner",
+        "title": "Community Guidelines Update",
+        "icon_url": "",
+        "icon_url_dark": "",
+        "sub_pop_up": false,
+        "first_button_highlight": false,
+        "policy_version": "v20240417",
+        "body": "We updated our Community Guidelines to help keep TikTok safe, inclusive, and welcoming for everyone. Check out what\u2019s new and %s.",
+        "actions": [
+          {
+            "dismiss": true,
+            "new_web_tab": false,
+            "is_bold": true,
+            "link": "",
+            "operation": 100,
+            "approve": false,
+            "next_pop_up": "",
+            "dismiss_all": false,
+            "re_get_settings": false,
+            "is_close_style": false,
+            "text": "Got it",
+            "link_type": "callback",
+            "extra": "{\"operation\":100,\"approve_type\":\"user_id\",\"re_popup_cycle_days\":0,\"user_id\":6956093520164226049,\"device_id\":7385355880505804334}"
+          }
+        ],
+        "body_link_list": [
+          {
+            "link": "https://www.tiktok.com/community-guidelines?cgversion=2024H1update",
+            "operation": 200,
+            "dismiss": false,
+            "approve": false,
+            "new_web_tab": false,
+            "name": "learn more"
+          }
+        ],
+        "upper_right_close": 0,
+        "webview_url": ""
+      }
+    ],
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240628011405FBED10CC696047086E48",
+      "now": 1719537246000
+    }
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "url": "https://www.tiktok.com/api/compliance/settings/?WebIdLastTime=1721704664&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394665193415919146&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721704664",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394665193415919146",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "1343",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Tue, 23 Jul 2024 03:18:24 GMT",
+    "expires": "Tue, 23 Jul 2024 03:18:24 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=165, cdn-cache; desc=MISS, edge; dur=4, origin; dur=235",
+    "set-cookie": "odin_tt=303c9330e6545ae748bdfd3b0eac75776bba32581927200a421ea3e2c65d184bd82a222b1f987f2dd799dd62087e504055ea62f5b05f4b67517d4c01520ce98122ec43aa4110570a7121e86aa1fbeea8; max-age=31536000; domain=.tiktok.com; path=/; HttpOnly",
+    "status_code": "0",
+    "tt_stable": "1",
+    "x-akamai-request-id": "5ce64dd",
+    "x-cache": "TCP_MISS from a23-44-130-212.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "235,23.44.130.212",
+    "x-tt-logid": "202407230318245F7396E4C36A840023C6",
+    "x-tt-trace-host": "01e9c3ac1129cac96f8806772cc2e811bf9c1bb38c30c330a99386de602e6a5cf8d52ea7e6912cf2a2f1a943ffd776b4d9bdc39c3c547b31409d702daf5639fefc73fbc46cd5e0bd584d60a10c913bd06a2d50256814568ca35663f8bd4be70bd9",
+    "x-tt-trace-id": "00-2407230318245F7396E4C36A840023C6-5EDAD8DF65B5679D-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "policy_notice_enable": true,
+    "private_settings": {
+      "account": {
+        "sug_to_fb_friends": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "res_type": 0,
+              "value": 1,
+              "show_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "sug_to_who_share_link": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "group_chat": {
+          "show_type": 2,
+          "res_type": 4,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "duet": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 3,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "favorite": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "hide_search": {
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0
+        },
+        "following_visibility": {
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0
+        },
+        "stitch": {
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 3
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0
+        },
+        "private_account": {
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0
+        },
+        "download": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "res_type": 0,
+              "value": 3,
+              "show_type": 0
+            }
+          ]
+        },
+        "sug_to_contacts": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "res_type": 0,
+              "value": 1,
+              "show_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "sug_to_interested_users": {
+          "show_type": 2,
+          "res_type": 1,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "comment": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 3
+            }
+          ]
+        },
+        "chatsets": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 2,
+              "res_type": 4
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 3,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "filter_spam": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "sug_to_mutual_connections": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 2,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        }
+      },
+      "post_page": {
+        "duet": {
+          "values": [
+            {
+              "res_type": 0,
+              "value": 1,
+              "show_type": 0
+            },
+            {
+              "res_type": 0,
+              "value": 0,
+              "show_type": 0
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0
+        },
+        "stitch": {
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ],
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0
+        }
+      },
+      "video_privacy": {
+        "duet": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "show_type": 0,
+              "res_type": 0,
+              "value": 1
+            },
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        },
+        "stitch": {
+          "show_type": 0,
+          "res_type": 0,
+          "tips_type": 0,
+          "values": [
+            {
+              "value": 1,
+              "show_type": 0,
+              "res_type": 0
+            },
+            {
+              "value": 0,
+              "show_type": 0,
+              "res_type": 0
+            }
+          ]
+        }
+      }
+    },
+    "minor_control_type": 2,
+    "is_minor": false,
+    "parental_guardian_mode": 0,
+    "ad_personality_settings": {
+      "pers_ad_third_party_networks_mode": 0,
+      "att_status": 255,
+      "pa_revising_switch": false,
+      "enable_toggle_decoupling": true,
+      "mode": 0,
+      "is_show_settings": false,
+      "pers_ad_show_data_received_partner": false,
+      "limit_ad_tracking": false,
+      "is_teenager_mode": 0,
+      "is_np_user": 1,
+      "show_advertiser_settings": false,
+      "need_pop_up": false,
+      "pers_ad_data_received_partner_mode": 0,
+      "pers_ad_show_interest_label": false,
+      "pers_ad_show_third_part_measurement": false,
+      "is_new_user": 0,
+      "is_show_reset_entry": false,
+      "ad_free_subscription": {
+        "subscription_mode": 0
+      },
+      "is_follow_sys_config": false,
+      "disable_att_overwrite_pa": 1,
+      "is_show_3p_data_control": false,
+      "pers_ad_show_third_party_networks": false
+    },
+    "cmpl_enc": "AgOgAgIAiSs8QOy9_e6ZV1rcL1vSONRipHQWF-RMpbYnm8fM0Z0X_P654zkff6jZYNZC0g",
+    "parental_guardian_name": "Family Pairing",
+    "idfa_popup_allow": false,
+    "extra": {
+      "now": 1721704704000,
+      "fatal_item_ids": [],
+      "logid": "202407230318245F7396E4C36A840023C6"
+    },
+    "notify_parents_with_email": false,
+    "log_pb": {
+      "impr_id": "202407230318245F7396E4C36A840023C6"
+    },
+    "status_code": 0,
+    "teen_mode": 0,
+    "teen_mode_self": 0,
+    "commercial_content_library_url": "[]",
+    "preference_settings": {
+      "stem_feed": 3
+    },
+    "policy_info_list": [
+      {
+        "policy_key": "privacy-policy",
+        "policy_url": "https://www.tiktok.com/legal/privacy-policy"
+      },
+      {
+        "policy_url": "https://www.tiktok.com/legal/terms-of-service",
+        "policy_key": "terms-of-service"
+      },
+      {
+        "policy_key": "tiktok-shoutouts-user-terms-of-service",
+        "policy_url": "https://www.tiktok.com/legal/tiktok-shoutouts-user-terms-of-service"
+      },
+      {
+        "policy_key": "cookie-policy",
+        "policy_url": "https://www.tiktok.com/legal/cookie-policy"
+      },
+      {
+        "policy_key": "virtual-items",
+        "policy_url": "https://www.tiktok.com/legal/virtual-items"
+      },
+      {
+        "policy_url": "https://www.tiktok.com/legal/rewards-policy-eea",
+        "policy_key": "rewards-policy-eea"
+      },
+      {
+        "policy_key": "privacy-policy-for-younger-users",
+        "policy_url": "https://www.tiktok.com/legal/privacy-policy-for-younger-users"
+      },
+      {
+        "policy_key": "copyright-policy",
+        "policy_url": "https://www.tiktok.com/legal/copyright-policy"
+      },
+      {
+        "policy_key": "changes-to-personalised-advertising-in-the-eea",
+        "policy_url": "https://www.tiktok.com/legal/changes-to-personalised-advertising-in-the-eea"
+      }
+    ],
+    "screen_time_management": 0,
+    "screen_time_management_self": 0,
+    "parental_guardian_entrance": 1,
+    "age_gate_info": {
+      "register_age_gate_action": 1,
+      "age_gate_action": 0,
+      "age_gate_post_action": 0
+    },
+    "device_limit_register_expired": true,
+    "interface_control_settings": "{\"rules\":null,\"use_new_control\":true,\"user_type\":\"0\",\"version\":\"19\"}",
+    "mixed_age_consent_action": 0
+  }
+}

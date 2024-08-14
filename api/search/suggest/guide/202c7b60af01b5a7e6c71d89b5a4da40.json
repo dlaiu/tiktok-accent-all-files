@@ -1,0 +1,101 @@
+{
+  "url": "https://www.tiktok.com/api/search/suggest/guide/?WebIdLastTime=1719537176&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&device_id=7385355880505804334&device_platform=web_pc&focus_state=true&from_page=search&history_len=3&is_fullscreen=false&is_page_visible=true&keyword=%23amazonfinds&odinId=7385355881322251307&os=mac&priority_region=&referer=&region=US&req_source=related_search&screen_height=720&screen_width=1280&search_source=user&tz_name=America%2FNew_York&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1719537176",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "device_id": "7385355880505804334",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "3",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#amazonfinds",
+    "odinId": "7385355881322251307",
+    "os": "mac",
+    "region": "US",
+    "req_source": "related_search",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "search_source": "user",
+    "tz_name": "America/New_York",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "323",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Fri, 28 Jun 2024 01:13:09 GMT",
+    "expires": "Fri, 28 Jun 2024 01:13:09 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=2055, origin; dur=160, inner; dur=135",
+    "tt_stable": "1",
+    "use_hertz": "1",
+    "x-akamai-request-id": "b553721.1408c850",
+    "x-cache": "TCP_MISS from a23-55-232-181.deploy.akamaitechnologies.com (AkamaiGHost/11.5.2-56655770) (-)",
+    "x-cache-remote": "TCP_MISS from a23-46-157-37.deploy.akamaitechnologies.com (AkamaiGHost/11.5.3-56950534) (-)",
+    "x-origin-response-time": "160,23.46.157.37, 2205,23.55.232.181",
+    "x-tt-logid": "202406280113094A3D049653A8BC002171",
+    "x-tt-trace-host": "0163b14a56ba2f9cf5f13edfbad7a752c89e6c55d5f6614d8de135ef8c2713890a60fe58053fe5e270c41d41e037d4d4d13063de7935bacf71aeeef75666c02a52c54a57e8df4cf28115d15d20526c92e354ebebe34f48785d332a20da7224cdda593f27986bafb799e00698decfe6e5ee",
+    "x-tt-trace-id": "00-2406280113094A3D049653A8BC002171-3BB945F63A4F58C2-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "data": [
+      {
+        "word": "amazon finds 2024",
+        "group_id": "1870825164822713512"
+      },
+      {
+        "word": "cheap amazon finds",
+        "group_id": "710607605751476380"
+      },
+      {
+        "word": "girly amazon finds",
+        "group_id": "2775441527065302593"
+      },
+      {
+        "word": "best amazon finds",
+        "group_id": "5366288712237986924"
+      },
+      {
+        "word": "best cheap amazon finds",
+        "group_id": "527344698421219874"
+      },
+      {
+        "word": "best amazon finds for women",
+        "group_id": "7464469066303854830"
+      },
+      {
+        "word": "Cool Gadgets On Amazon",
+        "group_id": "6119460622819212985"
+      },
+      {
+        "word": "Vintage Finds",
+        "group_id": "8886187346718516318"
+      },
+      {
+        "word": "amazon finds for men",
+        "group_id": "4165151748324200893"
+      },
+      {
+        "word": "amazon baby finds",
+        "group_id": "7533736533660787872"
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "log_id": "202406280113094A3D049653A8BC002171"
+  }
+}

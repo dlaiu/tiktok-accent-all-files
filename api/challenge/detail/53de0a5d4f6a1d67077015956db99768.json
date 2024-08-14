@@ -1,0 +1,106 @@
+{
+  "url": "https://www.tiktok.com/api/challenge/detail/?WebIdLastTime=1721688006&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&challengeName=bookrecs&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=false&device_id=7394593634543289899&device_platform=web_pc&focus_state=true&from_page=hashtag&history_len=2&is_fullscreen=false&is_page_visible=true&language=en&odinId=7394593647759868970&os=mac&priority_region=&referer=&region=US&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=false&webcast_language=en&msToken=&X-Bogus=DFSzswSOjrhANxlDtwY-OQIm4LiW&_signature=_02B4Z6wo00001nZGW-QAAIDDlo2QNa6Grqp2Rl9AAPse49",
+  "query": {
+    "WebIdLastTime": "1721688006",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "challengeName": "bookrecs",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "false",
+    "device_id": "7394593634543289899",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "hashtag",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "language": "en",
+    "odinId": "7394593647759868970",
+    "os": "mac",
+    "region": "US",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "false",
+    "webcast_language": "en",
+    "X-Bogus": "DFSzswSOjrhANxlDtwY-OQIm4LiW",
+    "_signature": "_02B4Z6wo00001nZGW-QAAIDDlo2QNa6Grqp2Rl9AAPse49"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "409",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 22:40:07 GMT",
+    "expires": "Mon, 22 Jul 2024 22:40:07 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=12, origin; dur=87, inner; dur=83",
+    "tt_stable": "1",
+    "x-akamai-request-id": "7f509ec7.f424ef5",
+    "x-cache": "TCP_MISS from a23-46-181-234.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-cache-remote": "TCP_MISS from a23-52-15-177.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "87,23.52.15.177",
+    "x-parent-response-time": "98,23.46.181.234",
+    "x-tt-logid": "20240722224007367B32661B228E119941",
+    "x-tt-trace-host": "01ee097bab2653f5fdbfd24330a6edd8d86cbe360e43c977eb8ca12fc426f32c49f4dd25f77d57170267babefe0f7c508d87576ba84f9973ca989ab92386b6def34825b9f3d13cd95f16732ff149fd262daa7d5eee17a1a76259e0c975c2ec4d6322405840bee1a3fe29d2f7697a5780eb",
+    "x-tt-trace-id": "00-240722224007367B32661B228E119941-1D5E317077BD2504-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "challengeInfo": {
+      "challenge": {
+        "coverLarger": "",
+        "coverMedium": "",
+        "coverThumb": "",
+        "desc": "",
+        "id": "1647746061443078",
+        "isCommerce": false,
+        "profileLarger": "",
+        "profileMedium": "",
+        "profileThumb": "",
+        "splitTitle": "book recs",
+        "stats": {
+          "videoCount": 0,
+          "viewCount": 16100000000
+        },
+        "title": "bookrecs"
+      },
+      "challengeAnnouncement": {
+        "body": "",
+        "title": ""
+      },
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 16100000000
+      },
+      "statsV2": {
+        "videoCount": "2130164",
+        "viewCount": "16147616569"
+      }
+    },
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240722224007367B32661B228E119941",
+      "now": 1721688007000
+    },
+    "log_pb": {
+      "impr_id": "20240722224007367B32661B228E119941"
+    },
+    "shareMeta": {
+      "desc": "16100.0m views - Watch awesome short videos created with trending hashtag #bookrecs",
+      "title": "#bookrecs on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": ""
+  }
+}

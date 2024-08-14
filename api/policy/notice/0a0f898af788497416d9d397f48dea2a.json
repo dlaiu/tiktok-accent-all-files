@@ -1,0 +1,73 @@
+{
+  "url": "https://www.tiktok.com/api/policy/notice/?WebIdLastTime=1721704664&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394665193415919146&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&locale=en&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&scene=0&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721704664",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394665193415919146",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "locale": "en",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "scene": "0",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "143",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Tue, 23 Jul 2024 03:18:24 GMT",
+    "expires": "Tue, 23 Jul 2024 03:18:24 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=104, cdn-cache; desc=MISS, edge; dur=3, origin; dur=185",
+    "set-cookie": "odin_tt=7935af8ac5c72923b5cb0463dbae82008dda92a7912da65d691f066161042b6c3b5f0697066cbba5e7ade08e5e12718f59518485c7e161b014b09c341fb28aa068c8bdecb4c8aadd23c007e6c52df873; max-age=31536000; domain=.tiktok.com; path=/; HttpOnly",
+    "status_code": "0",
+    "tt_stable": "1",
+    "x-akamai-request-id": "5ce64da",
+    "x-cache": "TCP_MISS from a23-44-130-212.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "185,23.44.130.212",
+    "x-tt-logid": "202407230318247EC4A3348DB56D001B31",
+    "x-tt-trace-host": "01e9c3ac1129cac96f8806772cc2e811bf9c1bb38c30c330a99386de602e6a5cf8a8d9015ad1e2c82061e923da7a19714e8007bd99f5e0ddfa88e4015d949561908e9e267f32ee776af759d151632e58346d017ecb7c72acf7b0ed178f8f2a3510",
+    "x-tt-trace-id": "00-2407230318247EC4A3348DB56D001B31-1FD8F48D206EDA30-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "status_code": 0,
+    "status_msg": "",
+    "policy_notices": null,
+    "extra": {
+      "logid": "202407230318247EC4A3348DB56D001B31",
+      "now": 1721704704000,
+      "fatal_item_ids": []
+    },
+    "log_pb": {
+      "impr_id": "202407230318247EC4A3348DB56D001B31"
+    }
+  }
+}

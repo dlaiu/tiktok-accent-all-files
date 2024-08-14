@@ -1,0 +1,105 @@
+{
+  "url": "https://www.tiktok.com/api/inbox/notice_count/?WebIdLastTime=1721609789&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394257707659789866&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lywa0pq6_XTvHexiq_3m6G_4eCD_Buen_j8WrBfBUbkP1&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721609789",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394257707659789866",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lywa0pq6_XTvHexiq_3m6G_4eCD_Buen_j8WrBfBUbkP1",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "181",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:56:57 GMT",
+    "expires": "Mon, 22 Jul 2024 00:56:57 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=23, origin; dur=56, inner; dur=52",
+    "set-cookie": "odin_tt=2f66216c9aa19277e06235c4764605bd939aa0ace8722ed59db6402c6ef3883f02504547c8fb395778634e25c3a467ccbb4cce18224ad3ab76ddfd5979bb70c07520c1d3e2f8cb52a54cf516ed5c130a; max-age=31536000; domain=.tiktok.com; path=/; HttpOnly",
+    "tt_stable": "1",
+    "x-akamai-request-id": "c2a5c6f5.ff261ad4",
+    "x-cache": "TCP_MISS from a23-46-181-238.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-cache-remote": "TCP_MISS from a23-33-30-79.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "56,23.33.30.79",
+    "x-parent-response-time": "79,23.46.181.238",
+    "x-tt-logid": "20240722005657A2B53542905636A4DE25",
+    "x-tt-trace-host": "017eaf98766d0ed7fc2bfe56d4dec7e0053e2c0604a77be0e40178c56a685e18a98832b99bd3aa6db955cdef1e8a41d779a606c719ab625ed8641e84b64644601717548bc0fe62cc100ea9595c8a37144b94373fe3ab69a9e6ffdabbccfca387eb6b96c048f75fde41341ac90aeb51ee56",
+    "x-tt-trace-id": "00-240722005657A2B53542905636A4DE25-3AEC259061F8630A-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240722005657A2B53542905636A4DE25",
+      "now": 1721609817000
+    },
+    "log_pb": {
+      "impr_id": "20240722005657A2B53542905636A4DE25"
+    },
+    "notice_count": [
+      {
+        "count": 0,
+        "group": 500
+      },
+      {
+        "count": 0,
+        "group": 661
+      },
+      {
+        "count": 0,
+        "group": 2
+      },
+      {
+        "count": 0,
+        "group": 3
+      },
+      {
+        "count": 0,
+        "group": 5
+      },
+      {
+        "count": 0,
+        "group": 6
+      },
+      {
+        "count": 0,
+        "group": 7
+      },
+      {
+        "count": 0,
+        "group": 5
+      }
+    ],
+    "status_code": 0,
+    "status_msg": ""
+  }
+}

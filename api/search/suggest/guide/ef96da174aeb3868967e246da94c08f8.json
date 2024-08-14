@@ -1,0 +1,102 @@
+{
+  "url": "https://www.tiktok.com/api/search/suggest/guide/?WebIdLastTime=1721609789&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=false&device_id=7394257707659789866&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&keyword=%23grwm&odinId=7394257720822465578&os=mac&priority_region=&referer=&region=US&req_source=related_search&screen_height=720&screen_width=1280&search_source=general&tz_name=America%2FNew_York&user_is_login=false&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721609789",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "false",
+    "device_id": "7394257707659789866",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#grwm",
+    "odinId": "7394257720822465578",
+    "os": "mac",
+    "region": "US",
+    "req_source": "related_search",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "search_source": "general",
+    "tz_name": "America/New_York",
+    "user_is_login": "false",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "316",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:56:30 GMT",
+    "expires": "Mon, 22 Jul 2024 00:56:30 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=217, cdn-cache; desc=MISS, edge; dur=4, origin; dur=230",
+    "tt_stable": "1",
+    "use_hertz": "1",
+    "x-akamai-request-id": "ff2128eb",
+    "x-cache": "TCP_MISS from a23-46-181-238.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "231,23.46.181.238",
+    "x-tt-logid": "20240722005630428151A275312C69D449",
+    "x-tt-trace-host": "017eaf98766d0ed7fc2bfe56d4dec7e0050a9fdae6d7484d8295edb857002ac135db76dfdb9addb10729ede9238c2e2dd767521323bb421358ba6f0a6fc030c5a115f0e0177ddeb87beb5c794fda090b7c59c07013638909ba4787e42bbeeabfe5",
+    "x-tt-trace-id": "00-240722005630428151A275312C69D449-4B64963E60FFAE1F-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "data": [
+      {
+        "word": "preppy grwm",
+        "group_id": "5718239575225153699"
+      },
+      {
+        "word": "grwm routine",
+        "group_id": "8705581060749376878"
+      },
+      {
+        "word": "grwm outfits",
+        "group_id": "237139017643431740"
+      },
+      {
+        "word": "grwm in class",
+        "group_id": "8440920211345841943"
+      },
+      {
+        "word": "how tall is harper grwm",
+        "group_id": "5363080013671267029"
+      },
+      {
+        "word": "kayla grwm",
+        "group_id": "371778878014754558"
+      },
+      {
+        "word": "grwm storytime",
+        "group_id": "3538116486161545176"
+      },
+      {
+        "word": "grwm makeup routine",
+        "group_id": "6644184647925394576"
+      },
+      {
+        "word": "grwm videos",
+        "group_id": "6605773845668660573"
+      },
+      {
+        "word": "grwm girl",
+        "group_id": "4192865299135501847"
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "log_id": "20240722005630428151A275312C69D449"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "url": "https://www.tiktok.com/api/search/suggest/guide/?WebIdLastTime=1721704664&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=false&device_id=7394665193415919146&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&keyword=%23bookrecs&odinId=7394665207606903854&os=mac&priority_region=&referer=&region=US&req_source=related_search&screen_height=720&screen_width=1280&search_source=video&tz_name=America%2FNew_York&user_is_login=false&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721704664",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "false",
+    "device_id": "7394665193415919146",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#bookrecs",
+    "odinId": "7394665207606903854",
+    "os": "mac",
+    "region": "US",
+    "req_source": "related_search",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "search_source": "video",
+    "tz_name": "America/New_York",
+    "user_is_login": "false",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "383",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Tue, 23 Jul 2024 03:17:46 GMT",
+    "expires": "Tue, 23 Jul 2024 03:17:46 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=10, origin; dur=252, inner; dur=247",
+    "tt_stable": "1",
+    "use_hertz": "1",
+    "x-akamai-request-id": "356617a0.5ca5007",
+    "x-cache": "TCP_MISS from a23-44-130-212.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-cache-remote": "TCP_MISS from a23-52-15-136.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "253,23.52.15.136",
+    "x-parent-response-time": "262,23.44.130.212",
+    "x-tt-logid": "20240723031745F6CA3F78D137D70026E8",
+    "x-tt-trace-host": "01e9c3ac1129cac96f8806772cc2e811bf33d296f725db4a4e22a9dc43c1f91933550d3d870a2554db13d60b118e373f6f2ddeab2cc2c5b39d4befce61a388d19a672cbd53caa7cf0e98439444b1ffe8ed595cf09cf4e55a2b5b1f9adf694879cafb26f85af008fefa502c85cbce81421b",
+    "x-tt-trace-id": "00-240723031745F6CA3F78D137D70026E8-6C15BED031E994EA-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "data": [
+      {
+        "word": "books to read 2024",
+        "group_id": "643665607486275283"
+      },
+      {
+        "word": "booktok recommendations 2024",
+        "group_id": "6477654385668072351"
+      },
+      {
+        "word": "Mini Books",
+        "group_id": "5655129560561259298"
+      },
+      {
+        "word": "Good Books To Read",
+        "group_id": "2409522000305922696"
+      },
+      {
+        "word": "Book Unboxing",
+        "group_id": "3718845779172417125"
+      },
+      {
+        "word": "Books I Wish I Could Read For First Time",
+        "group_id": "2317196340703842336"
+      },
+      {
+        "word": "Thriller Books Recommendation",
+        "group_id": "2075621418672979127"
+      },
+      {
+        "word": "Audio Book Recommendations",
+        "group_id": "7366014090748005424"
+      },
+      {
+        "word": "Books That You Can't Put Down",
+        "group_id": "8315788419618180306"
+      },
+      {
+        "word": "Best Books To Read",
+        "group_id": "6231757671479976837"
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "log_id": "20240723031745F6CA3F78D137D70026E8"
+  }
+}

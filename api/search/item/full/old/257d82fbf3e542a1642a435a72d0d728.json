@@ -1,0 +1,3557 @@
+{
+  "url": "https://www.tiktok.com/api/search/item/full/?WebIdLastTime=1721704664&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&count=20&data_collection_enabled=true&device_id=7394665193415919146&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&keyword=%23bookrecs&odinId=7357040522619470894&offset=72&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&screen_height=720&screen_width=1280&search_id=202407230318241A47CEB2BEC69100170F&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT&web_search_code=%7B%22tiktok%22%3A%7B%22client_params_x%22%3A%7B%22search_engine%22%3A%7B%22ies_mt_user_live_video_card_use_libra%22%3A1%2C%22mt_search_general_user_live_card%22%3A1%7D%7D%2C%22search_server%22%3A%7B%7D%7D%7D&webcast_language=en&msToken=dNNMscwJT8_WtAJqNB3DNE-A4tnPlRvY5El41xHNTuRkoHbv2KoYby2ZtE3laS1a0mTE89eyD9v9bZnjBhtTaeAaUnqNvu7_ds8eo_9KvkZrEkAoGnWLJxk8DUKzU1adHqflu96IqBLZ&X-Bogus=DFSzswVObrJANnfOtwFblOIm4L7y&_signature=_02B4Z6wo00001HETtogAAIDBkdh9W9VyTkhxE7IAAHrj07",
+  "query": {
+    "WebIdLastTime": "1721704664",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "count": "20",
+    "data_collection_enabled": "true",
+    "device_id": "7394665193415919146",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#bookrecs",
+    "odinId": "7357040522619470894",
+    "offset": "72",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "search_id": "202407230318241A47CEB2BEC69100170F",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT",
+    "web_search_code": "{\"tiktok\":{\"client_params_x\":{\"search_engine\":{\"ies_mt_user_live_video_card_use_libra\":1,\"mt_search_general_user_live_card\":1}},\"search_server\":{}}}",
+    "webcast_language": "en",
+    "msToken": "dNNMscwJT8_WtAJqNB3DNE-A4tnPlRvY5El41xHNTuRkoHbv2KoYby2ZtE3laS1a0mTE89eyD9v9bZnjBhtTaeAaUnqNvu7_ds8eo_9KvkZrEkAoGnWLJxk8DUKzU1adHqflu96IqBLZ",
+    "X-Bogus": "DFSzswVObrJANnfOtwFblOIm4L7y",
+    "_signature": "_02B4Z6wo00001HETtogAAIDBkdh9W9VyTkhxE7IAAHrj07"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Tue, 23 Jul 2024 03:18:42 GMT",
+    "expires": "Tue, 23 Jul 2024 03:18:42 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=410, cdn-cache; desc=MISS, edge; dur=1, origin; dur=433",
+    "set-cookie": "msToken=vmIH0vUgdCz4TiNe3lCh_cx2KjnVtnRcldd31l_p8O30NRilRppmLg3IBNroE1mfGRTxTpfRSBcXAALB0nMLChiaXpsYyDxHDUn8vyZeiBbQKeOC6UvgI95Ny97HzBqPVwsWLWYijK-6; Path=/; Domain=tiktok.com; Expires=Fri, 02 Aug 2024 03:18:42 GMT; Secure; SameSite=None",
+    "status_code": "0",
+    "tt_stable": "1",
+    "x-akamai-request-id": "5d05bab",
+    "x-cache": "TCP_MISS from a23-44-130-212.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-ms-token": "vmIH0vUgdCz4TiNe3lCh_cx2KjnVtnRcldd31l_p8O30NRilRppmLg3IBNroE1mfGRTxTpfRSBcXAALB0nMLChiaXpsYyDxHDUn8vyZeiBbQKeOC6UvgI95Ny97HzBqPVwsWLWYijK-6",
+    "x-origin-response-time": "434,23.44.130.212",
+    "x-tt-logid": "202407230318420517E3D507A0B7002F76",
+    "x-tt-trace-host": "01e9c3ac1129cac96f8806772cc2e811bf9c1bb38c30c330a99386de602e6a5cf85662412774a16d593b49a0c58fa75d53c7bb82da744e17e3040af768d1867088fcdd86d3c5282ddc399ce96edb10642e036f58f6d886331fd4a57a33e1b72e31",
+    "x-tt-trace-id": "00-2407230318420517E3D507A0B7002F76-22EE4DF94D4B515D-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "status_code": 0,
+    "item_list": [
+      {
+        "id": "7246068181079575835",
+        "desc": "Getting lost in a book is the best feeling\u2601\ufe0f\u2728 what books made you forget you were reading? #booktok #booktokcommunity #fyp #foryoupage #bookgirlies #bookrecommendations #kristinhannah #leighbardugo #khaledhosseini #tjklune ",
+        "createTime": 1687106728,
+        "video": {
+          "id": "7246068181079575835",
+          "height": 1024,
+          "width": 576,
+          "duration": 27,
+          "ratio": "540p",
+          "cover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/o0jQQEuGVNdIlARf80G3WitdRb4DCBFrPWiDf5?lk3s=b59d6b55&nonce=27075&refresh_token=a6e49c2c7c576e5343277e2419e8b04d&x-expires=1721876400&x-signature=PnA5XrYqc5ar4g6ql18XXiVfOno%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/9b7dbf5f734b47c0a1817f6dc618920d_1709056882?lk3s=b59d6b55&nonce=31766&refresh_token=f9bc783d88ac6b94880be4fee01e0c5f&x-expires=1721876400&x-signature=JiBgUotfxZ4JgoOHvoZaFexVKvs%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/e3fc4237e5d84c49a1e209eca971a099_1709056882?lk3s=b59d6b55&nonce=33602&refresh_token=d61f68b580955cec0cdfa0ba726d1a9c&x-expires=1721876400&x-signature=VVXf9NGE%2BXgo2XXgkkQOm9a4sKM%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oULvec2IRhEMEysEgXZeCGANArL4QeeiLg7GbI/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&br=3848&bt=1924&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=OTxkZTVoOjdoZWgzNztpM0Bpamd1bHE5cnQ1cTMzZjgzM0AtXmAtLjFgXzUxMDRiYDNjYSNlbTIyMmRzM2NgLS1kL2Nzcw%3D%3D&btag=e00088000&expire=1721877549&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=273c01f65948d67f8f239355bd02eb96&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oYRw8A58iPgjdEIlW3FfDBQebRCRNGQWVNDuCr/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&br=4000&bt=2000&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=ZjU6ZjU8aWg1MzVmZTs5NEBpamd1bHE5cnQ1cTMzZjgzM0BiMDY0MTZgNWIxYzNfLTYxYSNlbTIyMmRzM2NgLS1kL2Nzcw%3D%3D&btag=e00088000&expire=1721877549&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=a4afceca0323c2cb111b81374aac7b21&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/9b7dbf5f734b47c0a1817f6dc618920d_1709056882~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=95403&refresh_token=0fc5904919cb0b52fe9f750bb51e0342&x-expires=1722308400&x-signature=bBBw2l0LvM%2B0Kt0DyeIwb5hdqcw%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/9b7dbf5f734b47c0a1817f6dc618920d_1709056882~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=45755&refresh_token=4d3070210b0dc8573b55755470c655aa&x-expires=1722308400&x-signature=iNimYzCv9KCXEprtYJ3l856F2QE%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/o0jQQEuGVNdIlARf80G3WitdRb4DCBFrPWiDf5~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=79164&refresh_token=a26c1f04e6d16dd4ab70e1b433f2fa3c&x-expires=1721876400&x-signature=ApW9A%2FRcE7bcQE67oY8xgk9H4dE%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1970811,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "7221097122915943429",
+          "uniqueId": "ellieeisreading",
+          "nickname": "\u2740 Ellie \u2740 BookTok \u2740",
+          "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/80d9bcbfc21f876a740b6df2e9fc0175~c5_100x100.jpeg?lk3s=a5d48078&nonce=78544&refresh_token=38111203f398f2dd1ab7f7a3e290743d&x-expires=1721876400&x-signature=yAqgC2qkmQvao0pm1%2BxShsJyons%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/80d9bcbfc21f876a740b6df2e9fc0175~c5_720x720.jpeg?lk3s=a5d48078&nonce=77724&refresh_token=b89606ea363a178c2003f00bf5b9ebbf&x-expires=1721876400&x-signature=IzWgsilpoT8%2F5ooAyNKbi4SNTsw%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/80d9bcbfc21f876a740b6df2e9fc0175~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=12875&refresh_token=690ed54774948be4c404c6905916dd0f&x-expires=1721876400&x-signature=dAfQcer7SvFrO%2FpLsjyYHO4edGg%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "\u273f 25 | UK \u273f\n\ud83d\udda4\ud83d\udc09\ud83e\uddda\u200d\u2640\ufe0f\u2764\ufe0f\ncr: wildfire\n\ud83d\udc8cellieeisreading@gmail.com",
+          "verified": false,
+          "secUid": "MS4wLjABAAAAqrziP6iezUg4ZlsGNgVp63f4UCJY15QY4whQu9D3OWVgXxnfO-CjyGHTUU_tmqIW",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 3
+        },
+        "music": {
+          "id": "7290258668908907297",
+          "title": "Love story orchestra",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-v-2370-euttp/okoBQhhkyhgzMpTEBzAY0ZllfNnInMtE6KZHsM/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZWU2PDlkaTU6Ozc2OztkM0BpMzxrcDc6Zjw2bjMzZjU8M0AxYF9iMTJfNV4xNi5jYC9iYSMzLmAwcjRvNGpgLS1kMWNzcw%3D%3D&btag=e00088000&expire=1721726375&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=d4581974157cc6b3bf94b327fee375b2&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/3b29266d99dfb01935c3c5ef8eebf5a5~c5_100x100.jpeg?lk3s=a5d48078&nonce=85482&refresh_token=7f81d0c80fc2eed8452c12723053ed12&x-expires=1721876400&x-signature=yFyv9vByJbUugj5S242eKNVEgpY%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/3b29266d99dfb01935c3c5ef8eebf5a5~c5_720x720.jpeg?lk3s=a5d48078&nonce=609&refresh_token=ee6b6a5436e63e323f863dc4dfe5ecf5&x-expires=1721876400&x-signature=pa%2F%2B5oywfhcY062wtGp04C0A6HY%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/3b29266d99dfb01935c3c5ef8eebf5a5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=68192&refresh_token=4ea7b0b6a44fc075b705a87c928af3a2&x-expires=1721876400&x-signature=uApKgY%2BIsjWvQr7MwX46Olux%2F%2Bw%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "\u269c\ufe0f",
+          "original": true,
+          "duration": 53,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "1622962893630470",
+            "title": "BookTok",
+            "desc": "Your next book is covered with #Booktok \ud83d\udcd6 \ud83c\udf1f",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=72922&refresh_token=d9cf677d6b6470e3e4323e3abc99a6c2&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=72922&refresh_token=d9cf677d6b6470e3e4323e3abc99a6c2&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=72922&refresh_token=d9cf677d6b6470e3e4323e3abc99a6c2&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=58406&refresh_token=57c6f04c10a10d6be921e2fc59619ec4&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=58406&refresh_token=57c6f04c10a10d6be921e2fc59619ec4&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=58406&refresh_token=57c6f04c10a10d6be921e2fc59619ec4&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "1671414083768326",
+            "title": "booktokcommunity",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "88764338",
+            "title": "foryoupage",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1686932960721925",
+            "title": "bookgirlies",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "58993759",
+            "title": "bookrecommendations",
+            "desc": "It's World Book Day and we want to hear your all-time favourite book recommendations \ud83d\udcda",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=47045&refresh_token=3157a45c680878926dd1a29b9a30be79&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=47045&refresh_token=3157a45c680878926dd1a29b9a30be79&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=47045&refresh_token=3157a45c680878926dd1a29b9a30be79&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "15233400",
+            "title": "kristinhannah",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "83341912",
+            "title": "leighbardugo",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1610486158031878",
+            "title": "khaledhosseini",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1661064471075846",
+            "title": "tjklune",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 593800,
+          "shareCount": 6227,
+          "commentCount": 2598,
+          "playCount": 8400000,
+          "collectCount": 176000
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 91,
+            "end": 99,
+            "hashtagName": "booktok",
+            "hashtagId": "1622962893630470",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 100,
+            "end": 117,
+            "hashtagName": "booktokcommunity",
+            "hashtagId": "1671414083768326",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 118,
+            "end": 122,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 123,
+            "end": 134,
+            "hashtagName": "foryoupage",
+            "hashtagId": "88764338",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 135,
+            "end": 147,
+            "hashtagName": "bookgirlies",
+            "hashtagId": "1686932960721925",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 148,
+            "end": 168,
+            "hashtagName": "bookrecommendations",
+            "hashtagId": "58993759",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 169,
+            "end": 183,
+            "hashtagName": "kristinhannah",
+            "hashtagId": "15233400",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 184,
+            "end": 197,
+            "hashtagName": "leighbardugo",
+            "hashtagId": "83341912",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 198,
+            "end": 213,
+            "hashtagName": "khaledhosseini",
+            "hashtagId": "1610486158031878",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 214,
+            "end": 222,
+            "hashtagName": "tjklune",
+            "hashtagId": "1661064471075846",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 447,
+          "followerCount": 30000,
+          "heartCount": 772200,
+          "videoCount": 196,
+          "diggCount": 10100,
+          "heart": 772200
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "isAd": false,
+        "collected": false,
+        "videoSuggestWordsList": {
+          "video_suggest_words_struct": [
+            {
+              "words": [
+                {
+                  "word": "the nightingale book",
+                  "word_id": "7963573271608092974"
+                }
+              ],
+              "scene": "feed_bar",
+              "hint_text": "Search \u00b7"
+            }
+          ]
+        }
+      },
+      {
+        "id": "7390934628724591918",
+        "desc": "Kindle Unlimited Book Recommendations \ud83e\udd2d All of these were 4.5\u2b50\ufe0f & UP. #kindleunlimited #bookrecommendations  #bookrecs #kindleunlimitedromance  #bestbooks #foryoupage #fypchallenge ",
+        "createTime": 1720836073,
+        "video": {
+          "id": "7390934628724591918",
+          "height": 1024,
+          "width": 576,
+          "duration": 153,
+          "ratio": "540p",
+          "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/okejjN1SIkYEIvHyHAQFLgefnYhAvFIDEykCg7?lk3s=b59d6b55&nonce=13514&refresh_token=f9ab6584d1bf25ec862e79d85a19c55c&x-expires=1721876400&x-signature=60Kjyf09mEiFBsPcexN51dxUNfY%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c924a2abde84417c9c287cae6a1158f5_1720836075?lk3s=b59d6b55&nonce=38142&refresh_token=5a08393e5a446881e7504bb8666e8f9e&x-expires=1721876400&x-signature=bRps8SOcxysY5udNk%2FIXU%2FOzmFc%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a1127ac1eac7482495322d63d01d1ca1_1720836076?lk3s=b59d6b55&nonce=74457&refresh_token=c0b7b4c03139f9dac0275fc09535e9d5&x-expires=1721876400&x-signature=qDWc5VqHPXHCUj7St2gD05qlPxc%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-pve-0068-tx/o0YwGhBgNkH8NLYjCgFEAeDnIIAje41IQSfyk7/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3502&bt=1751&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=ZzZkO2dmNzUzaWk7OGU0ZEBpMzhrbWo5cjx3dDMzZzczNEBjL2FhNTNjXjUxLTMxNl9eYSNsZi4xMmRzczVgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1721877675&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=5f460bb4fa4b6f109f1b281e1e84bedf&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c003-tx/okIJRmZEVBda5gRMwMEAiiiDf4BRFkQZJfwT7S/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2782&bt=1391&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=N2ZnZjU5OGY4ODpnZjNlPEBpMzhrbWo5cjx3dDMzZzczNEAxYzY0Y2NfNi4xNjA1XjEyYSNsZi4xMmRzczVgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1721877675&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=642ccc43f2e5bba6f0898f28ca195b2a&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/c924a2abde84417c9c287cae6a1158f5_1720836075~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=59931&refresh_token=dde324231c129f45f916db17184b1bf4&x-expires=1722308400&x-signature=yTKnfkNMru6S6PoV1hosziIrvjY%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c924a2abde84417c9c287cae6a1158f5_1720836075~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=305&refresh_token=04dbf31c4a2ec17856c7c2cf29f54622&x-expires=1722308400&x-signature=cAnqPRxFlv1mUsKzYmYZsM0l2ls%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/okejjN1SIkYEIvHyHAQFLgefnYhAvFIDEykCg7~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=99525&refresh_token=5c1d08762ac4347b33334d106aacf56b&x-expires=1721876400&x-signature=D7mr0scXQet%2FpSZOS4oYBRdcTvg%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1793481,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "7260191927626105898",
+          "uniqueId": "sybrenna",
+          "nickname": "Sybrenna\ud83d\udcda",
+          "avatarThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b725d8177e996f76fc2b95194d0efb46~c5_100x100.jpeg?lk3s=a5d48078&nonce=72363&refresh_token=d5a0eba93cfebffd3902efb42d361b80&x-expires=1721876400&x-signature=RjFebt76%2BCLvpx7l%2BP984gGg3ds%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b725d8177e996f76fc2b95194d0efb46~c5_720x720.jpeg?lk3s=a5d48078&nonce=4759&refresh_token=c3e884233dba19e327da836ffa7af04b&x-expires=1721876400&x-signature=E%2FmCeNqOY%2FcIN6Ixt1T4qWyFQek%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b725d8177e996f76fc2b95194d0efb46~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=42576&refresh_token=40a75a8e388265e065ca482b2c070fb3&x-expires=1721876400&x-signature=h8XG5OSmgq2OgvM0TC9iC7hGOkE%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "Somewhere Reading\ud83d\udcda 25. \nbooksybrenna@gmail.com \ud83e\ude77\nwishlist & recommendations\u2935\ufe0f",
+          "verified": false,
+          "secUid": "MS4wLjABAAAAB6d9xNZ_Vk3Y87iqtYA1-OZPGzjFUoD5GbGsnwoiOgIoBnffo0oqbgABVxtqQ6wE",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7390934655781882667",
+          "title": "original sound",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-27dcd7-tx/oMEsgdIYQOAadHReyvLIjy00iff6TQJeGF3mgi/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZWc2ZDs2aGg4OWk1NzQzaUBpampvcHI5cnV3dDMzZzU8NEAyYl9eYi1fNS0xYTEyLl5gYSM1aF9rMmRrczVgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1721726475&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=922563cde382569189e3abd4bb46306c&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b725d8177e996f76fc2b95194d0efb46~c5_100x100.jpeg?lk3s=a5d48078&nonce=72363&refresh_token=d5a0eba93cfebffd3902efb42d361b80&x-expires=1721876400&x-signature=RjFebt76%2BCLvpx7l%2BP984gGg3ds%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b725d8177e996f76fc2b95194d0efb46~c5_720x720.jpeg?lk3s=a5d48078&nonce=4759&refresh_token=c3e884233dba19e327da836ffa7af04b&x-expires=1721876400&x-signature=E%2FmCeNqOY%2FcIN6Ixt1T4qWyFQek%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b725d8177e996f76fc2b95194d0efb46~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=42576&refresh_token=40a75a8e388265e065ca482b2c070fb3&x-expires=1721876400&x-signature=h8XG5OSmgq2OgvM0TC9iC7hGOkE%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "Sybrenna\ud83d\udcda",
+          "original": true,
+          "duration": 153,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "1602735447553030",
+            "title": "kindleunlimited",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "58993759",
+            "title": "bookrecommendations",
+            "desc": "It's World Book Day and we want to hear your all-time favourite book recommendations \ud83d\udcda",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=60683&refresh_token=9de05a340f7fe1ed90e7ea1460a2a2aa&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=60683&refresh_token=9de05a340f7fe1ed90e7ea1460a2a2aa&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=60683&refresh_token=9de05a340f7fe1ed90e7ea1460a2a2aa&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "1647746061443078",
+            "title": "bookrecs",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1693233896495109",
+            "title": "kindleunlimitedromance",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "8068842",
+            "title": "bestbooks",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "88764338",
+            "title": "foryoupage",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1634922086900741",
+            "title": "fypchallenge",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 4213,
+          "shareCount": 131,
+          "commentCount": 39,
+          "playCount": 52500,
+          "collectCount": 2247
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 71,
+            "end": 87,
+            "hashtagName": "kindleunlimited",
+            "hashtagId": "1602735447553030",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 88,
+            "end": 108,
+            "hashtagName": "bookrecommendations",
+            "hashtagId": "58993759",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 110,
+            "end": 119,
+            "hashtagName": "bookrecs",
+            "hashtagId": "1647746061443078",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 120,
+            "end": 143,
+            "hashtagName": "kindleunlimitedromance",
+            "hashtagId": "1693233896495109",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 145,
+            "end": 155,
+            "hashtagName": "bestbooks",
+            "hashtagId": "8068842",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 156,
+            "end": 167,
+            "hashtagName": "foryoupage",
+            "hashtagId": "88764338",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 168,
+            "end": 181,
+            "hashtagName": "fypchallenge",
+            "hashtagId": "1634922086900741",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 871,
+          "followerCount": 10200,
+          "heartCount": 130800,
+          "videoCount": 278,
+          "diggCount": 33700,
+          "heart": 130800
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "Kindle Unlimited Book Recommendations\u00a0"
+            ]
+          }
+        ],
+        "isAd": false,
+        "collected": false
+      },
+      {
+        "id": "7225092945530096942",
+        "desc": "sports romance recs! \ud83e\udd0d #booktok #booktoker #dirtyairseries #laurenasher #redzonerivalsseries #kandisteiner #playingforkeepsseries #beckamack #bookrecs #bookrecommendations ",
+        "createTime": 1682223051,
+        "video": {
+          "id": "7225092945530096942",
+          "height": 1280,
+          "width": 720,
+          "duration": 171,
+          "ratio": "720p",
+          "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/849c17f74a324c24b1d1d05133a1a3f0?lk3s=b59d6b55&nonce=6996&refresh_token=f12ea788c66382a5b628446912c7e6ae&x-expires=1721876400&x-signature=nUZDYukKUDs6xIPOK0ALhwVKAQo%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/96754fbc5b984b9da1617899cbd9b4e0_1682223052?lk3s=b59d6b55&nonce=90918&refresh_token=5c72379b08308f6d0b96c7bcfd5717e8&x-expires=1721876400&x-signature=eXP2MHfxGh6bwy4Rw1%2BaLAH2D6I%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/27c9761d402942b9b8862c655929f4e3_1682223053?lk3s=b59d6b55&nonce=56473&refresh_token=9f6c3abccb0d42bd2b955f3f355205d0&x-expires=1721876400&x-signature=ZSDNCpZPJqCCIrkYKirrbjE7icQ%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-pve-0068-tx/oQAgJeV42RxNnYirRb6BKhEJgSDcDKBoJkepQ2/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2054&bt=1027&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=NTxpOjk1MzplOWhlZjllPEBpajdsaTc6ZmhkazMzZzczNEA1YjIxXy8zNi0xXmNgNjVfYSNxaV5wcjQwby9gLS1kMS9zcw%3D%3D&btag=e00090000&expire=1721877693&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=3620d881b7127659b14ae7692a464c77&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c001-tx/o8nDp2k6gXRJD4xEeKAKqQonJg6SRxVB2kb6eJ/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1896&bt=948&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=ZWc1ZjY5ZzdoaWZnNGc8ZEBpajdsaTc6ZmhkazMzZzczNEAxNmMtMDFjXmMxNjUuYzNjYSNxaV5wcjQwby9gLS1kMS9zcw%3D%3D&btag=e00090000&expire=1721877693&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=0a7fb1dbb37d06938c08b84b9e79eebf&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/96754fbc5b984b9da1617899cbd9b4e0_1682223052~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=2634&refresh_token=7048c24bedb0fed555c0587485b95cc9&x-expires=1722308400&x-signature=BQfhqBHUjKvw3N5YkPgO4byH8BY%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/96754fbc5b984b9da1617899cbd9b4e0_1682223052~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=76772&refresh_token=90365b781d428f61e219ef6f172e83c6&x-expires=1722308400&x-signature=yJoM3xZ5zcIdyl9jF6znCjDrq5o%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/849c17f74a324c24b1d1d05133a1a3f0~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=81681&refresh_token=2193f4d3a558b41e927aae7ba9df3ba1&x-expires=1721876400&x-signature=fisUwvnZQIm5STmuvZ7jvJZF%2BUA%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1051681,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "6877774008223286277",
+          "uniqueId": "aapueoreads",
+          "nickname": "Koko Kingston \ud83d\udcd6 \ud83e\ude75",
+          "avatarThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/f4a53eeedb91d75c8eb707eee7199c03~c5_100x100.jpeg?lk3s=a5d48078&nonce=81989&refresh_token=75696537c0ed157a8fa90ec95df9e875&x-expires=1721876400&x-signature=UjymEVQPtKZSyaWxL2xCxZUG07A%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/f4a53eeedb91d75c8eb707eee7199c03~c5_720x720.jpeg?lk3s=a5d48078&nonce=16867&refresh_token=c27d2ebbdfde1f16804541c1af8084e7&x-expires=1721876400&x-signature=zNc3HYk5%2Fq5Pt6s6S60G3apnojo%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/f4a53eeedb91d75c8eb707eee7199c03~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=84187&refresh_token=9e030a9c33ede5198f96758b5e1ace9c&x-expires=1721876400&x-signature=YpssDlf4Y2J3EYvaZDYkB4VNRuU%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "\ud83e\udd8b bookworm from hawai\u02bbi\n\ud83d\udc8c aapueoreads@gmail.com\nlinks \u2193",
+          "verified": false,
+          "secUid": "MS4wLjABAAAAHEIUvK3lpTYyJMvtO8LqyyC7OyqHCmarev3jvVvxa6S1wskcoSFJgKW3wKjEFSRg",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7225092943932263214",
+          "title": "original sound",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-27dcd7-tx/o8UJfSkCKWMIZnCEzDISkRflgCQBggNChrUnu9/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZDM6aWRmZTs5OjczOGRkOkBpMzc0ZTU6Zm1kazMzZzU8NEAvXjFeLi5fXmExLjQuLTY1YSMuMmgxcjRncy9gLS1kMS9zcw%3D%3D&btag=e00090000&expire=1721726493&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=2278185e0356d1e745f4b46130e83a10&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/f4a53eeedb91d75c8eb707eee7199c03~c5_100x100.jpeg?lk3s=a5d48078&nonce=81989&refresh_token=75696537c0ed157a8fa90ec95df9e875&x-expires=1721876400&x-signature=UjymEVQPtKZSyaWxL2xCxZUG07A%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/f4a53eeedb91d75c8eb707eee7199c03~c5_720x720.jpeg?lk3s=a5d48078&nonce=16867&refresh_token=c27d2ebbdfde1f16804541c1af8084e7&x-expires=1721876400&x-signature=zNc3HYk5%2Fq5Pt6s6S60G3apnojo%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/f4a53eeedb91d75c8eb707eee7199c03~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=84187&refresh_token=9e030a9c33ede5198f96758b5e1ace9c&x-expires=1721876400&x-signature=YpssDlf4Y2J3EYvaZDYkB4VNRuU%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "Koko Kingston \ud83d\udcd6 \ud83e\ude75",
+          "original": true,
+          "duration": 171,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "1622962893630470",
+            "title": "BookTok",
+            "desc": "Your next book is covered with #Booktok \ud83d\udcd6 \ud83c\udf1f",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=67205&refresh_token=dfd7f701dd64c0a32dfa9828eb09b44b&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=67205&refresh_token=dfd7f701dd64c0a32dfa9828eb09b44b&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=67205&refresh_token=dfd7f701dd64c0a32dfa9828eb09b44b&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=46485&refresh_token=1a741c0e7a692d7302edaa7f3e04ad5d&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=46485&refresh_token=1a741c0e7a692d7302edaa7f3e04ad5d&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=46485&refresh_token=1a741c0e7a692d7302edaa7f3e04ad5d&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "1645803417138182",
+            "title": "booktoker",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1688069790684165",
+            "title": "dirtyairseries",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1688069613703174",
+            "title": "laurenasher",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "7155950960802545710",
+            "title": "redzonerivalsseries",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1673944288243718",
+            "title": "kandisteiner",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "7094254346648436782",
+            "title": "playingforkeepsseries",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1702065389665285",
+            "title": "beckamack",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1647746061443078",
+            "title": "bookrecs",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "58993759",
+            "title": "bookrecommendations",
+            "desc": "It's World Book Day and we want to hear your all-time favourite book recommendations \ud83d\udcda",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=67497&refresh_token=718f068527c0193fa858c332ec5cfabb&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=67497&refresh_token=718f068527c0193fa858c332ec5cfabb&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=67497&refresh_token=718f068527c0193fa858c332ec5cfabb&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 260200,
+          "shareCount": 8501,
+          "commentCount": 1187,
+          "playCount": 2000000,
+          "collectCount": 123700
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 24,
+            "end": 32,
+            "hashtagName": "booktok",
+            "hashtagId": "1622962893630470",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 33,
+            "end": 43,
+            "hashtagName": "booktoker",
+            "hashtagId": "1645803417138182",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 44,
+            "end": 59,
+            "hashtagName": "dirtyairseries",
+            "hashtagId": "1688069790684165",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 60,
+            "end": 72,
+            "hashtagName": "laurenasher",
+            "hashtagId": "1688069613703174",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 73,
+            "end": 93,
+            "hashtagName": "redzonerivalsseries",
+            "hashtagId": "7155950960802545710",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 94,
+            "end": 107,
+            "hashtagName": "kandisteiner",
+            "hashtagId": "1673944288243718",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 108,
+            "end": 130,
+            "hashtagName": "playingforkeepsseries",
+            "hashtagId": "7094254346648436782",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 131,
+            "end": 141,
+            "hashtagName": "beckamack",
+            "hashtagId": "1702065389665285",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 142,
+            "end": 151,
+            "hashtagName": "bookrecs",
+            "hashtagId": "1647746061443078",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 152,
+            "end": 172,
+            "hashtagName": "bookrecommendations",
+            "hashtagId": "58993759",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "effectStickers": [
+          {
+            "name": "Eyelashes",
+            "ID": "1587656"
+          }
+        ],
+        "authorStats": {
+          "followingCount": 240,
+          "followerCount": 48000,
+          "heartCount": 2900000,
+          "videoCount": 1097,
+          "diggCount": 29000,
+          "heart": 2900000
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "isAd": false,
+        "collected": false,
+        "anchors": [
+          {
+            "id": "1587656",
+            "type": 28,
+            "keyword": "Eyelashes",
+            "icon": {
+              "urlList": [
+                "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?nonce=50506&refresh_token=f9d2f7ad5d4bd989f81127ae1b8f2300&shp=b59d6b55&shcp=-"
+              ]
+            },
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=71351105",
+            "description": "Effects",
+            "thumbnail": {
+              "urlList": [
+                "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/64px_anchor_effect3x.png?nonce=80654&refresh_token=0c20b8c7506dc8eb02a549a4debf2287&shp=b59d6b55&shcp=-"
+              ],
+              "width": 64,
+              "height": 64
+            },
+            "extraInfo": {
+              "subtype": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "7318753306367511841",
+        "desc": "I\u2019ll never stop recommending these books \ud83e\udd0d #BookTok #selfhelpbooks #growth #selfhelp #bookrecommendations #booksilove #bookclub #selflove #bookgirl #bookstoreadinyourtwenties #foryou ",
+        "createTime": 1704030052,
+        "video": {
+          "id": "7318753306367511841",
+          "height": 1024,
+          "width": 576,
+          "duration": 21,
+          "ratio": "540p",
+          "cover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/488e78a02f224e848e82bdf0ef08aed2_1704030053?lk3s=b59d6b55&nonce=64138&refresh_token=afd684f43c29c294502ab98234b4ec7d&x-expires=1721876400&x-signature=WKrMSpawV%2FjVzyDNneTqvDTmCxY%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/495d9448ef1a49f982d96fd7d012e07b_1704030054?lk3s=b59d6b55&nonce=62236&refresh_token=9c213dc341e4221496f026d43c6d74cc&x-expires=1721876400&x-signature=mJG5adYQS5Xj9M97KatEOZhKodk%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/dff1639585cf4f9ea76c57ad67ce699c_1704030054?lk3s=b59d6b55&nonce=50532&refresh_token=f8e822d6ec4c784379da1c21fb72c254&x-expires=1721876400&x-signature=U3zdWAztCnD4v1u3NiHEh9HxZPQ%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/ookAWBiW2lBCRrQke7WmiqRDfzPQmlEEbQIQHj/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1782&bt=891&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=ODNoNTY8NjxmZTxnNWdlOEBpMzc1a205cjtwcDMzZjczM0BfNmEzNjE0Xl4xMWEuYy0vYSNfYW5xMmRjcjVgLS1kMWNzcw%3D%3D&btag=e00088000&expire=1721877543&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=0c3e79bd4bc0f32e1ce0ebf2aae07ad7&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oEvDFBh2WEn5Ie8RQgE2EfshPbkilIAOkDNRQo/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1856&bt=928&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=OztmNzo1NDg6OzppNWY3ZUBpMzc1a205cjtwcDMzZjczM0BeLi5eNjQ1XzIxL2IzNS42YSNfYW5xMmRjcjVgLS1kMWNzcw%3D%3D&btag=e00088000&expire=1721877543&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=6cb3325776d1ced01685c5635d7685fa&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/495d9448ef1a49f982d96fd7d012e07b_1704030054~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=99315&refresh_token=9164208269497fc31c5f5052c86d622f&x-expires=1722308400&x-signature=Ch15bzDzJVaoaxC7mylvdKcLkF4%3D&shp=b59d6b55&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/495d9448ef1a49f982d96fd7d012e07b_1704030054~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=59340&refresh_token=eda2078aa406d8f35c3723d3b1cbff0b&x-expires=1722308400&x-signature=0YTXDxyQxw27r9HT5LtXKSfQl1s%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/488e78a02f224e848e82bdf0ef08aed2_1704030053~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=69534&refresh_token=4a6a600a694f1f62af70fe943bd0930d&x-expires=1721876400&x-signature=aTnRzfPP61UFfDoyOl4m2F8fjUE%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 912422,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "6640116144151773190",
+          "uniqueId": "amyjordanj",
+          "nickname": "Amy Jordan",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7324126317497024517~c5_100x100.jpeg?lk3s=a5d48078&nonce=20630&refresh_token=02b08ed4e78fa68ad8287daf71c1f079&x-expires=1721876400&x-signature=PQ75Bzxk29fmUTeu7M%2Ff7E1JVQ4%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7324126317497024517~c5_720x720.jpeg?lk3s=a5d48078&nonce=66201&refresh_token=37a6748332039cd0fa5bef1a99de390e&x-expires=1721876400&x-signature=3uY0hwzcajcPSH3q0z3t2C3tmzA%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7324126317497024517~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=98505&refresh_token=7ef1577ef3fddb0df2b5ba7ff9cdb462&x-expires=1721876400&x-signature=6yYoApxiTxIoMnhEF60Z3BdfI%2FU%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "Author\n      London \u2728\namyjordanjennings@gmail.com",
+          "verified": false,
+          "secUid": "MS4wLjABAAAArsJL1EiyjVMQj031OKn44o7UPm0HMW6X1t6mPn5JSF_42RXTXB3Rp5FkcvbyPTLz",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7270948223911791393",
+          "title": "The Panic Years Truly 20s",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-v-2370-euttp/owKcB1Ion6Bfsh8mr6EYKcNPbxzHhApMPMOyKn/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=OmVlNTozPDs4Njk6Nzo5OkBpM3JqNmQ6ZnRzbTMzZjU8M0AwYTRfY2AyNjAxNTBgYWAzYSNqcm8ycjRnZWdgLS1kMWNzcw%3D%3D&btag=e00088000&expire=1721726373&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=0cc18fdd39617ad5cf4d624e7c8d8276&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2dcf0149d15cfec54d4ac5bc9d10ee46~c5_100x100.jpeg?lk3s=a5d48078&nonce=43810&refresh_token=d805c75331969c621ed2e180273d5d08&x-expires=1721876400&x-signature=qynm%2BbYGWpXTOpyoo3G%2Fi9N7Ik0%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2dcf0149d15cfec54d4ac5bc9d10ee46~c5_720x720.jpeg?lk3s=a5d48078&nonce=21016&refresh_token=9038605acb479a2b21dd92b3cd9fed51&x-expires=1721876400&x-signature=lpgzK543nGlXBDzFRYH8yWuICAg%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2dcf0149d15cfec54d4ac5bc9d10ee46~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=51759&refresh_token=ab15100481e29e8ea94e99c9fed08e82&x-expires=1721876400&x-signature=XQa%2B0UusUNRclIxtDOzwgO8H7Xo%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "trulytwenties_",
+          "original": true,
+          "duration": 51,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "1622962893630470",
+            "title": "BookTok",
+            "desc": "Your next book is covered with #Booktok \ud83d\udcd6 \ud83c\udf1f",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=74164&refresh_token=e1d97b18b3fcee57e0006571c9f0e107&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=74164&refresh_token=e1d97b18b3fcee57e0006571c9f0e107&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=74164&refresh_token=e1d97b18b3fcee57e0006571c9f0e107&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=36413&refresh_token=39293fbea1954516bf5cd86f70b1122a&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=36413&refresh_token=39293fbea1954516bf5cd86f70b1122a&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=36413&refresh_token=39293fbea1954516bf5cd86f70b1122a&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "76820002",
+            "title": "selfhelpbooks",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "173033",
+            "title": "growth",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "265710",
+            "title": "selfhelp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "58993759",
+            "title": "bookrecommendations",
+            "desc": "It's World Book Day and we want to hear your all-time favourite book recommendations \ud83d\udcda",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=31209&refresh_token=0497781c88be97f5080f7e62a9db9471&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=31209&refresh_token=0497781c88be97f5080f7e62a9db9471&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=31209&refresh_token=0497781c88be97f5080f7e62a9db9471&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "8068843",
+            "title": "booksilove",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "2103574",
+            "title": "bookclub",
+            "desc": "Explore another world without leaving the comfort of your home. Welcome to the #BookClub \ud83d\udcda",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/a2ef9eeaba2532d60c580f7177689bc7?nonce=1944&refresh_token=dac7551fbab8e4fc89d164ee99dfc483&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/a2ef9eeaba2532d60c580f7177689bc7?nonce=1944&refresh_token=dac7551fbab8e4fc89d164ee99dfc483&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/a2ef9eeaba2532d60c580f7177689bc7?nonce=1944&refresh_token=dac7551fbab8e4fc89d164ee99dfc483&shp=b59d6b55&shcp=-",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "26155",
+            "title": "selflove",
+            "desc": "#SelfLove is the best love, so show us how you're taking care of yourself.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bd3d8072769adb910ef762aa85db7031.jpeg?nonce=30271&refresh_token=6ff025a8c9d6b6d786320e8402501cbf&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bd3d8072769adb910ef762aa85db7031.jpeg?nonce=30271&refresh_token=6ff025a8c9d6b6d786320e8402501cbf&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bd3d8072769adb910ef762aa85db7031.jpeg?nonce=30271&refresh_token=6ff025a8c9d6b6d786320e8402501cbf&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b9d56e05261ac1fa131601f1f7e570a6.png?nonce=76283&refresh_token=54f649ac2345ff583eb7268109edd919&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b9d56e05261ac1fa131601f1f7e570a6.png?nonce=76283&refresh_token=54f649ac2345ff583eb7268109edd919&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b9d56e05261ac1fa131601f1f7e570a6.png?nonce=76283&refresh_token=54f649ac2345ff583eb7268109edd919&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "17558889",
+            "title": "bookgirl",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1688321326291969",
+            "title": "bookstoreadinyourtwenties",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "42164",
+            "title": "foryou",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 1000000,
+          "shareCount": 9556,
+          "commentCount": 905,
+          "playCount": 9400000,
+          "collectCount": 563000
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 44,
+            "end": 52,
+            "hashtagName": "booktok",
+            "hashtagId": "1622962893630470",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 53,
+            "end": 67,
+            "hashtagName": "selfhelpbooks",
+            "hashtagId": "76820002",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 68,
+            "end": 75,
+            "hashtagName": "growth",
+            "hashtagId": "173033",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 76,
+            "end": 85,
+            "hashtagName": "selfhelp",
+            "hashtagId": "265710",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 86,
+            "end": 106,
+            "hashtagName": "bookrecommendations",
+            "hashtagId": "58993759",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 107,
+            "end": 118,
+            "hashtagName": "booksilove",
+            "hashtagId": "8068843",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 119,
+            "end": 128,
+            "hashtagName": "bookclub",
+            "hashtagId": "2103574",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 129,
+            "end": 138,
+            "hashtagName": "selflove",
+            "hashtagId": "26155",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 139,
+            "end": 148,
+            "hashtagName": "bookgirl",
+            "hashtagId": "17558889",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 149,
+            "end": 175,
+            "hashtagName": "bookstoreadinyourtwenties",
+            "hashtagId": "1688321326291969",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 176,
+            "end": 183,
+            "hashtagName": "foryou",
+            "hashtagId": "42164",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 103,
+          "followerCount": 451400,
+          "heartCount": 25700000,
+          "videoCount": 397,
+          "diggCount": 71500,
+          "heart": 25700000
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "Books every girl in her 20\u2019s needs to read\u2026\ud83d\udc9e"
+            ]
+          }
+        ],
+        "isAd": false,
+        "collected": false
+      },
+      {
+        "id": "7288523866446630174",
+        "desc": "Replying to @Ari<3 idk why the comment wouldnt stay on the screen but i hope this helps\ud83e\udd70\ud83e\udd70  #fyp #foryoupage #bookrecs #booktok #books #book ",
+        "createTime": 1696991718,
+        "video": {
+          "id": "7288523866446630174",
+          "height": 1024,
+          "width": 576,
+          "duration": 176,
+          "ratio": "540p",
+          "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/o4XE0ilQMtNnKBOEAjVegbDdeEARRBJCVWvVzI?lk3s=b59d6b55&nonce=75163&refresh_token=801a6626836e37cc3917012fe41deb5a&x-expires=1721876400&x-signature=UoeEnlyJZv7ICK5JFMoeYRQVyUc%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/4e21d61a9d744e299c5ea4ef3b4d300d_1696991721?lk3s=b59d6b55&nonce=5101&refresh_token=bbe12f544d94abeafe17514408374a42&x-expires=1721876400&x-signature=vrrY7irY2ZXRpm5LnwQS9d5TGLg%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/0f9614ee67474507a6b115c05fba9114_1696991722?lk3s=b59d6b55&nonce=3880&refresh_token=35deb8822470be118c5eb658fb51faae&x-expires=1721876400&x-signature=oU8%2BRN%2B3jbt34Tw2brvSOJaY6zk%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c002-tx2/osglBMDwDjEevRFAfAgQJWVTRitOnEgCEbXINV/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2236&bt=1118&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=Zjs1OWlnOzs2NWk0aWY3OEBpajl3ZzQ6ZjszbjMzaTczNEAvL2E1Y2IvNjExXmNhLTNjYSNpY2gycjRvZWdgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1721877698&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=fb77b1dc26c65a383905275c91cce247&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c001-tx2/oEUhnCXgIKBCqBkAmmOztirIRRAfQVwAX0hyE2/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2160&bt=1080&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=NjszaDo8ZDdnZGg7NTtkZUBpajl3ZzQ6ZjszbjMzaTczNEBiNS5hNDMwXjQxMi8xYC4wYSNpY2gycjRvZWdgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1721877698&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=aee863cc5c1dc2678a72ef6d261b79a4&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/4e21d61a9d744e299c5ea4ef3b4d300d_1696991721~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=84520&refresh_token=9de3ef0e3248ae19607df3d981d43d71&x-expires=1722308400&x-signature=jauNaidTWBqvBsWlZe9kgDsk7rU%3D&shp=b59d6b55&shcp=-",
+            "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/4e21d61a9d744e299c5ea4ef3b4d300d_1696991721~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=7931&refresh_token=10936e49ea4164a4d145cc2fb9f10f4e&x-expires=1722308400&x-signature=TKKrbXrkVMOtmmU5lmD4gne1RH8%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o4XE0ilQMtNnKBOEAjVegbDdeEARRBJCVWvVzI~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=72310&refresh_token=6fde7f672a439e2e16bb1930bb385611&x-expires=1721876400&x-signature=H28Vxod4eRjHDJN02ab7rT5KvoA%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1145644,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "7256445207084188714",
+          "uniqueId": "jolie_reads",
+          "nickname": "Jolie Reads",
+          "avatarThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_100x100.jpeg?lk3s=a5d48078&nonce=46941&refresh_token=2724c742c901067aa9c060b85ae81ec1&x-expires=1721876400&x-signature=BJPdCjCmfjVLugczYNjyT3Ea4qE%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_720x720.jpeg?lk3s=a5d48078&nonce=49735&refresh_token=986dcc167b96888bdc909a6ad3ce6490&x-expires=1721876400&x-signature=joCfUSOKg7fQ9jE4pT5OH4DXFA4%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=11845&refresh_token=055bc065dc56bf7e658aeff49279473e&x-expires=1721876400&x-signature=wwfJB9geQOScyqZCjxXDCkdJtGM%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "Joshua 1:9  \nI love to read \n\ud83d\udc8c: joliemcadoobusiness@gmail.com\n\ud83c\udf80links\ud83c\udf80",
+          "verified": false,
+          "secUid": "MS4wLjABAAAAd4Ri85PmyCKTLGH2E_TzFCMsPwkQHfQU7nR9S-dXOmrs5W7C9WW7UcZMyXoYN0BA",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7288523970339490590",
+          "title": "original sound",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-v-27dcd7-tx2/oYshCwE3zMsgEmLTBpfQqrE0rAtwyCiIhBAoKk/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=NjQ6ZDplZ2hkPDlpM2g3PEBpM2U5dGU6ZnQzbjMzaTU8NEAtNTUxYjYwXzQxNGJjX2JeYSMvZzFvcjRfZ2dgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1721726498&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=6e414e40bc9e69b85b3fe1c835bbedd8&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_100x100.jpeg?lk3s=a5d48078&nonce=46941&refresh_token=2724c742c901067aa9c060b85ae81ec1&x-expires=1721876400&x-signature=BJPdCjCmfjVLugczYNjyT3Ea4qE%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_720x720.jpeg?lk3s=a5d48078&nonce=49735&refresh_token=986dcc167b96888bdc909a6ad3ce6490&x-expires=1721876400&x-signature=joCfUSOKg7fQ9jE4pT5OH4DXFA4%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=11845&refresh_token=055bc065dc56bf7e658aeff49279473e&x-expires=1721876400&x-signature=wwfJB9geQOScyqZCjxXDCkdJtGM%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "Jolie Reads",
+          "original": true,
+          "duration": 176,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "88764338",
+            "title": "foryoupage",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1647746061443078",
+            "title": "bookrecs",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1622962893630470",
+            "title": "BookTok",
+            "desc": "Your next book is covered with #Booktok \ud83d\udcd6 \ud83c\udf1f",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=81370&refresh_token=46da5a45a5e90241de900d66b17735c8&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=81370&refresh_token=46da5a45a5e90241de900d66b17735c8&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=81370&refresh_token=46da5a45a5e90241de900d66b17735c8&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=70356&refresh_token=9b182b0cb9fd58e3465ad1115900981a&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=70356&refresh_token=9b182b0cb9fd58e3465ad1115900981a&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=70356&refresh_token=9b182b0cb9fd58e3465ad1115900981a&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "17861",
+            "title": "books",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "94639",
+            "title": "book",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 81000,
+          "shareCount": 810,
+          "commentCount": 469,
+          "playCount": 649900,
+          "collectCount": 31900
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 12,
+            "end": 18,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6947047923965805573",
+            "isCommerce": false,
+            "userUniqueId": "ari.brooke07",
+            "secUid": "MS4wLjABAAAAPNQaE0CHGVjP2uRKBQGnMgiifGbgleftTzCSXlxTUhQr7Hj3WzWy2HTyWs2JXuGf",
+            "subType": 2
+          },
+          {
+            "awemeId": "",
+            "start": 93,
+            "end": 97,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 98,
+            "end": 109,
+            "hashtagName": "foryoupage",
+            "hashtagId": "88764338",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 110,
+            "end": 119,
+            "hashtagName": "bookrecs",
+            "hashtagId": "1647746061443078",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 120,
+            "end": 128,
+            "hashtagName": "booktok",
+            "hashtagId": "1622962893630470",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 129,
+            "end": 135,
+            "hashtagName": "books",
+            "hashtagId": "17861",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 136,
+            "end": 141,
+            "hashtagName": "book",
+            "hashtagId": "94639",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "effectStickers": [
+          {
+            "name": "cute freckles with lashes",
+            "ID": "4206126"
+          }
+        ],
+        "authorStats": {
+          "followingCount": 832,
+          "followerCount": 260500,
+          "heartCount": 7100000,
+          "videoCount": 1211,
+          "diggCount": 15100,
+          "heart": 7100000
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "book recs for when ",
+              "you don\u2019t know what to read",
+              "(based on moods)"
+            ]
+          }
+        ],
+        "isAd": false,
+        "collected": false,
+        "anchors": [
+          {
+            "id": "4206126",
+            "type": 28,
+            "keyword": "cute freckles with lashes",
+            "icon": {
+              "urlList": [
+                "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?nonce=6654&refresh_token=dd7a93713f844ddf0ed3e2c2d8f5bf55&shp=b59d6b55&shcp=-"
+              ]
+            },
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=71351105",
+            "description": "Effects",
+            "thumbnail": {
+              "urlList": [
+                "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/64px_anchor_effect3x.png?nonce=59371&refresh_token=260e23eb9debbc330ebe1318685d134a&shp=b59d6b55&shcp=-"
+              ],
+              "width": 64,
+              "height": 64
+            },
+            "extraInfo": {
+              "subtype": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "7339756750112918827",
+        "desc": "Enemies to lovers will always be a favorite \ud83d\ude29\ud83d\udda4 (AD) #booktok #ellemaldonado #enemiestolovers #bookrecs ",
+        "createTime": 1708920315,
+        "video": {
+          "id": "7339756750112918827",
+          "height": 1024,
+          "width": 576,
+          "duration": 47,
+          "ratio": "540p",
+          "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b8b784c1c8f74a34899bbfcc6f6a187f_1708920316?lk3s=b59d6b55&nonce=20699&refresh_token=0bd0997c104265f5f6cbf73a19133be2&x-expires=1721876400&x-signature=4j2tZSFPIteA9HEC8VmtYqnn8l8%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f2133ea134f547d6b5ced85814687ee6_1708920316?lk3s=b59d6b55&nonce=38014&refresh_token=c533dc593bed5a974e5261d06c2042ea&x-expires=1721876400&x-signature=S8JwDlE%2F1R0iJFmieAYVNwlvUuA%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7431ef42fdc94c088a82096168a9481f_1708920317?lk3s=b59d6b55&nonce=80728&refresh_token=1ae16a2762c1e4bdfa3854c931df721c&x-expires=1721876400&x-signature=seJUHV0%2B0eXo7HkRwzgbZkhWXt8%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-pve-0068-tx/okERdHI4uGab3eDzBgfaFqASgvQzCNDiDA3lHE/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2366&bt=1183&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=Ozg3PDNoZjw4M2c3ZWgzNUBpanN1bXE5cnIzcTMzZzczNEBfYmJfMmEzXy8xYjBhMTJeYSNqZ2FeMmRra2JgLS1kMS9zcw%3D%3D&btag=e00088000&expire=1721877569&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=a8cbc327114f7896211da995126f2ecc&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c001-tx/o4lvZVrgAIwEULidugEiN5IjcXIQ4A3tBB4D5/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2736&bt=1368&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=O2hlZmlnM2Y3Z2ZkZWU2OUBpanN1bXE5cnIzcTMzZzczNEBgLS4wYTIwXzUxNTUzYjQzYSNqZ2FeMmRra2JgLS1kMS9zcw%3D%3D&btag=e00088000&expire=1721877569&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=c85b3e8710419b18b3a5615307e42e95&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/f2133ea134f547d6b5ced85814687ee6_1708920316~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=33459&refresh_token=c04264eb3ed14e44b14d21d317f7d488&x-expires=1722308400&x-signature=h4%2BXYsO6qFivHzbtRRx1khP6VHw%3D&shp=b59d6b55&shcp=-",
+            "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/f2133ea134f547d6b5ced85814687ee6_1708920316~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=98868&refresh_token=011b0f3d8fe7c47feb456675d9b2a0f2&x-expires=1722308400&x-signature=wn703%2Fgh2uk2ao0YfiI3sNEdmiE%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/b8b784c1c8f74a34899bbfcc6f6a187f_1708920316~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=34695&refresh_token=6eba8ae7990c5e5040bd4c8d213962ba&x-expires=1721876400&x-signature=z1jrzjX3FaeVP2EjjRQdtohxmS4%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1211950,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "6869688249905775621",
+          "uniqueId": "dm6589",
+          "nickname": "dm6589",
+          "avatarThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7319165032250474539~c5_100x100.jpeg?lk3s=a5d48078&nonce=86731&refresh_token=1939fffea3549d67995aaf39d5f433d3&x-expires=1721876400&x-signature=XCQeQn6D91UrNArS%2FZwYheJAniM%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7319165032250474539~c5_720x720.jpeg?lk3s=a5d48078&nonce=50690&refresh_token=ba018d07d8986e18cb42d798b928ca84&x-expires=1721876400&x-signature=V9kEbgKG4D5xZvPF9ayPVFxnzeE%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7319165032250474539~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=80930&refresh_token=2a2474d3ea9d21af7e4dd3b33f81e0f0&x-expires=1721876400&x-signature=h0MYXXY5PdUOzMBTbsGl9r06yEg%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "Reader \ud83d\udcda \nGoodreads-Jenreads\nInsta-jensreads17",
+          "verified": false,
+          "secUid": "MS4wLjABAAAArnZWoDZlCJbGtQUjUVRxlEzr9IlJEnGiJ6dbcYp6XwYd_dYSF5mVkPfsi1gAqD9h",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7339756846448003883",
+          "title": "original sound",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-27dcd7-tx/oEPKDACLBM7gEc13CtiLSBJeUBfqluDIiDgUU3/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=NThmM2lkZ2g5NWY1ZDw7NkBpM25kb285cnkzcTMzZzU8NEAvYTZfMC9jNmExMWBgYWM1YSMvbi4yMmRjb2JgLS1kMS9zcw%3D%3D&btag=e00088000&expire=1721726369&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=07fb9cd989061020ddaa56e9ce6aa5c3&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7319165032250474539~c5_100x100.jpeg?lk3s=a5d48078&nonce=86731&refresh_token=1939fffea3549d67995aaf39d5f433d3&x-expires=1721876400&x-signature=XCQeQn6D91UrNArS%2FZwYheJAniM%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7319165032250474539~c5_720x720.jpeg?lk3s=a5d48078&nonce=50690&refresh_token=ba018d07d8986e18cb42d798b928ca84&x-expires=1721876400&x-signature=V9kEbgKG4D5xZvPF9ayPVFxnzeE%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7319165032250474539~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=80930&refresh_token=2a2474d3ea9d21af7e4dd3b33f81e0f0&x-expires=1721876400&x-signature=h0MYXXY5PdUOzMBTbsGl9r06yEg%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "dm6589",
+          "original": true,
+          "duration": 47,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "1622962893630470",
+            "title": "BookTok",
+            "desc": "Your next book is covered with #Booktok \ud83d\udcd6 \ud83c\udf1f",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=96690&refresh_token=06852c48ac68bf16590fccd3e44a2bf6&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=96690&refresh_token=06852c48ac68bf16590fccd3e44a2bf6&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=96690&refresh_token=06852c48ac68bf16590fccd3e44a2bf6&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=20567&refresh_token=57ac4326aa74860fda02f83588661288&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=20567&refresh_token=57ac4326aa74860fda02f83588661288&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=20567&refresh_token=57ac4326aa74860fda02f83588661288&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "7243093510994264106",
+            "title": "ellemaldonado",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1613395870835717",
+            "title": "enemiestolovers",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1647746061443078",
+            "title": "bookrecs",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 93600,
+          "shareCount": 1269,
+          "commentCount": 296,
+          "playCount": 1000000,
+          "collectCount": 42100
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 54,
+            "end": 62,
+            "hashtagName": "booktok",
+            "hashtagId": "1622962893630470",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 63,
+            "end": 77,
+            "hashtagName": "ellemaldonado",
+            "hashtagId": "7243093510994264106",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 78,
+            "end": 94,
+            "hashtagName": "enemiestolovers",
+            "hashtagId": "1613395870835717",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 95,
+            "end": 104,
+            "hashtagName": "bookrecs",
+            "hashtagId": "1647746061443078",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 774,
+          "followerCount": 198600,
+          "heartCount": 27200000,
+          "videoCount": 1596,
+          "diggCount": 17600,
+          "heart": 27200000
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "isAd": false,
+        "collected": false,
+        "videoSuggestWordsList": {
+          "video_suggest_words_struct": [
+            {
+              "words": [
+                {
+                  "word": "severed by vengeance book",
+                  "word_id": "1611733484642298019"
+                },
+                {
+                  "word": "severed by vengeance by elle maldonado",
+                  "word_id": "2673385943204923455"
+                }
+              ],
+              "scene": "comment_top",
+              "hint_text": "Search:"
+            },
+            {
+              "words": [
+                {
+                  "word": "severed by vengeance by elle maldonado",
+                  "word_id": "2673385943204923455"
+                }
+              ],
+              "scene": "feed_bar",
+              "hint_text": "Search \u00b7"
+            }
+          ]
+        }
+      },
+      {
+        "id": "7243138853815536938",
+        "desc": "Summer book recs!! My fave season of reading \ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97 #booktok #summer #summerbooks #bookrecs ",
+        "createTime": 1686424696,
+        "video": {
+          "id": "7243138853815536938",
+          "height": 1024,
+          "width": 576,
+          "duration": 18,
+          "ratio": "540p",
+          "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0c6d3ee738344cdda1e041d7cad93a19?lk3s=b59d6b55&nonce=93597&refresh_token=55429ae5687b9e9c2657bfa3b746a827&x-expires=1721876400&x-signature=ztKBvwr6dSQ6jKOCikWYHXyEJFU%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c989e3f86a554f6a83b45651ad7389aa_1686424696?lk3s=b59d6b55&nonce=52088&refresh_token=91237abe26ca50df7f5cd7ca5231cc96&x-expires=1721876400&x-signature=%2B0vI9DTvSDRo%2BLvmd2wBG4y9ctM%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3c00a66766e1413281a81d26af3caa05_1686424697?lk3s=b59d6b55&nonce=16820&refresh_token=693c8005fa6eef302a589c5647aa93b6&x-expires=1721876400&x-signature=mmwLylU5JEnUwQif%2FgRUBF9ZHJM%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-pve-0068-tx/o8Ea6EyCIUQAHp9tGuIQTKzyGkcfhBGmAwKWzQ/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3690&bt=1845&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=ZTlmZzY5aWdoOzU7aDdlNUBpM3Q8Nzk6ZjZmbDMzZzczNEAzXjJhLi42NTMxMDMuYV4vYSNiaW01cjRfai9gLS1kMS9zcw%3D%3D&btag=e00088000&expire=1721877540&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=d95d05f4e689d540479b91c119ee0de9&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/oYpAQRTAmmKzgQGBQEQIIGtWC6BfEzhywIcUak/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3828&bt=1914&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=ZzY7NzNkNzM6ZDczZzo2aUBpM3Q8Nzk6ZjZmbDMzZzczNEA1NWIwNC40XmExMzAuY181YSNiaW01cjRfai9gLS1kMS9zcw%3D%3D&btag=e00088000&expire=1721877540&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=c6ab4657a846542fd35e201644458f80&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/c989e3f86a554f6a83b45651ad7389aa_1686424696~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=67897&refresh_token=725b3714b2b56d24e69791b2bcd6cd91&x-expires=1722308400&x-signature=BZsfcXfjpCEotX5qmfkZq5SDLVk%3D&shp=b59d6b55&shcp=-",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/c989e3f86a554f6a83b45651ad7389aa_1686424696~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=55990&refresh_token=7a78a999318e21826baf9adba31c12e7&x-expires=1722308400&x-signature=vKah9EcwF3jXqyg9p7xjKUyYGWE%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/0c6d3ee738344cdda1e041d7cad93a19~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=68867&refresh_token=0d141984bb6c0c489006505c11ffb2d7&x-expires=1721876400&x-signature=uoOFNUEHeDdsqo7v54WUxQj7nTA%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1889584,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "7181152508060042282",
+          "uniqueId": "avasreadingcorner",
+          "nickname": "Ava \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+          "avatarThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/265220fd35c7d65d1c4bb42589d82658~c5_100x100.jpeg?lk3s=a5d48078&nonce=94482&refresh_token=d9a8adac3709985c5cd5f6920e923c85&x-expires=1721876400&x-signature=EZdT9ArY2vSFvhbESXow1VRYb%2Fo%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/265220fd35c7d65d1c4bb42589d82658~c5_720x720.jpeg?lk3s=a5d48078&nonce=23091&refresh_token=856d7ee7d942cbeddaf04fa8a2132ed3&x-expires=1721876400&x-signature=6vzStuKA6Yfc%2FjbdFqKerfNGsIQ%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/265220fd35c7d65d1c4bb42589d82658~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=37248&refresh_token=4ebec4456442fe28119fc5056703709e&x-expires=1721876400&x-signature=kSyHRQ3mcANA%2FC5V4XfDWS2vM0I%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "\ud83c\udf52\ud83c\udf52CR: Catcher In The Rye\nGoodreads is @ avaheilman !\n73/75 \ud83d\udc8c",
+          "verified": false,
+          "secUid": "MS4wLjABAAAATOdCYfsyna2-HQymx2kyxn2i-YCV6T6q_h2q6AnjfhUOgeCbTqyLDBoYUkUr21pS",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7189187253036763905",
+          "title": "belly conklin x brazil by declan mckenna",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-27dcd7c799-tx/o4HijC9HofjuCnyoQD0FQDEbITe8agbY7ATnfD/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZDxkZ2c3Zzw0NDs8OzZmOEBpang6bTQ6ZmpraTMzODU8NEBeYDIvNF40XzMxX2ItXi9hYSNvNC5gcjRvcy9gLS1kMS1zcw%3D%3D&btag=e00088000&expire=1721726340&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=675455001bcf4e89a37ce49f0a715712&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/273d53d1b644d09efaf5bf9d4e626edc.jpeg?lk3s=a5d48078&nonce=85872&refresh_token=b079a4572c230ebb282a2f0fa23bf616&x-expires=1721876400&x-signature=5w6VZ7NQV%2Fy2%2F%2BEjzXjRE6XhCys%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/273d53d1b644d09efaf5bf9d4e626edc.jpeg?lk3s=a5d48078&nonce=67970&refresh_token=ccb97aaa617a88fd0839c4dbbd00b564&x-expires=1721876400&x-signature=1DWuZmGo4tDiv4C%2BD8fOs3Czysk%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/273d53d1b644d09efaf5bf9d4e626edc.jpeg?lk3s=a5d48078&nonce=96778&refresh_token=48fe10ade2ed23a64bb5c3c9c15a3cf2&x-expires=1721876400&x-signature=JlEz%2Ftl52bckBuNzyVAy1dla93M%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "summer \ud83c\udf3a",
+          "original": true,
+          "duration": 18,
+          "album": ""
+        },
+        "stats": {
+          "diggCount": 34600,
+          "shareCount": 850,
+          "commentCount": 127,
+          "playCount": 318700,
+          "collectCount": 11900
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 60,
+            "end": 68,
+            "hashtagName": "booktok",
+            "hashtagId": "",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 69,
+            "end": 76,
+            "hashtagName": "summer",
+            "hashtagId": "",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 77,
+            "end": 89,
+            "hashtagName": "summerbooks",
+            "hashtagId": "",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 90,
+            "end": 99,
+            "hashtagName": "bookrecs",
+            "hashtagId": "",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 35,
+          "followerCount": 2941,
+          "heartCount": 225700,
+          "videoCount": 174,
+          "diggCount": 45200,
+          "heart": 225700
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "isAd": false,
+        "collected": false
+      },
+      {
+        "id": "7370458729134722350",
+        "desc": "I will never not think about these books  #fyp #booktok #foryoupage #books #bookrecommendation ",
+        "createTime": 1716068660,
+        "video": {
+          "id": "7370458729134722350",
+          "height": 1024,
+          "width": 576,
+          "duration": 111,
+          "ratio": "540p",
+          "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oMhjm8Ao3Imk49FMAeCfQQISe9IKaCHkUGqjkL?lk3s=b59d6b55&nonce=7751&refresh_token=c84722eaa09f0c7e01f1603b6a2403c7&x-expires=1721876400&x-signature=BMmtlLPL4X7vMjWfHCKF%2B8r%2FUE4%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/60d3452303df48a5bfb8dcba4011321b_1716068663?lk3s=b59d6b55&nonce=20807&refresh_token=6183cce46f2fdf2d78f58c977feb5409&x-expires=1721876400&x-signature=uWznA45etQsd%2FYhwSUHsjWtV6FM%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2e500047568f482ba7ef4a8b096c892c_1716068663?lk3s=b59d6b55&nonce=37131&refresh_token=813e7372d04e6ec70ad0bb4d8fc618dc&x-expires=1721876400&x-signature=8Xc0VTfmy6UCEsCSkylv3y6hBcg%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c003-tx/okI7swIAkJAFPEjIVyjF1kfCIeDbHCQEfQWMcJ/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2372&bt=1186&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=OTU2ODk7Ozo4OGZnNTo7OEBpajhxM3Q5cmZrczMzZzczNEAvNC0yMDRgNV4xMTUyYDUzYSM0cl9rMmQ0czFgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1721877633&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=79b6663a25140934eef6b622952549ea&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c003-tx/oYQeJM8IQCji0AjFq3IA9LIH9IG0Ukg54eehYk/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2572&bt=1286&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=aDw7NzYzNjM5NzY4N2VnZ0BpajhxM3Q5cmZrczMzZzczNEBfM2M1YmMwXjUxYi0wNjAxYSM0cl9rMmQ0czFgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1721877633&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=5d288f96996d06b48dcd50fba899ec53&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/60d3452303df48a5bfb8dcba4011321b_1716068663~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=17350&refresh_token=0fa37086bba021970677e60f970015c1&x-expires=1722308400&x-signature=r7g%2F%2Btib0suIERns%2FPBwDoNsB48%3D&shp=b59d6b55&shcp=-",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/60d3452303df48a5bfb8dcba4011321b_1716068663~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=11347&refresh_token=b3e394a871c52aa8dc4a350503f99a6c&x-expires=1722308400&x-signature=S%2FVEArr9y2LGEUDxybkMmmMzGTQ%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMhjm8Ao3Imk49FMAeCfQQISe9IKaCHkUGqjkL~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=97120&refresh_token=052083bb25d2c734071a7c910da36fb1&x-expires=1721876400&x-signature=IxUptUUhV3%2FS1NK8UWQusydCO6E%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1215374,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "7256445207084188714",
+          "uniqueId": "jolie_reads",
+          "nickname": "Jolie Reads",
+          "avatarThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_100x100.jpeg?lk3s=a5d48078&nonce=46941&refresh_token=2724c742c901067aa9c060b85ae81ec1&x-expires=1721876400&x-signature=BJPdCjCmfjVLugczYNjyT3Ea4qE%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_720x720.jpeg?lk3s=a5d48078&nonce=49735&refresh_token=986dcc167b96888bdc909a6ad3ce6490&x-expires=1721876400&x-signature=joCfUSOKg7fQ9jE4pT5OH4DXFA4%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=11845&refresh_token=055bc065dc56bf7e658aeff49279473e&x-expires=1721876400&x-signature=wwfJB9geQOScyqZCjxXDCkdJtGM%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "Joshua 1:9  \nI love to read \n\ud83d\udc8c: joliemcadoobusiness@gmail.com\n\ud83c\udf80links\ud83c\udf80",
+          "verified": false,
+          "secUid": "MS4wLjABAAAAd4Ri85PmyCKTLGH2E_TzFCMsPwkQHfQU7nR9S-dXOmrs5W7C9WW7UcZMyXoYN0BA",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7370458772046711595",
+          "title": "original sound",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-27dcd7-tx/o49pDifDSIvVJOmU2I60xSeSJBTC0EEsFQB4Mg/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=NGU1OzVpPDs5PDtmN2ZmaUBpM3g3b3E5cmhsczMzZzU8NEBjMzEwYzJeNjIxNjBjNGE1YSNuYjNxMmQ0LzFgLS1kMS9zcw%3D%3D&btag=e00090000&expire=1721726433&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=01936870a34950c5c831c56a64eb75a5&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_100x100.jpeg?lk3s=a5d48078&nonce=46941&refresh_token=2724c742c901067aa9c060b85ae81ec1&x-expires=1721876400&x-signature=BJPdCjCmfjVLugczYNjyT3Ea4qE%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_720x720.jpeg?lk3s=a5d48078&nonce=49735&refresh_token=986dcc167b96888bdc909a6ad3ce6490&x-expires=1721876400&x-signature=joCfUSOKg7fQ9jE4pT5OH4DXFA4%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/12c63077dcf422b3d889f9c73cc11893~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=11845&refresh_token=055bc065dc56bf7e658aeff49279473e&x-expires=1721876400&x-signature=wwfJB9geQOScyqZCjxXDCkdJtGM%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "Jolie Reads",
+          "original": true,
+          "duration": 111,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1622962893630470",
+            "title": "BookTok",
+            "desc": "Your next book is covered with #Booktok \ud83d\udcd6 \ud83c\udf1f",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=82190&refresh_token=9ff9670f7cc936db087244bea1d5f42e&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=82190&refresh_token=9ff9670f7cc936db087244bea1d5f42e&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=82190&refresh_token=9ff9670f7cc936db087244bea1d5f42e&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=93281&refresh_token=7a8adc0cfef44f499c43563d55b271a7&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=93281&refresh_token=7a8adc0cfef44f499c43563d55b271a7&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=93281&refresh_token=7a8adc0cfef44f499c43563d55b271a7&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "88764338",
+            "title": "foryoupage",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "17861",
+            "title": "books",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "22334901",
+            "title": "bookrecommendation",
+            "desc": "Share with us your favourite book list and let us know what kind of books you like to read",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c75f9c37e97b91a4f53d0e81de5b943e?nonce=72945&refresh_token=38aa8a962202b4d9e20fb7b53cb097e7&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c75f9c37e97b91a4f53d0e81de5b943e?nonce=72945&refresh_token=38aa8a962202b4d9e20fb7b53cb097e7&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c75f9c37e97b91a4f53d0e81de5b943e?nonce=72945&refresh_token=38aa8a962202b4d9e20fb7b53cb097e7&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d84c6833743078ea8aafa06b175c493f?nonce=54418&refresh_token=02529baad22ce0145345c5a473de0024&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d84c6833743078ea8aafa06b175c493f?nonce=54418&refresh_token=02529baad22ce0145345c5a473de0024&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d84c6833743078ea8aafa06b175c493f?nonce=54418&refresh_token=02529baad22ce0145345c5a473de0024&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 52800,
+          "shareCount": 652,
+          "commentCount": 332,
+          "playCount": 586900,
+          "collectCount": 16700
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 42,
+            "end": 46,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 47,
+            "end": 55,
+            "hashtagName": "booktok",
+            "hashtagId": "1622962893630470",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 56,
+            "end": 67,
+            "hashtagName": "foryoupage",
+            "hashtagId": "88764338",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 68,
+            "end": 74,
+            "hashtagName": "books",
+            "hashtagId": "17861",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 75,
+            "end": 94,
+            "hashtagName": "bookrecommendation",
+            "hashtagId": "22334901",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "effectStickers": [
+          {
+            "name": "cute freckles with lashes",
+            "ID": "4206126"
+          }
+        ],
+        "authorStats": {
+          "followingCount": 832,
+          "followerCount": 260500,
+          "heartCount": 7100000,
+          "videoCount": 1211,
+          "diggCount": 15100,
+          "heart": 7100000
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "Books\u00a0I\u00a0think\u00a0about\u00a0",
+              "Everyday\u00a0"
+            ]
+          }
+        ],
+        "isAd": false,
+        "collected": false,
+        "anchors": [
+          {
+            "id": "4206126",
+            "type": 28,
+            "keyword": "cute freckles with lashes",
+            "icon": {
+              "urlList": [
+                "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?nonce=86729&refresh_token=c3a917702a14ee3d7865ed8aa1428208&shp=b59d6b55&shcp=-"
+              ]
+            },
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=71351105",
+            "description": "Effects",
+            "thumbnail": {
+              "urlList": [
+                "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/64px_anchor_effect3x.png?nonce=5993&refresh_token=3ac7662cc1823c008ce471946663da8f&shp=b59d6b55&shcp=-"
+              ],
+              "width": 64,
+              "height": 64
+            },
+            "extraInfo": {
+              "subtype": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "7103241735773392170",
+        "desc": "let me know if y\u2019all want more\ud83e\udd0d #fyp #booktok #bookclub #bookworm #bestbooks #bookrecommendations #bookrecs",
+        "createTime": 1653852346,
+        "video": {
+          "id": "7103241735773392170",
+          "height": 1024,
+          "width": 576,
+          "duration": 15,
+          "ratio": "540p",
+          "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7fe6ba2bb42b434f8618afd810a3dbc0?lk3s=b59d6b55&nonce=14656&refresh_token=6bbe0b741ea3baafcf87cbe681fa06ad&x-expires=1721876400&x-signature=JzPZCvmlKc8HR5X1%2FAp5eev5ESY%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e95ccaa45143484883230320576486d2_1653852347?lk3s=b59d6b55&nonce=65802&refresh_token=93f3b19a0057876401af988d13d4387e&x-expires=1721876400&x-signature=wFg1thT5IqKKYotjGDajx2%2F9rE4%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/63771f8f7cb742748e9a845004502759_1653852347?lk3s=b59d6b55&nonce=93019&refresh_token=19f2eebdb124d156a338b5eae17815e7&x-expires=1721876400&x-signature=xhZCjgggKgBck0Nd5Bf17ephucw%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c003-tx/bd8696e677b94c1a9bfdca61b0aa426e/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2506&bt=1253&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=ZDU0ZDY8PDk8aWdpZGc4aEBpajdvOGY6Zm92ZDMzZzczNEAyYjViXjYwXy0xLjM2Ly9gYSNuNGwwcjRfZDZgLS1kMS9zcw%3D%3D&btag=e00088000&expire=1721877537&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=a9d6932d5b8545272fd918509a6aaa68&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-pve-0068-tx/97d515cfaaf14315ae5249023ff9ddc4/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2398&bt=1199&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=MzszZTo1aWVkOzM3NDRmaUBpajdvOGY6Zm92ZDMzZzczNEBiLS8tNDFfXy0xYDQ2NTFiYSNuNGwwcjRfZDZgLS1kMS9zcw%3D%3D&btag=e00088000&expire=1721877537&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=136b22578bfae3312f2b5b21d8dd867d&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/e95ccaa45143484883230320576486d2_1653852347~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=80105&refresh_token=8c2178740b9cb33eed7cf9a1ffc9b157&x-expires=1722308400&x-signature=xTIgkWZ7EkqiQ4tjmCb3CFpTfX0%3D&shp=b59d6b55&shcp=-",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/e95ccaa45143484883230320576486d2_1653852347~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=60899&refresh_token=a4b7a957454254731d0623059c13bf7b&x-expires=1722308400&x-signature=TSwPWkehZ6mB7KEmou7Ocj583nc%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/7fe6ba2bb42b434f8618afd810a3dbc0~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=81944&refresh_token=55d684bbc7436612e9da40d5b6152ae7&x-expires=1721876400&x-signature=2jobPK3Uii%2BT7kUeHsU5wfGdsBY%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1283991,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "6809837393426154501",
+          "uniqueId": "sophia.panella",
+          "nickname": "SOPHIA PANELLA",
+          "avatarThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a216c9fbcbed0a0c2f9b848864a78d02~c5_100x100.jpeg?lk3s=a5d48078&nonce=4809&refresh_token=3d308b2203adb4f188e4c349c139e4f4&x-expires=1721876400&x-signature=yOyT55dowBEeVYxcShHx61HPtxc%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a216c9fbcbed0a0c2f9b848864a78d02~c5_720x720.jpeg?lk3s=a5d48078&nonce=15904&refresh_token=823879850303d2c848f39c64d12ba5a9&x-expires=1721876400&x-signature=1QQ9JBXDc6ISWqSjIGhN6tQy5TQ%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a216c9fbcbed0a0c2f9b848864a78d02~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=64610&refresh_token=863c5df03ed4d61b161616edc7e3c7a4&x-expires=1721876400&x-signature=qkJvQ9Rcwb3KcmEJ4JfZh6vFdnw%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "host of Bestie Chats with Soph\ud83c\udf99\ufe0f\nall things girlie + female cycle\ud83c\udf52\ud83e\udee6\ud83e\ude77",
+          "verified": false,
+          "secUid": "MS4wLjABAAAAEZBVfPCVd9EbzVgDfDFJc19T5bAqzwagH3qRH7uHZk639WhFYcI60U5lIrrv6qnf",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 3,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7060598220120034053",
+          "title": "middle of the night",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-27dcd7c799-tx/bc0a661b8c124ea4912697e9e36f8d1c/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=NmRpaDY7NjQ5ZWU0NGg0aEBpM2ZnZTs6Zmc3OjMzNzU8M0AzXzA0Xy0vNTExMGItNDRfYSM0NDBycjRnZXJgLS1kMTZzcw%3D%3D&btag=e00088000&expire=1721726342&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=473b5dd0e726c83dedd6395b93ce58da&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3c936fad84dfcecbbaf73e4ee0ff5b87~c5_100x100.jpeg?lk3s=a5d48078&nonce=58962&refresh_token=f44f02a48dabc4cc9f0d9b45799719fd&x-expires=1721876400&x-signature=RL257o%2F9qnEXEgnU7zMpFdJCqLQ%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3c936fad84dfcecbbaf73e4ee0ff5b87~c5_720x720.jpeg?lk3s=a5d48078&nonce=87199&refresh_token=091b517aec2759998bed6d4313c02351&x-expires=1721876400&x-signature=%2F2l4sXIY2KF35HbxoPupOmTwdZM%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3c936fad84dfcecbbaf73e4ee0ff5b87~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=77237&refresh_token=46046c2375ee39b3dcd60fa2922a6952&x-expires=1721876400&x-signature=P4KCSUpCzCLoXjNsHAQqF0TfsUI%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "EX7STENCE\u2122",
+          "original": true,
+          "duration": 20,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1622962893630470",
+            "title": "BookTok",
+            "desc": "Your next book is covered with #Booktok \ud83d\udcd6 \ud83c\udf1f",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=65222&refresh_token=4da8183f1ed28e902b1cf0224851115b&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=65222&refresh_token=4da8183f1ed28e902b1cf0224851115b&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=65222&refresh_token=4da8183f1ed28e902b1cf0224851115b&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=73423&refresh_token=834babdde8d11f8d41a84d4000ef4365&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=73423&refresh_token=834babdde8d11f8d41a84d4000ef4365&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=73423&refresh_token=834babdde8d11f8d41a84d4000ef4365&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "2103574",
+            "title": "bookclub",
+            "desc": "Explore another world without leaving the comfort of your home. Welcome to the #BookClub \ud83d\udcda",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/a2ef9eeaba2532d60c580f7177689bc7?nonce=57699&refresh_token=4fd9a8448648d8230137d5eb0d83458f&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/a2ef9eeaba2532d60c580f7177689bc7?nonce=57699&refresh_token=4fd9a8448648d8230137d5eb0d83458f&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/a2ef9eeaba2532d60c580f7177689bc7?nonce=57699&refresh_token=4fd9a8448648d8230137d5eb0d83458f&shp=b59d6b55&shcp=-",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "13057",
+            "title": "bookworm",
+            "desc": "What are you reading?",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ccc890e0e5b324d1d621d6a20a6095ed?nonce=16769&refresh_token=1965f7e798d8cb167f1b851373ae4800&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ccc890e0e5b324d1d621d6a20a6095ed?nonce=16769&refresh_token=1965f7e798d8cb167f1b851373ae4800&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ccc890e0e5b324d1d621d6a20a6095ed?nonce=16769&refresh_token=1965f7e798d8cb167f1b851373ae4800&shp=b59d6b55&shcp=-",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "8068842",
+            "title": "bestbooks",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "58993759",
+            "title": "bookrecommendations",
+            "desc": "It's World Book Day and we want to hear your all-time favourite book recommendations \ud83d\udcda",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=6302&refresh_token=b7ef7d2994b34515faeec83605334580&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=6302&refresh_token=b7ef7d2994b34515faeec83605334580&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=6302&refresh_token=b7ef7d2994b34515faeec83605334580&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "1647746061443078",
+            "title": "bookrecs",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 376700,
+          "shareCount": 5674,
+          "commentCount": 2215,
+          "playCount": 6600000,
+          "collectCount": 101500
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 33,
+            "end": 37,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 38,
+            "end": 46,
+            "hashtagName": "booktok",
+            "hashtagId": "1622962893630470",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 47,
+            "end": 56,
+            "hashtagName": "bookclub",
+            "hashtagId": "2103574",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 57,
+            "end": 66,
+            "hashtagName": "bookworm",
+            "hashtagId": "13057",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 67,
+            "end": 77,
+            "hashtagName": "bestbooks",
+            "hashtagId": "8068842",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 78,
+            "end": 98,
+            "hashtagName": "bookrecommendations",
+            "hashtagId": "58993759",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 99,
+            "end": 108,
+            "hashtagName": "bookrecs",
+            "hashtagId": "1647746061443078",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 399,
+          "followerCount": 838800,
+          "heartCount": 39200000,
+          "videoCount": 3238,
+          "diggCount": 30400,
+          "heart": 39200000
+        },
+        "privateItem": false,
+        "duetEnabled": false,
+        "stitchEnabled": false,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "BOOKS I WISH\nI COULD READ \nFOR THE FIRST\nTIME AGAIN"
+            ]
+          }
+        ],
+        "isAd": false,
+        "collected": false
+      },
+      {
+        "id": "7257698617966791978",
+        "desc": "These synopsis\u2019s are slightly chaotic so i apologize lols. I was away for a few days and came back to 10k followers and i simply cannot believe that this all happened so fast TYTY\ud83e\ude77\ud83e\ude77\ud83e\ude77  #booktok #julytbr #2023reads #goodreads #goodreadsgoal #bestbooks #ellagoodbooks #booktoker #tbr #favoritebooks #5starreads ",
+        "createTime": 1689814652,
+        "video": {
+          "id": "7257698617966791978",
+          "height": 1024,
+          "width": 576,
+          "duration": 253,
+          "ratio": "540p",
+          "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oIgD9UkQ40EnjB2hgZSnIbDqeEAReCuKuivQtI?lk3s=b59d6b55&nonce=63214&refresh_token=8683967207b7a0b3f5cd81e46204f019&x-expires=1721876400&x-signature=FYlPnWLv27zMJjVDGL%2Bcz4LCVE4%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ecc4190f799d45f5be1b512eb8b34273_1689814654?lk3s=b59d6b55&nonce=78717&refresh_token=5b59f83415c0e0810243913ae68c31b1&x-expires=1721876400&x-signature=oD6gscv4snWInHxKeSbw6J3hvyY%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/43ef1059e28a4235835ddc5ff39db857_1689814655?lk3s=b59d6b55&nonce=73246&refresh_token=68a2dbe8af1d56d87c3aa238d6e99b9e&x-expires=1721876400&x-signature=c0eCRq2kkqgG%2F7RZykWroaS%2BjHk%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-pve-0068-tx/osau4AX6EpQObhUySXftBAwnihzcKRIIIpzFCM/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2682&bt=1341&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=ZDtkaDo5OTM0OTVlOTNlPEBpajVnOTg6Zjk7bDMzZzczNEAuYi5eYTQ0Ni8xNGEyNS8xYSM1Y2cxcjRfXnBgLS1kMS9zcw%3D%3D&btag=e00098000&expire=1721877775&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=80f0452f5eb61490ad230de86e1c34b0&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/okyRpK4IMAiIEAfIFBXUa2YQ0XCbwRtiZKhzhR/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3384&bt=1692&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=N2ZmNzg0aTpkZDUzaTg5M0BpajVnOTg6Zjk7bDMzZzczNEAtMi0xY14zXi4xY2AyLy4uYSM1Y2cxcjRfXnBgLS1kMS9zcw%3D%3D&btag=e00098000&expire=1721877775&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=fca9daba1515ff123c4ce919457c56f3&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/ecc4190f799d45f5be1b512eb8b34273_1689814654~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=70371&refresh_token=40e67fffbd3ec8e7282db8c498771dd0&x-expires=1722308400&x-signature=qxNi%2FBIEhBTOUY13voqBSFGQOTk%3D&shp=b59d6b55&shcp=-",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/ecc4190f799d45f5be1b512eb8b34273_1689814654~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=16603&refresh_token=6cd16373dee2cb861c71c87fa04f9120&x-expires=1722308400&x-signature=5Q8%2FqSa0LzR0HQDjEg%2BGOzROlHw%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/oIgD9UkQ40EnjB2hgZSnIbDqeEAReCuKuivQtI~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=15633&refresh_token=1de17b49c197a40919e9c1966540a5ee&x-expires=1721876400&x-signature=sT9i3js%2F1ld%2FHghubOnABjgBTns%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1374075,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "7243990486512518190",
+          "uniqueId": "ellalucillee",
+          "nickname": "ellalucillee",
+          "avatarThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ce3d489f78a1ed8231de23d358e5b2a~c5_100x100.jpeg?lk3s=a5d48078&nonce=62952&refresh_token=24eb93994faab669ad31f6b2a2e5e26a&x-expires=1721876400&x-signature=nFbefjKm%2FORLCgm7%2FBQWgUjnkZQ%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ce3d489f78a1ed8231de23d358e5b2a~c5_720x720.jpeg?lk3s=a5d48078&nonce=69711&refresh_token=bef7920fef25ca7d3fef35eae7a7c914&x-expires=1721876400&x-signature=YZK9PaC0ENaw1TV%2Fz2qD983yW4g%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ce3d489f78a1ed8231de23d358e5b2a~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=33217&refresh_token=596ea6f785f5038cd3ea0c1639048f9a&x-expires=1721876400&x-signature=bBiR2d5rDblEJUTPgRrzS%2BAVhPQ%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "books & life!\nslo, cal\n\ud83d\udc8c: kaitlin@holidayhousesocial.com\ngoodreads & links \u21e3",
+          "verified": false,
+          "secUid": "MS4wLjABAAAAqIjlL7m0c0sUkKULg5dfcV0NITR_VvsAre1a7gLKRXMsTxNgqOlzGzXm727Yy4MA",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7257698633364032299",
+          "title": "original sound",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-27dcd7-tx/okyANPQOIhDax0DBEhyK4zoAXUvvpG3NwBufGE/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=Z2VkOTlnZDU6OzloPGZmZ0BpMzY7ZWk6ZjM7bDMzZzU8NEBeMi0xXzU1NWAxXmBiMDMxYSM0YG9rcjQwYXBgLS1kMS9zcw%3D%3D&btag=e00098000&expire=1721726574&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=729b3469ab6117a677461df3ce4285ad&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ce3d489f78a1ed8231de23d358e5b2a~c5_100x100.jpeg?lk3s=a5d48078&nonce=62952&refresh_token=24eb93994faab669ad31f6b2a2e5e26a&x-expires=1721876400&x-signature=nFbefjKm%2FORLCgm7%2FBQWgUjnkZQ%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ce3d489f78a1ed8231de23d358e5b2a~c5_720x720.jpeg?lk3s=a5d48078&nonce=69711&refresh_token=bef7920fef25ca7d3fef35eae7a7c914&x-expires=1721876400&x-signature=YZK9PaC0ENaw1TV%2Fz2qD983yW4g%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ce3d489f78a1ed8231de23d358e5b2a~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=33217&refresh_token=596ea6f785f5038cd3ea0c1639048f9a&x-expires=1721876400&x-signature=bBiR2d5rDblEJUTPgRrzS%2BAVhPQ%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "ellalucillee",
+          "original": true,
+          "duration": 252,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "1622962893630470",
+            "title": "BookTok",
+            "desc": "Your next book is covered with #Booktok \ud83d\udcd6 \ud83c\udf1f",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=88796&refresh_token=1fa7e9f1979936b35a861d903c65ef14&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=88796&refresh_token=1fa7e9f1979936b35a861d903c65ef14&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=88796&refresh_token=1fa7e9f1979936b35a861d903c65ef14&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=8212&refresh_token=bdae920887bb8535d70b8c30452a3f3c&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=8212&refresh_token=bdae920887bb8535d70b8c30452a3f3c&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=8212&refresh_token=bdae920887bb8535d70b8c30452a3f3c&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "1668414426633222",
+            "title": "julytbr",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "7127731884007620614",
+            "title": "2023reads",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "11252208",
+            "title": "goodreads",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1671429051678726",
+            "title": "goodreadsgoal",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "8068842",
+            "title": "bestbooks",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "7255124038631030830",
+            "title": "ellagoodbooks",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1645803417138182",
+            "title": "booktoker",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "75756",
+            "title": "tbr",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "2956379",
+            "title": "favoritebooks",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1677754497161217",
+            "title": "5starreads",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 79700,
+          "shareCount": 623,
+          "commentCount": 249,
+          "playCount": 1300000,
+          "collectCount": 20700
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 187,
+            "end": 195,
+            "hashtagName": "booktok",
+            "hashtagId": "1622962893630470",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 196,
+            "end": 204,
+            "hashtagName": "julytbr",
+            "hashtagId": "1668414426633222",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 205,
+            "end": 215,
+            "hashtagName": "2023reads",
+            "hashtagId": "7127731884007620614",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 216,
+            "end": 226,
+            "hashtagName": "goodreads",
+            "hashtagId": "11252208",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 227,
+            "end": 241,
+            "hashtagName": "goodreadsgoal",
+            "hashtagId": "1671429051678726",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 242,
+            "end": 252,
+            "hashtagName": "bestbooks",
+            "hashtagId": "8068842",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 253,
+            "end": 267,
+            "hashtagName": "ellagoodbooks",
+            "hashtagId": "7255124038631030830",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 268,
+            "end": 278,
+            "hashtagName": "booktoker",
+            "hashtagId": "1645803417138182",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 279,
+            "end": 283,
+            "hashtagName": "tbr",
+            "hashtagId": "75756",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 284,
+            "end": 298,
+            "hashtagName": "favoritebooks",
+            "hashtagId": "2956379",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 299,
+            "end": 310,
+            "hashtagName": "5starreads",
+            "hashtagId": "1677754497161217",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 358,
+          "followerCount": 55700,
+          "heartCount": 1400000,
+          "videoCount": 72,
+          "diggCount": 24900,
+          "heart": 1400000
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "isAd": false,
+        "collected": false
+      },
+      {
+        "id": "7344574819112979754",
+        "desc": "for my new readers!! i love u, welcome \ud83e\udd38\ud83c\udffb",
+        "createTime": 1710042108,
+        "video": {
+          "id": "7344574819112979754",
+          "height": 1024,
+          "width": 576,
+          "duration": 188,
+          "ratio": "540p",
+          "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oYp5A2MMvALFWd88ek8Cj7PDekp6XkISAQH4fh?lk3s=b59d6b55&nonce=53560&refresh_token=a1c8f74a2f59fdec5602364d75d98bed&x-expires=1721876400&x-signature=VtLYM%2F0gI9S2PMTbNjWZrbKWOxI%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8c78401990ac4e8bada7469a8252789a_1710042110?lk3s=b59d6b55&nonce=86024&refresh_token=dfdca0bceca18c7c436892fddcf4ce6e&x-expires=1721876400&x-signature=H%2FqCBl7lWvig7zvbPmJf9u1brDo%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/900dfcce5d784d97bb8b94cc4623e874_1710042110?lk3s=b59d6b55&nonce=62394&refresh_token=5f013b94b12c3da37abf7e8632b0bafe&x-expires=1721876400&x-signature=49RHJdqXS7QqDeVaE%2BubeLp4Gwo%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c003-tx/ogFeFgOL2AFXHlHQEpfkbjLCkQtfEmK2IOPAID/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2848&bt=1424&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=OGg7NmU4NjdnZGU1aGYzZ0Bpajg8cW45cjRscTMzZzczNEAuYV9eYzQzNTIxNmIvYjJiYSM0Y21nMmRzY2pgLS1kMS9zcw%3D%3D&btag=e00098000&expire=1721877710&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=ba5d31d53af0a14323e1fa6d6078ffb5&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c002-tx/oUjC8WHjh5P8Xk27HLeRAekaQPQIIIeSMkWUQA/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3132&bt=1566&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=Nzw4aGg5ZjdpM2Q3NzU2OUBpajg8cW45cjRscTMzZzczNEA1MDJfMTEuNmExL2BeL2FiYSM0Y21nMmRzY2pgLS1kMS9zcw%3D%3D&btag=e00098000&expire=1721877710&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=c58ade7ad72097e745d798546c8e9f9c&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8c78401990ac4e8bada7469a8252789a_1710042110~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=2276&refresh_token=5d3124e27904c97981bcff23785f3f26&x-expires=1722308400&x-signature=EvzXHdyNBbeKh3N9SGrQU7LpD5k%3D&shp=b59d6b55&shcp=-",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/8c78401990ac4e8bada7469a8252789a_1710042110~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=14527&refresh_token=6dcb2773db05c66ae0933d1d2220b71b&x-expires=1722308400&x-signature=w7YbsO7i1pOjY5dgRRC6ocSkomE%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/oYp5A2MMvALFWd88ek8Cj7PDekp6XkISAQH4fh~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=17537&refresh_token=9757bde136da90a2edc3b9bf9009c485&x-expires=1721876400&x-signature=JDEAm1FpdC%2B1nyu3LtCedy0uplI%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1458512,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "6984206513746772997",
+          "uniqueId": "larryreads",
+          "nickname": "larry",
+          "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d3f1b9a60a7cbe5c82ce0077870c9843~c5_100x100.jpeg?lk3s=a5d48078&nonce=97013&refresh_token=135ad1d8888461c98e79a4eb10b5f338&x-expires=1721876400&x-signature=1HTobPh6FzSq6TbKIk%2BHvH4gIJI%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d3f1b9a60a7cbe5c82ce0077870c9843~c5_720x720.jpeg?lk3s=a5d48078&nonce=1640&refresh_token=ff778b78716946580766e971da610fd9&x-expires=1721876400&x-signature=Ivb%2FQXdjBTJydle6CvNBD0Wjfi4%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d3f1b9a60a7cbe5c82ce0077870c9843~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=4546&refresh_token=535195c25679d340dccc41149ce130f2&x-expires=1721876400&x-signature=2JJNLj2NE67ISzjICDSf05yffQU%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "books, coffee, vlogs, taylor swift\n\ud83d\udc8c: contact@tablerock.com \ud83d\udcd6\ud83c\udde7\ud83c\uddf7\u2615\ufe0f",
+          "verified": false,
+          "secUid": "MS4wLjABAAAAOoO46WDP4Y3kjIPw37tyNf1GIgUW3NiQAQM9fFmOLXxB1i47WuczcByNrSd1nKr7",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7344574945407929131",
+          "title": "original sound",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-27dcd7-tx/oUCdELs2yLjCOolQILIGAAeZM47rAgeeHktLWT/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=OzVpZTU3OjQ4OjdnNmczNUBpamZzdWo5cjRscTMzZzU8NEAzMC42M19hNmExNjE2LWNhYSNgYW8uMmRjbGpgLS1kMS9zcw%3D%3D&btag=e00098000&expire=1721726510&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=9324aef40810d0d54f042ffabb342cb9&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d3f1b9a60a7cbe5c82ce0077870c9843~c5_100x100.jpeg?lk3s=a5d48078&nonce=97013&refresh_token=135ad1d8888461c98e79a4eb10b5f338&x-expires=1721876400&x-signature=1HTobPh6FzSq6TbKIk%2BHvH4gIJI%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d3f1b9a60a7cbe5c82ce0077870c9843~c5_720x720.jpeg?lk3s=a5d48078&nonce=1640&refresh_token=ff778b78716946580766e971da610fd9&x-expires=1721876400&x-signature=Ivb%2FQXdjBTJydle6CvNBD0Wjfi4%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d3f1b9a60a7cbe5c82ce0077870c9843~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=4546&refresh_token=535195c25679d340dccc41149ce130f2&x-expires=1721876400&x-signature=2JJNLj2NE67ISzjICDSf05yffQU%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "larry",
+          "original": true,
+          "duration": 188,
+          "album": ""
+        },
+        "stats": {
+          "diggCount": 186700,
+          "shareCount": 3553,
+          "commentCount": 1203,
+          "playCount": 1300000,
+          "collectCount": 58700
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 280,
+          "followerCount": 535300,
+          "heartCount": 58800000,
+          "videoCount": 2542,
+          "diggCount": 22700,
+          "heart": 58800000
+        },
+        "privateItem": false,
+        "duetEnabled": false,
+        "stitchEnabled": false,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "BOOK RECS FOR NEW READERS \ud83d\udcd6\ud83d\udcda\ud83e\udd0d",
+              "THE HOUSEMAID BY FREIDA MCFADDEN ",
+              "VERITY BY \nCOLLEEN HOOVER  ",
+              "THE SHADOWS BETWEEN US BY TRICIA LEVENSELLER ",
+              "THE HATING GAME BY SALLY THORNE ",
+              "THE DEAL \nBY ELLE KENNEDY ",
+              "BIRTHDAY GIRL BY PENELOPE DOUGLAS  ",
+              "YOURS TRULY BY ABBY JIMENEZ ",
+              "LOVE AND \nOTHER WORDS BY CHRISTINA LAUREN ",
+              "BEFORE WE WERE STRANGERS BY REN\u00c9E CARLINO "
+            ]
+          }
+        ],
+        "isAd": false,
+        "collected": false
+      },
+      {
+        "id": "7393772132934765854",
+        "desc": "And I would read them all again\ud83e\udee0 #booktok #books #romance #romancebooks #reading #fyp\u30b7\u309aviral #bookrecommendations #bookrecs #foryou #foryoupage #kindleunlimited ",
+        "createTime": 1721496745,
+        "video": {
+          "id": "7393772132934765854",
+          "height": 1022,
+          "width": 576,
+          "duration": 78,
+          "ratio": "540p",
+          "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/a40b671bd2c247129e50d8b0e1343602_1721496749~tplv-dmt-logom:tos-useast8-i-0068-tx2/oMPK7EBDq8AAA6vBCARI9ilcMib0TZzEV0pAi.image?lk3s=b59d6b55&nonce=74912&refresh_token=38731ada21ff8b3a0707e3d7dc1b4b66&x-expires=1721876400&x-signature=rdXKBqVB5%2FWSILzVey3QyjybVwU%3D&shp=b59d6b55&shcp=-",
+          "originCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/69507a75498d446d8afe9fc72c21c443_1721496749?lk3s=b59d6b55&nonce=10273&refresh_token=f192bda765e62b2032c7ee8b9eea9761&x-expires=1721876400&x-signature=dJnFi2%2FMRM29iw67FJt2k1CIG%2BE%3D&shp=b59d6b55&shcp=-",
+          "dynamicCover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/10c37c343bd245188e7de8d598a9d27e_1721496751?lk3s=b59d6b55&nonce=93457&refresh_token=bf9f82de91b490c030898395fe25f29a&x-expires=1721876400&x-signature=v1mNwuyRhnjLUZr%2FtQTOc8tTUUc%3D&shp=b59d6b55&shcp=-",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/oQmEpMBsiOqLm9boLRAwABOE94gIEVQfAmfh1i/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2948&bt=1474&cs=0&ds=6&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=Njc4OTg4N2RmZDQ7NTs3N0BpM2QzcnI5cjh5dDMzaTczNEBeNGAzNmJhXy8xYDYuNi02YSNscWByMmRzNmFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1721877600&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=17f523410d3032d2a14621e5da00e789&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c002-tx2/oUjDFCA7fIxtVeSbQgZOEfgXq9NXNIADmIdjAh/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2674&bt=1337&cs=0&ds=3&ft=4KJMyMzm8Zmo02C_G-4jVrjbQpWrKsd.&mime_type=video_mp4&qs=0&rc=ZDpmaWU3ZztoNDo5ZmU0NEBpM2QzcnI5cjh5dDMzaTczNEAwXzItLTE0NV4xNl8uYGBeYSNscWByMmRzNmFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1721877600&l=202407230318420517E3D507A0B7002F76&ply_type=2&policy=2&signature=6754e5e9b3fd0ca48d6def2da8fb37bb&tk=tt_chain_token",
+          "shareCover": [
+            "",
+            "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/69507a75498d446d8afe9fc72c21c443_1721496749~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&nonce=27337&refresh_token=c13b76787ee05e3965d2cbd6cfa4ba64&x-expires=1722308400&x-signature=Lgl0YdyJeI0HymJcGJpAdBIpc1o%3D&shp=b59d6b55&shcp=-",
+            "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/69507a75498d446d8afe9fc72c21c443_1721496749~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=12232&refresh_token=210159fedf53ee2d296b8dd39481ca8b&x-expires=1722308400&x-signature=twMn4U7fW%2Fci7OdoUmuhMKPyMDM%3D&shp=b59d6b55&shcp=-"
+          ],
+          "reflowCover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/a40b671bd2c247129e50d8b0e1343602_1721496749~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&nonce=60880&refresh_token=89b977aa99ff3a2ddc961254f586aa8f&x-expires=1721876400&x-signature=6JNzfn089KuRGecAw8WyiQarJ4Q%3D&shp=b59d6b55&shcp=-",
+          "bitrate": 1510294,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": ""
+        },
+        "author": {
+          "id": "6811213756544173062",
+          "uniqueId": "ajlanereads",
+          "nickname": "AJ\ud83d\udc96\ud83d\udcda",
+          "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec66705827645fa5b70af1722f758093~c5_100x100.jpeg?lk3s=a5d48078&nonce=67929&refresh_token=c5f442a338d4f3ebca0288aba373c8e9&x-expires=1721876400&x-signature=fya8nHfcQe9k%2FJZ6k60Otlxp%2BWc%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec66705827645fa5b70af1722f758093~c5_720x720.jpeg?lk3s=a5d48078&nonce=92906&refresh_token=9a202bdb088e617338e6fb25d5a994de&x-expires=1721876400&x-signature=%2BN%2BzgZovbyM2Tpa%2FMUIhcHFCFL0%3D&shp=a5d48078&shcp=b59d6b55",
+          "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec66705827645fa5b70af1722f758093~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=58669&refresh_token=4d45a317612a1c65546544d5659daba2&x-expires=1721876400&x-signature=oTHT0XgIXoclgHx23zACm6bxkDA%3D&shp=a5d48078&shcp=b59d6b55",
+          "signature": "Just a girl who loves Jesus & books; welcome to my little life\ud83e\udef6\ud83c\udffd\u2728",
+          "verified": false,
+          "secUid": "MS4wLjABAAAAdq4P86aeZG71VQeWw2KaLK5o3geojI364DxmF9yyMcrM9kMaltntQC9YDoy9AvLi",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "downloadSetting": 0
+        },
+        "music": {
+          "id": "7393772158159883039",
+          "title": "original sound",
+          "playUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-v-27dcd7-tx2/oo5BoCbETqdfHSeS9AgfIYZNQEvN9jDojsLIFC/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GcAInInz7ThBVi~rXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZTxnPGg1ZWloM2Y6MzMzOUBpajN0dWs5cmV5dDMzaTU8NEBjXy8zX141NjYxY2FeMTI1YSNoNGtvMmQ0NmFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1721726400&l=202407230318420517E3D507A0B7002F76&ply_type=3&policy=3&signature=54f37d7f24279acdc81039bdacd695a9&tk=7357040522619470894&download=true",
+          "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec66705827645fa5b70af1722f758093~c5_100x100.jpeg?lk3s=a5d48078&nonce=67929&refresh_token=c5f442a338d4f3ebca0288aba373c8e9&x-expires=1721876400&x-signature=fya8nHfcQe9k%2FJZ6k60Otlxp%2BWc%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec66705827645fa5b70af1722f758093~c5_720x720.jpeg?lk3s=a5d48078&nonce=92906&refresh_token=9a202bdb088e617338e6fb25d5a994de&x-expires=1721876400&x-signature=%2BN%2BzgZovbyM2Tpa%2FMUIhcHFCFL0%3D&shp=a5d48078&shcp=b59d6b55",
+          "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec66705827645fa5b70af1722f758093~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=58669&refresh_token=4d45a317612a1c65546544d5659daba2&x-expires=1721876400&x-signature=oTHT0XgIXoclgHx23zACm6bxkDA%3D&shp=a5d48078&shcp=b59d6b55",
+          "authorName": "AJ\ud83d\udc96\ud83d\udcda",
+          "original": true,
+          "duration": 78,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "1622962893630470",
+            "title": "BookTok",
+            "desc": "Your next book is covered with #Booktok \ud83d\udcd6 \ud83c\udf1f",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=39582&refresh_token=2e7148c1cab9991c2ebb062c4de1327c&shp=b59d6b55&shcp=-",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=39582&refresh_token=2e7148c1cab9991c2ebb062c4de1327c&shp=b59d6b55&shcp=-",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/99e2870fcdfdb6bbabb589931a9eb953.png?nonce=39582&refresh_token=2e7148c1cab9991c2ebb062c4de1327c&shp=b59d6b55&shcp=-",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=6006&refresh_token=999e1d36a8bb19fc0713df7409474c57&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=6006&refresh_token=999e1d36a8bb19fc0713df7409474c57&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/b1cbc1b4bde5f883647b646c4c9b56dd.png?nonce=6006&refresh_token=999e1d36a8bb19fc0713df7409474c57&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "17861",
+            "title": "books",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "57155",
+            "title": "romance",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "80879614",
+            "title": "romancebooks",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "10705",
+            "title": "reading",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1664119477821441",
+            "title": "fyp\u30b7\u309aviral",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "58993759",
+            "title": "bookrecommendations",
+            "desc": "It's World Book Day and we want to hear your all-time favourite book recommendations \ud83d\udcda",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=50813&refresh_token=7b711d0f968b39a1ca588e42fd83f6e5&shp=b59d6b55&shcp=-",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=50813&refresh_token=7b711d0f968b39a1ca588e42fd83f6e5&shp=b59d6b55&shcp=-",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a01458e2fdabfcbd5eada027763f201?nonce=50813&refresh_token=7b711d0f968b39a1ca588e42fd83f6e5&shp=b59d6b55&shcp=-",
+            "isCommerce": false
+          },
+          {
+            "id": "1647746061443078",
+            "title": "bookrecs",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "42164",
+            "title": "foryou",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "88764338",
+            "title": "foryoupage",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "1602735447553030",
+            "title": "kindleunlimited",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 4085,
+          "shareCount": 133,
+          "commentCount": 173,
+          "playCount": 39700,
+          "collectCount": 1947
+        },
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 34,
+            "end": 42,
+            "hashtagName": "booktok",
+            "hashtagId": "1622962893630470",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 43,
+            "end": 49,
+            "hashtagName": "books",
+            "hashtagId": "17861",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 50,
+            "end": 58,
+            "hashtagName": "romance",
+            "hashtagId": "57155",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 59,
+            "end": 72,
+            "hashtagName": "romancebooks",
+            "hashtagId": "80879614",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 73,
+            "end": 81,
+            "hashtagName": "reading",
+            "hashtagId": "10705",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 82,
+            "end": 93,
+            "hashtagName": "fyp\u30b7\u309aviral",
+            "hashtagId": "1664119477821441",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 94,
+            "end": 114,
+            "hashtagName": "bookrecommendations",
+            "hashtagId": "58993759",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 115,
+            "end": 124,
+            "hashtagName": "bookrecs",
+            "hashtagId": "1647746061443078",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 125,
+            "end": 132,
+            "hashtagName": "foryou",
+            "hashtagId": "42164",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 133,
+            "end": 144,
+            "hashtagName": "foryoupage",
+            "hashtagId": "88764338",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 145,
+            "end": 161,
+            "hashtagName": "kindleunlimited",
+            "hashtagId": "1602735447553030",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 68,
+          "followerCount": 31000,
+          "heartCount": 290600,
+          "videoCount": 133,
+          "diggCount": 2539,
+          "heart": 290600
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 9,
+            "stickerText": [
+              "6 books that had me violently sobbing\ud83e\udee0"
+            ]
+          }
+        ],
+        "isAd": false,
+        "collected": false
+      }
+    ],
+    "has_more": 1,
+    "cursor": 84,
+    "extra": {
+      "now": 1721704722000,
+      "logid": "202407230318420517E3D507A0B7002F76",
+      "fatal_item_ids": [],
+      "search_request_id": "",
+      "api_debug_info": null
+    },
+    "log_pb": {
+      "impr_id": "202407230318420517E3D507A0B7002F76"
+    },
+    "backtrace": ""
+  }
+}

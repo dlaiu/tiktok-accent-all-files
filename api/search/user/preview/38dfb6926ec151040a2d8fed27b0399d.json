@@ -1,0 +1,82 @@
+{
+  "url": "https://www.tiktok.com/api/search/user/preview/?WebIdLastTime=1721609789&abTestVersion=%5Bobject%20Object%5D&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=false&device_id=7394257707659789866&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&history_list=%255B%255D&is_fullscreen=false&is_page_visible=true&keyword=%23grwm&odinId=7394257720822465578&os=mac&priority_region=&referer=&region=US&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=false&webcast_language=en&msToken=lWB7-Ab8KdgkrqbBs8itYh60EKR3nIa4WKYA24-KuAn8B3pPyd04hRXVL8RnaLa8bPtUk4DAOaDc6fpGLpqb_z9g4wyPTId_surN_i7RrQn5A0_EGtNXflRQLmrv&X-Bogus=DFSzswVOaE0ANnfOtwbO6QIm4Liv&_signature=_02B4Z6wo00001lREX1AAAIDDtI-Ug.iHwzJURFvAAPOb48",
+  "query": {
+    "WebIdLastTime": "1721609789",
+    "abTestVersion": "[object Object]",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "false",
+    "device_id": "7394257707659789866",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "history_list": "%5B%5D",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#grwm",
+    "odinId": "7394257720822465578",
+    "os": "mac",
+    "region": "US",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "false",
+    "webcast_language": "en",
+    "msToken": "lWB7-Ab8KdgkrqbBs8itYh60EKR3nIa4WKYA24-KuAn8B3pPyd04hRXVL8RnaLa8bPtUk4DAOaDc6fpGLpqb_z9g4wyPTId_surN_i7RrQn5A0_EGtNXflRQLmrv",
+    "X-Bogus": "DFSzswVOaE0ANnfOtwbO6QIm4Liv",
+    "_signature": "_02B4Z6wo00001lREX1AAAIDDtI-Ug.iHwzJURFvAAPOb48"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "210",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:56:31 GMT",
+    "expires": "Mon, 22 Jul 2024 00:56:31 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=122, cdn-cache; desc=MISS, edge; dur=0, origin; dur=132",
+    "set-cookie": "msToken=rv-mBBau9dJTBHcXoWRLQB-lPuCMZNeUIhYPlciayGYvaTal5xGGXTdCKkHdJvcz8vu0jttVXoNZsvYyz0hqSyyrWdHwINf7GAn0ZGUo0hS5CA7GLDVDIudDncOy; Path=/; Domain=tiktok.com; Expires=Thu, 01 Aug 2024 00:56:31 GMT; Secure; SameSite=None",
+    "status_code": "0",
+    "tt_stable": "1",
+    "x-akamai-request-id": "ff213b30",
+    "x-cache": "TCP_MISS from a23-46-181-238.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-ms-token": "rv-mBBau9dJTBHcXoWRLQB-lPuCMZNeUIhYPlciayGYvaTal5xGGXTdCKkHdJvcz8vu0jttVXoNZsvYyz0hqSyyrWdHwINf7GAn0ZGUo0hS5CA7GLDVDIudDncOy",
+    "x-origin-response-time": "132,23.46.181.238",
+    "x-tt-logid": "2024072200563121C33C528FEA93670AA2",
+    "x-tt-trace-host": "017eaf98766d0ed7fc2bfe56d4dec7e0050a9fdae6d7484d8295edb857002ac13590edbf24393d7d5b6afb5a27119889f97f7bb90894899e001ab29441782762d11a1c316f0b3e370b9963485aa2d53064baa6d69447b646153209d03cc087101f",
+    "x-tt-trace-id": "00-24072200563121C33C528FEA93670AA2-3FDD91A2635A01D9-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "sug_list": [],
+    "status_code": 0,
+    "status_msg": "",
+    "rid": "2024072200563121C33C528FEA93670AA2",
+    "words_query_record": {
+      "info": "{}",
+      "words_source": "sug",
+      "query_id": ""
+    },
+    "extra": {
+      "now": 1721609791000,
+      "logid": "2024072200563121C33C528FEA93670AA2",
+      "fatal_item_ids": [],
+      "search_request_id": "",
+      "api_debug_info": null
+    },
+    "log_pb": {
+      "impr_id": "2024072200563121C33C528FEA93670AA2"
+    }
+  }
+}

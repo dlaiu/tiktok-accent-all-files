@@ -1,0 +1,92 @@
+{
+  "url": "https://www.tiktok.com/api/user/settings/?WebIdLastTime=1721704664&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394665193415919146&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT&webcast_language=en&msToken=M2lMm8MnIDFLdxfb5oOdKcTHaoIzK6cM-yT_m7ylfud8BeAYLddhUlLRXw9ZMTJ-Qhddn6F8mTwhineTKXipH_pTtwFRxpcbAX5KsljAudjFUKk-jnofApQJVTex&X-Bogus=DFSzswVO82TANnfOtwFb-cIm4L7b&_signature=_02B4Z6wo00001ihcCNgAAIDDyJfDCbhvR5IoXAxAAOyWca",
+  "query": {
+    "WebIdLastTime": "1721704664",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394665193415919146",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT",
+    "webcast_language": "en",
+    "msToken": "M2lMm8MnIDFLdxfb5oOdKcTHaoIzK6cM-yT_m7ylfud8BeAYLddhUlLRXw9ZMTJ-Qhddn6F8mTwhineTKXipH_pTtwFRxpcbAX5KsljAudjFUKk-jnofApQJVTex",
+    "X-Bogus": "DFSzswVO82TANnfOtwFb-cIm4L7b",
+    "_signature": "_02B4Z6wo00001ihcCNgAAIDDyJfDCbhvR5IoXAxAAOyWca"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "282",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Tue, 23 Jul 2024 03:18:24 GMT",
+    "expires": "Tue, 23 Jul 2024 03:18:24 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=61, cdn-cache; desc=MISS, edge; dur=3, origin; dur=87",
+    "tt_stable": "1",
+    "x-akamai-request-id": "5ce6d15",
+    "x-cache": "TCP_MISS from a23-44-130-212.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "87,23.44.130.212",
+    "x-tt-logid": "20240723031824174618BB03FD4A006730",
+    "x-tt-trace-host": "01e9c3ac1129cac96f8806772cc2e811bf9c1bb38c30c330a99386de602e6a5cf84ed49b22e08a46386af93bfb5139377c89368b0923edaf48001447611e439a6342c97c55608be1b09da623b872dfd3b9ae33b778c52128dc958d149269e25656",
+    "x-tt-trace-id": "00-240723031824174618BB03FD4A006730-515800152E094E0A-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240723031824174618BB03FD4A006730",
+      "now": 1721704704000
+    },
+    "log_pb": {
+      "impr_id": "20240723031824174618BB03FD4A006730"
+    },
+    "settings": {
+      "adAuthorization": false,
+      "imSet": 2,
+      "privateAccount": false,
+      "proAccountStatus": 0,
+      "pushSettings": {
+        "commentPush": 1,
+        "diggPush": 1,
+        "followNewVideoPush": 1,
+        "followPush": 1,
+        "imPush": 1,
+        "liveInnerPush": 1,
+        "livePush": 1,
+        "mentionPush": 1,
+        "noticeWebappPush": 1,
+        "otherChannel": 1,
+        "recommendVideoPush": 1
+      },
+      "tcmSetting": 0
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": ""
+  }
+}

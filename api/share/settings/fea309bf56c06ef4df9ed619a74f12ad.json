@@ -1,0 +1,117 @@
+{
+  "url": "https://www.tiktok.com/api/share/settings/?WebIdLastTime=1718998624&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&device_id=7383042800658548255&device_platform=webapp_pc&focus_state=true&from_page=user&history_len=2&is_fullscreen=false&is_page_visible=true&mode=1&odinId=7383042859442504734&os=mac&priority_region=&referer=&region=US&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1718998624",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "device_id": "7383042800658548255",
+    "device_platform": "webapp_pc",
+    "focus_state": "true",
+    "from_page": "user",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "mode": "1",
+    "odinId": "7383042859442504734",
+    "os": "mac",
+    "region": "US",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "306",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Fri, 21 Jun 2024 19:37:06 GMT",
+    "expires": "Fri, 21 Jun 2024 19:37:06 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=63, cdn-cache; desc=MISS, edge; dur=5, origin; dur=90",
+    "tt_stable": "1",
+    "x-akamai-request-id": "5153a242",
+    "x-cache": "TCP_MISS from a104-120-210-174.deploy.akamaitechnologies.com (AkamaiGHost/11.5.3-56950534) (-)",
+    "x-origin-response-time": "91,104.120.210.174",
+    "x-tt-logid": "20240621193706001233D0A8846B021E31",
+    "x-tt-trace-host": "013d07bcedce0bcec3f4ebc29ffc47c38b65690e27731aa38e46bf2ca3c209b06eee7c8b76b9c66de0c9c7962dfb562285e431c408620f7bc8a1a70720e8c8ff1c1884ca2829a214e462a3a7782967a8265c7be8be70525a8e44d2fbc7966701b7",
+    "x-tt-trace-id": "00-240621193706001233D0A8846B021E31-66A5A37568CF457D-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240621193706001233D0A8846B021E31",
+      "now": 1718998626000
+    },
+    "log_pb": {
+      "impr_id": "20240621193706001233D0A8846B021E31"
+    },
+    "share_platforms": [
+      {
+        "platform_id": "repost",
+        "platform_name": "Repost"
+      },
+      {
+        "platform_id": "embed",
+        "platform_name": "embed"
+      },
+      {
+        "platform_id": "message",
+        "platform_name": "Message"
+      },
+      {
+        "platform_id": "whatsapp",
+        "platform_name": "WhatsApp"
+      },
+      {
+        "platform_id": "facebook",
+        "platform_name": "Facebook"
+      },
+      {
+        "platform_id": "twitter",
+        "platform_name": "Twitter"
+      },
+      {
+        "platform_id": "copy",
+        "platform_name": "COPY"
+      },
+      {
+        "platform_id": "telegram",
+        "platform_name": "telegram"
+      },
+      {
+        "platform_id": "linkedin",
+        "platform_name": "LinkedIn"
+      },
+      {
+        "platform_id": "reddit",
+        "platform_name": "Reddit"
+      },
+      {
+        "platform_id": "pinterest",
+        "platform_name": "Pinterest"
+      },
+      {
+        "platform_id": "line",
+        "platform_name": "Line"
+      },
+      {
+        "platform_id": "email",
+        "platform_name": "Email"
+      }
+    ],
+    "status_code": 0,
+    "status_msg": ""
+  }
+}

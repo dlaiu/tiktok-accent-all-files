@@ -1,0 +1,70 @@
+{
+  "url": "https://www.tiktok.com/api/policy/notice/?WebIdLastTime=1721688006&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=false&device_id=7394593634543289899&device_platform=web_pc&focus_state=true&from_page=hashtag&history_len=2&is_fullscreen=false&is_page_visible=true&locale=en&odinId=7394593647759868970&os=mac&priority_region=&referer=&region=US&scene=0&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=false&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721688006",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "false",
+    "device_id": "7394593634543289899",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "hashtag",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "locale": "en",
+    "odinId": "7394593647759868970",
+    "os": "mac",
+    "region": "US",
+    "scene": "0",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "false",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "140",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 22:40:07 GMT",
+    "expires": "Mon, 22 Jul 2024 22:40:07 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=10, origin; dur=69, inner; dur=59",
+    "status_code": "0",
+    "tt_stable": "1",
+    "x-akamai-request-id": "522da77e.f4250bf",
+    "x-cache": "TCP_MISS from a23-46-181-234.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-cache-remote": "TCP_MISS from a23-52-15-164.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "69,23.52.15.164",
+    "x-parent-response-time": "79,23.46.181.234",
+    "x-tt-logid": "20240722224007831B7230BEA2E611F9E8",
+    "x-tt-trace-host": "01ee097bab2653f5fdbfd24330a6edd8d86cbe360e43c977eb8ca12fc426f32c49924ec00b4e21a68111d0196a82472560974c826a3044086ebe1a07c80015d56de4d00b7bf976a69a7d80dc0f24c121f5175418e3ccce482ae30a98b9a88a0bfec900155c182a2e5f12977566883afb17",
+    "x-tt-trace-id": "00-240722224007831B7230BEA2E611F9E8-576DA83A1CC3D9CB-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "policy_notices": null,
+    "extra": {
+      "now": 1721688007000,
+      "fatal_item_ids": [],
+      "logid": "20240722224007831B7230BEA2E611F9E8"
+    },
+    "log_pb": {
+      "impr_id": "20240722224007831B7230BEA2E611F9E8"
+    },
+    "status_code": 0,
+    "status_msg": ""
+  }
+}

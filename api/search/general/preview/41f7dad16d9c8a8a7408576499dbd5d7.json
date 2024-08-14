@@ -1,0 +1,353 @@
+{
+  "url": "https://www.tiktok.com/api/search/general/preview/?WebIdLastTime=1721704664&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394665193415919146&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&keyword=%23bookrecs&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523bookrecs%26t%3D1721704486323&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721704664",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394665193415919146",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#bookrecs",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search/video?q=%23bookrecs&t=1721704486323",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyxui95n_tkeYqbY6_vRL5_4oxt_9sdU_zi7GUwT0ouKT",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "1275",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Tue, 23 Jul 2024 03:18:25 GMT",
+    "expires": "Tue, 23 Jul 2024 03:18:25 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=346, cdn-cache; desc=MISS, edge; dur=0, origin; dur=370",
+    "set-cookie": "msToken=lp5AO0Xd6XgIAqYBye2UaCCwTL8piVEVDuBVuMcjzsgEUi2jxPUCWgTcgcV6VJ-NuJF3FD5bOI1efzcpBnMbjVhdAGjm6QHYZdN9hQwx66xVDYeiGOJ4iY1JrY-m; Path=/; Domain=tiktok.com; Expires=Fri, 02 Aug 2024 03:18:24 GMT; Secure; SameSite=None",
+    "status_code": "0",
+    "tt_stable": "1",
+    "x-akamai-request-id": "5ce6c67",
+    "x-cache": "TCP_MISS from a23-44-130-212.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-ms-token": "lp5AO0Xd6XgIAqYBye2UaCCwTL8piVEVDuBVuMcjzsgEUi2jxPUCWgTcgcV6VJ-NuJF3FD5bOI1efzcpBnMbjVhdAGjm6QHYZdN9hQwx66xVDYeiGOJ4iY1JrY-m",
+    "x-origin-response-time": "370,23.44.130.212",
+    "x-tt-logid": "20240723031824C52FE08F588CEE003050",
+    "x-tt-trace-host": "01e9c3ac1129cac96f8806772cc2e811bf9c1bb38c30c330a99386de602e6a5cf84ca337f5e909932090dc410a6140e3832fb61dc3aa0e00b1f6627e26726120ae447823dc955de5f9b429fb5ea8946d9887e7dc96807e414e28c02c0c86c08a66",
+    "x-tt-trace-id": "00-240723031824C52FE08F588CEE003050-3FB797F143CDDD81-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "sug_list": [
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "begin": 9,
+            "end": 9
+          }
+        ],
+        "content": "book rec slideshows",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "2911442393585397529",
+          "words_position": 0,
+          "words_content": "book rec slideshows",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"book\",\"rec\",\"slide\",\"shows\"]",
+          "is_history_sug": "0",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_index_active_7d_query|tiktok_orion_search_session|tiktok_index_global_active_7d_query|tiktok_orion_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "begin": 5,
+            "end": 8
+          }
+        ],
+        "content": "book recs for 2024",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "5197872823612207167",
+          "words_position": 1,
+          "words_content": "book recs for 2024",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"book\",\"recs\",\"for\",\"2024\"]",
+          "is_history_sug": "0",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session|tiktok_index_active_7d_query|tiktok_orion_rewrite|tiktok_index_global_active_7d_query|tiktok_orion_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "begin": 12,
+            "end": 13
+          }
+        ],
+        "content": "booktok slideshow",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "4994359846034850182",
+          "words_position": 2,
+          "words_content": "booktok slideshow",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"booktok\",\"slide\",\"show\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "begin": 9,
+            "end": 9
+          }
+        ],
+        "content": "book rec scenario",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "494097937991200045",
+          "words_position": 3,
+          "words_content": "book rec scenario",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"book\",\"rec\",\"scenario\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_query|tiktok_orion_search_session"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "begin": 5,
+            "end": 8
+          }
+        ],
+        "content": "book recs",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "8061608725647642196",
+          "words_position": 4,
+          "words_content": "book recs",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"book\",\"recs\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session|tiktok_orion_query|tiktok_index_global_active_7d_query|tiktok_orion_rewrite|tiktok_index_active_7d_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "begin": 5,
+            "end": 8
+          }
+        ],
+        "content": "book recs mystery",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "1972177885754588514",
+          "words_position": 5,
+          "words_content": "book recs mystery",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"book\",\"recs\",\"mystery\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_rewrite|tiktok_orion_query|tiktok_index_global_active_7d_query|tiktok_index_active_7d_query|tiktok_orion_search_session"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "begin": 5,
+            "end": 8
+          }
+        ],
+        "content": "book recs fantasy",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "6825965067701939335",
+          "words_position": 6,
+          "words_content": "book recs fantasy",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"book\",\"recs\",\"fantasy\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session|tiktok_index_active_7d_query|tiktok_orion_rewrite|tiktok_index_global_active_7d_query|tiktok_orion_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "begin": 5,
+            "end": 8
+          }
+        ],
+        "content": "book recs thrillers",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "1599965992880588791",
+          "words_position": 7,
+          "words_content": "book recs thrillers",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"book\",\"recs\",\"thrillers\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_index_active_7d_query|tiktok_orion_rewrite|tiktok_orion_search_session|tiktok_index_global_active_7d_query|tiktok_orion_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 7
+          }
+        ],
+        "content": "bookrecsbyme",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "696378544482351188",
+          "words_position": 8,
+          "words_content": "bookrecsbyme",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"book\",\"recs\",\"by\",\"me\"]",
+          "is_personalized": "1",
+          "is_rich_sug": "1",
+          "is_verified": false,
+          "lang": "en",
+          "nickname": "Bookrecsbyme",
+          "recall_reason": "tiktok_index_active_7d_query|tiktok_orion_search_session|tiktok_index_global_active_7d_query|tiktok_orion_query",
+          "relation_type": "",
+          "rich_sug_avatar_uri": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7348655418698121262~c5_300x300.webp?lk3s=a5d48078&nonce=29236&refresh_token=e9b5e8c2e3000af90c8f4c2d46e7ebf4&x-expires=1721876400&x-signature=Me40rHFWUrFGU4eUQDEV3YYuW1Y%3D&shp=a5d48078&shcp=c1333099",
+          "rich_sug_nickname": "Bookrecsbyme",
+          "rich_sug_type": "1",
+          "rich_sug_user_type": "-1",
+          "sug_sec_user_id": "MS4wLjABAAAA7vwGgGupUVHtDK7DHG74yfSZosZ7Y0U7AN6mSI4uLO7p73RoIfSuaoC7SW4BGfip",
+          "sug_uniq_id": "bookrecsbyme",
+          "sug_user_id": "7013410169791464454",
+          "unique_id": "bookrecsbyme"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "rid": "20240723031824C52FE08F588CEE003050",
+    "words_query_record": {
+      "info": "{}",
+      "words_source": "sug",
+      "query_id": ""
+    },
+    "extra": {
+      "now": 1721704705000,
+      "logid": "20240723031824C52FE08F588CEE003050",
+      "fatal_item_ids": [],
+      "search_request_id": "",
+      "api_debug_info": null
+    },
+    "log_pb": {
+      "impr_id": "20240723031824C52FE08F588CEE003050"
+    },
+    "user_input_query": "#bookrecs"
+  }
+}

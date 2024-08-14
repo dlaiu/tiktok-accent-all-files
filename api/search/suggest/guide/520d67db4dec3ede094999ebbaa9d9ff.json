@@ -1,0 +1,107 @@
+{
+  "url": "https://www.tiktok.com/api/search/suggest/guide/?WebIdLastTime=1721766876&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394932356064249375&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&keyword=%23storytime&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523storytime%26t%3D1721766436820&region=US&req_source=related_search&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%2Fvideo%3Fq%3D%2523storytime%26t%3D1721766436820&screen_height=720&screen_width=1280&search_source=video&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyyvjohq_2XiG0N0y_KwIL_4Y0m_Av8w_cF3bhStqC4Up&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721766876",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394932356064249375",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#storytime",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search/video?q=%23storytime&t=1721766436820",
+    "region": "US",
+    "req_source": "related_search",
+    "root_referer": "https://www.tiktok.com/search/video?q=%23storytime&t=1721766436820",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "search_source": "video",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyyvjohq_2XiG0N0y_KwIL_4Y0m_Av8w_cF3bhStqC4Up",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "371",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Tue, 23 Jul 2024 20:35:27 GMT",
+    "expires": "Tue, 23 Jul 2024 20:35:27 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=207, cdn-cache; desc=MISS, edge; dur=1, origin; dur=228",
+    "set-cookie": "odin_tt=ea08db9455fc7bd4644ddf65347e6a7bf9d44ea750cb7f460ee83d875db934fa2310008cfb40e33e2d523c9a41171de4251d710da622969fa531dcba03b2d381f4e15c11c7e1a1fb6145311bd55256b7; max-age=31536000; domain=tiktok.com; path=/; HttpOnly",
+    "tt_stable": "1",
+    "use_hertz": "1",
+    "x-akamai-request-id": "b6c8bcf6",
+    "x-cache": "TCP_MISS from a23-46-181-229.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "228,23.46.181.229",
+    "x-tt-logid": "20240723203526187D352D8EA044141EAF",
+    "x-tt-trace-host": "011a21076764a8041cf0bdee9ebea44a4cec9855eebb1baba79cf953556d1be26df840bffcbc8ad16762b3b748365fcf97017b64aa2fb9d1292c7df82337c9590445d397afd93e7e95fba4b338a1bd4177ff805d1b154405db6cde19fae1bf5e00",
+    "x-tt-trace-id": "00-240723203526187D352D8EA044141EAF-69AA63223C4FD566-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "data": [
+      {
+        "word": "Crazy Storytimes",
+        "group_id": "5694569206569012612"
+      },
+      {
+        "word": "story time guy",
+        "group_id": "7324694384393548692"
+      },
+      {
+        "word": "10 minute storytime",
+        "group_id": "3888201920104351678"
+      },
+      {
+        "word": "Dating Story Time",
+        "group_id": "996158829213497288"
+      },
+      {
+        "word": "Makeup Storytime",
+        "group_id": "3262026617699162418"
+      },
+      {
+        "word": "When It's Time",
+        "group_id": "7261210076624900685"
+      },
+      {
+        "word": "My Story Animated Edits",
+        "group_id": "7199397610028189659"
+      },
+      {
+        "word": "wife surprising her husband part 3 story time",
+        "group_id": "271165164899952539"
+      },
+      {
+        "word": "Story Ideas",
+        "group_id": "6245196067658496655"
+      },
+      {
+        "word": "part 2 story time",
+        "group_id": "8320560341122962594"
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "log_id": "20240723203526187D352D8EA044141EAF"
+  }
+}

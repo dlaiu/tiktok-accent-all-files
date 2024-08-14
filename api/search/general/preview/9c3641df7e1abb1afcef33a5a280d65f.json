@@ -1,0 +1,277 @@
+{
+  "url": "https://www.tiktok.com/api/search/general/preview/?WebIdLastTime=1721608951&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394254104598545963&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&keyword=%23grwm&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyw9isnz_53lBQqrD_ektV_4SuR_AWR6_GkUWpkuvUJKn&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721608951",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394254104598545963",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#grwm",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyw9isnz_53lBQqrD_ektV_4SuR_AWR6_GkUWpkuvUJKn",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "875",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:43:03 GMT",
+    "expires": "Mon, 22 Jul 2024 00:43:03 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=219, cdn-cache; desc=MISS, edge; dur=4, origin; dur=251",
+    "set-cookie": "msToken=uR4lhTLRR1lBNNdmOXSXohf-if9kyYWSApcjECfthtMgdfqyzzQmXgPbH5-_guilNmAXi83iSlLTs27XmZLeKSBhgHozdWl-2fQux7jNdBQ-TF5PeCOhgHE_R0E=; Path=/; Domain=tiktok.com; Expires=Thu, 01 Aug 2024 00:43:03 GMT; Secure; SameSite=None",
+    "status_code": "0",
+    "tt_stable": "1",
+    "x-akamai-request-id": "463ce6fa",
+    "x-cache": "TCP_MISS from a23-44-130-204.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-ms-token": "uR4lhTLRR1lBNNdmOXSXohf-if9kyYWSApcjECfthtMgdfqyzzQmXgPbH5-_guilNmAXi83iSlLTs27XmZLeKSBhgHozdWl-2fQux7jNdBQ-TF5PeCOhgHE_R0E=",
+    "x-origin-response-time": "251,23.44.130.204",
+    "x-tt-logid": "202407220043033F0EC5AC7172BBA2508A",
+    "x-tt-trace-host": "017eaf98766d0ed7fc2bfe56d4dec7e005dd171169c53a04ed150343854bacd7fc77ad500be0ed1312c543a4f96c51fee8a2746503751afa252c8f0ccca21a89cb4c0ba7b891960552ffd400f8042ca17a1eb66658cc8cb884adf91a0b0a26159c",
+    "x-tt-trace-id": "00-2407220043033F0EC5AC7172BBA2508A-421B9C736B6B43E5-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "sug_list": [
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          }
+        ],
+        "content": "grwm for school",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "1845156069405652316",
+          "words_position": 0,
+          "words_content": "grwm for school",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"grwm\",\"for\",\"school\"]",
+          "is_history_sug": "0",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_index_active_7d_query|orion_qse_recall|tiktok_index_global_active_7d_query|tiktok_orion_query|tiktok_orion_search_session"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          }
+        ],
+        "content": "grwm black girl",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "135841393996097892",
+          "words_position": 1,
+          "words_content": "grwm black girl",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"grwm\",\"black\",\"girl\"]",
+          "is_history_sug": "0",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session|tiktok_index_active_7d_query|orion_qse_recall|tiktok_orion_query|tiktok_index_global_active_7d_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          }
+        ],
+        "content": "grwm first day of school",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "6011766419749558221",
+          "words_position": 2,
+          "words_content": "grwm first day of school",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"grwm\",\"first\",\"day\",\"of\",\"school\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_query|tiktok_index_global_active_7d_query|orion_qse_recall|tiktok_index_active_7d_query|tiktok_orion_search_session"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          }
+        ],
+        "content": "grwm storytime",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "3538116486161545176",
+          "words_position": 3,
+          "words_content": "grwm storytime",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"grwm\",\"storytime\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_query|tiktok_index_global_active_7d_query|tiktok_orion_search_session|tiktok_index_active_7d_query|orion_qse_recall"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          }
+        ],
+        "content": "grwm morning routine",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "5726833076962093050",
+          "words_position": 4,
+          "words_content": "grwm morning routine",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"grwm\",\"morning\",\"routine\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "query_xlmr_viking_proxy_recall|tiktok_orion_search_session|tiktok_orion_query|tiktok_index_global_active_7d_query|orion_qse_recall|tiktok_index_active_7d_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          }
+        ],
+        "content": "grwm boy edition",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "8930333089349986111",
+          "words_position": 5,
+          "words_content": "grwm boy edition",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"grwm\",\"boy\",\"edition\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session|orion_qse_recall|tiktok_index_active_7d_query|tiktok_orion_query|tiktok_index_global_active_7d_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          }
+        ],
+        "content": "grwm for the day",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "5406632875033882400",
+          "words_position": 6,
+          "words_content": "grwm for the day",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"grwm\",\"for\",\"the\",\"day\"]",
+          "is_personalized": "1",
+          "lang": "en",
+          "recall_reason": "tiktok_orion_search_session|tiktok_orion_query|tiktok_index_global_active_7d_query|query_xlmr_viking_proxy_recall|tiktok_index_active_7d_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      },
+      {
+        "pos": [
+          {
+            "begin": 0,
+            "end": 3
+          }
+        ],
+        "content": "grwm para la escuela",
+        "sug_type": "",
+        "word_record": {
+          "group_id": "9018999031671560627",
+          "words_position": 7,
+          "words_content": "grwm para la escuela",
+          "words_source": "sug"
+        },
+        "extra_info": {
+          "cut_query": "[\"grwm\",\"para\",\"la\",\"escuela\"]",
+          "is_personalized": "1",
+          "lang": "es",
+          "recall_reason": "tiktok_orion_search_session|orion_qse_recall|tiktok_index_active_7d_query|tiktok_orion_query|tiktok_index_global_active_7d_query"
+        },
+        "rich_sug_sec_pos": null,
+        "highlight_pos": null
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "rid": "202407220043033F0EC5AC7172BBA2508A",
+    "words_query_record": {
+      "info": "{}",
+      "words_source": "sug",
+      "query_id": ""
+    },
+    "extra": {
+      "now": 1721608983000,
+      "logid": "202407220043033F0EC5AC7172BBA2508A",
+      "fatal_item_ids": [],
+      "search_request_id": "",
+      "api_debug_info": null
+    },
+    "log_pb": {
+      "impr_id": "202407220043033F0EC5AC7172BBA2508A"
+    },
+    "user_input_query": "#grwm"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://www.tiktok.com/api/search/suggest/guide/?WebIdLastTime=1721608951&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394254104598545963&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&keyword=%23grwm&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&region=US&req_source=related_search&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&screen_height=720&screen_width=1280&search_source=general&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyw9isnz_53lBQqrD_ektV_4SuR_AWR6_GkUWpkuvUJKn&webcast_language=en",
+  "query": {
+    "WebIdLastTime": "1721608951",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394254104598545963",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "keyword": "#grwm",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "region": "US",
+    "req_source": "related_search",
+    "root_referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "search_source": "general",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyw9isnz_53lBQqrD_ektV_4SuR_AWR6_GkUWpkuvUJKn",
+    "webcast_language": "en"
+  },
+  "headers": {
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "344",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:43:03 GMT",
+    "expires": "Mon, 22 Jul 2024 00:43:03 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=224, cdn-cache; desc=MISS, edge; dur=5, origin; dur=309",
+    "set-cookie": "odin_tt=fa28ba452225444a7908e41a320e8039bfad02033e84ac7d3e13ffcaf631b12afb762713485e94dd56c4e4d8b13d4caaf5e6ecfc3c23312aeb7e1306381e80df98eda30c889b9e19e0469b74e1a6b385; max-age=31536000; domain=tiktok.com; path=/; HttpOnly",
+    "tt_stable": "1",
+    "use_hertz": "1",
+    "x-akamai-request-id": "463cdf31",
+    "x-cache": "TCP_MISS from a23-44-130-204.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "309,23.44.130.204",
+    "x-tt-logid": "202407220043023F0EC5AC7172BBA25080",
+    "x-tt-trace-host": "017eaf98766d0ed7fc2bfe56d4dec7e005dd171169c53a04ed150343854bacd7fc77ad500be0ed1312c543a4f96c51fee8bfda406e675d48ce910945131b78ab90935d6d6f640d9a51d84e7ca8593010e52762db7ed8dd35e8985ee50e7dc5aca2",
+    "x-tt-trace-id": "00-2407220043023F0EC5AC7172BBA25080-0A839FF35752482C-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "data": [
+      {
+        "word": "rich girl grwm",
+        "group_id": "2211441930362284997"
+      },
+      {
+        "word": "preppy grwm",
+        "group_id": "5718239575225153699"
+      },
+      {
+        "word": "grwm outfits",
+        "group_id": "237139017643431740"
+      },
+      {
+        "word": "grwm storytime",
+        "group_id": "3538116486161545176"
+      },
+      {
+        "word": "grwm for school",
+        "group_id": "1845156069405652316"
+      },
+      {
+        "word": "grwm in class",
+        "group_id": "8440920211345841943"
+      },
+      {
+        "word": "grwm teenage edition",
+        "group_id": "6771833375674086153"
+      },
+      {
+        "word": "grwm black girl edition",
+        "group_id": "6315164653004611589"
+      },
+      {
+        "word": "how old is harper grwm girl",
+        "group_id": "8054116869641635509"
+      },
+      {
+        "word": "how tall is harper grwm",
+        "group_id": "5363080013671267029"
+      }
+    ],
+    "status_code": 0,
+    "status_msg": "",
+    "log_id": "202407220043023F0EC5AC7172BBA25080"
+  }
+}

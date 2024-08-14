@@ -1,0 +1,92 @@
+{
+  "url": "https://www.tiktok.com/api/user/settings/?WebIdLastTime=1721608951&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=MacIntel&browser_version=5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&data_collection_enabled=true&device_id=7394254104598545963&device_platform=web_pc&focus_state=true&from_page=search&history_len=2&is_fullscreen=false&is_page_visible=true&odinId=7357040522619470894&os=mac&priority_region=US&referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2Fsearch%3Fq%3D%2523grwm%26t%3D1721608024799&screen_height=720&screen_width=1280&tz_name=America%2FNew_York&user_is_login=true&verifyFp=verify_lyw9isnz_53lBQqrD_ektV_4SuR_AWR6_GkUWpkuvUJKn&webcast_language=en&msToken=b0ajy9vJNlb9cnclHlOvgaP2GNDEI5TD4Fek7z0RMvlYeIzVoYKNOJG6oP6l81wvMPwh_WI7Y8p5AYz60_2Xl1yh-IBB7fhDnwMRqJlIERxCTsnalklunp4H1Hc=&X-Bogus=DFSzswVOoaUANnfOtwbFAQIm4L7t&_signature=_02B4Z6wo00001w5..WwAAIDC7rQ2vk1Np-cOf.nAAKUM94",
+  "query": {
+    "WebIdLastTime": "1721608951",
+    "aid": "1988",
+    "app_language": "en",
+    "app_name": "tiktok_web",
+    "browser_language": "en-GB",
+    "browser_name": "Mozilla",
+    "browser_online": "true",
+    "browser_platform": "MacIntel",
+    "browser_version": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "channel": "tiktok_web",
+    "cookie_enabled": "true",
+    "data_collection_enabled": "true",
+    "device_id": "7394254104598545963",
+    "device_platform": "web_pc",
+    "focus_state": "true",
+    "from_page": "search",
+    "history_len": "2",
+    "is_fullscreen": "false",
+    "is_page_visible": "true",
+    "odinId": "7357040522619470894",
+    "os": "mac",
+    "priority_region": "US",
+    "referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "region": "US",
+    "root_referer": "https://www.tiktok.com/search?q=%23grwm&t=1721608024799",
+    "screen_height": "720",
+    "screen_width": "1280",
+    "tz_name": "America/New_York",
+    "user_is_login": "true",
+    "verifyFp": "verify_lyw9isnz_53lBQqrD_ektV_4SuR_AWR6_GkUWpkuvUJKn",
+    "webcast_language": "en",
+    "msToken": "b0ajy9vJNlb9cnclHlOvgaP2GNDEI5TD4Fek7z0RMvlYeIzVoYKNOJG6oP6l81wvMPwh_WI7Y8p5AYz60_2Xl1yh-IBB7fhDnwMRqJlIERxCTsnalklunp4H1Hc=",
+    "X-Bogus": "DFSzswVOoaUANnfOtwbFAQIm4L7t",
+    "_signature": "_02B4Z6wo00001w5..WwAAIDC7rQ2vk1Np-cOf.nAAKUM94"
+  },
+  "headers": {
+    "bd-tt-error-code": "0",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-encoding": "br",
+    "content-length": "283",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Mon, 22 Jul 2024 00:43:03 GMT",
+    "expires": "Mon, 22 Jul 2024 00:43:03 GMT",
+    "pragma": "no-cache",
+    "server": "nginx",
+    "server-timing": "inner; dur=65, cdn-cache; desc=MISS, edge; dur=13, origin; dur=91",
+    "tt_stable": "1",
+    "x-akamai-request-id": "463ce95e",
+    "x-cache": "TCP_MISS from a23-44-130-204.deploy.akamaitechnologies.com (AkamaiGHost/11.5.4.1-57528572) (-)",
+    "x-origin-response-time": "91,23.44.130.204",
+    "x-tt-logid": "20240722004303A5231634D8A1AE8525BD",
+    "x-tt-trace-host": "017eaf98766d0ed7fc2bfe56d4dec7e005dd171169c53a04ed150343854bacd7fc0f693c7f52099b59a5bd6a5414ef8c9ecbb538da8683a31da6dac43caef3522ced678caf4107f2a69d3cac71deb10219abd11d4699d40946672aa600d8f79747",
+    "x-tt-trace-id": "00-240722004303A5231634D8A1AE8525BD-782696CF78066E2C-00",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn"
+  },
+  "data": {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240722004303A5231634D8A1AE8525BD",
+      "now": 1721608983000
+    },
+    "log_pb": {
+      "impr_id": "20240722004303A5231634D8A1AE8525BD"
+    },
+    "settings": {
+      "adAuthorization": false,
+      "imSet": 2,
+      "privateAccount": false,
+      "proAccountStatus": 0,
+      "pushSettings": {
+        "commentPush": 1,
+        "diggPush": 1,
+        "followNewVideoPush": 1,
+        "followPush": 1,
+        "imPush": 1,
+        "liveInnerPush": 1,
+        "livePush": 1,
+        "mentionPush": 1,
+        "noticeWebappPush": 1,
+        "otherChannel": 1,
+        "recommendVideoPush": 1
+      },
+      "tcmSetting": 0
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": ""
+  }
+}
